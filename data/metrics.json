@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-18T08:02:11+00:00",
+  "as_of": "2026-11-18T08:11:43+00:00",
   "window_days": [
     30,
     90
@@ -9,7 +9,7 @@
     "nexu-io/open-design": {
       "canonical_repo": "nexu-io/open-design",
       "url": "https://github.com/nexu-io/open-design",
-      "stars": 108180,
+      "stars": 108182,
       "forks": 12279,
       "archived": false,
       "disabled": false,
@@ -21,13 +21,13 @@
       "commits_30d": 112,
       "commits_90d": 533,
       "pushed_at": "2026-11-18T07:56:41Z",
-      "updated_at": "2026-11-18T07:57:48Z",
+      "updated_at": "2026-11-18T08:09:35Z",
       "latest_release": {
         "tagName": "open-design-v0.27.1",
         "publishedAt": "2026-11-10T03:03:29Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "github/replica": {
@@ -51,7 +51,7 @@
         "publishedAt": "2026-11-10T18:11:35Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "OpenCoworkAI/open-codesign": {
@@ -75,7 +75,7 @@
         "publishedAt": "2026-10-31T08:16:43Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "langchain-ai/design-agent": {
@@ -95,7 +95,7 @@
       "pushed_at": "2026-11-18T07:09:16Z",
       "updated_at": "2026-11-18T01:44:38Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "vercel-labs/fx0": {
@@ -115,13 +115,13 @@
       "pushed_at": "2026-11-18T03:56:31Z",
       "updated_at": "2026-11-18T03:15:13Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "open-pencil/open-pencil": {
       "canonical_repo": "open-pencil/open-pencil",
       "url": "https://github.com/open-pencil/open-pencil",
-      "stars": 9920,
+      "stars": 9921,
       "forks": 1081,
       "archived": false,
       "disabled": false,
@@ -132,14 +132,14 @@
       "last_commit_at": "2026-11-17T22:10:17Z",
       "commits_30d": 712,
       "commits_90d": 1496,
-      "pushed_at": "2026-11-18T07:57:54Z",
-      "updated_at": "2026-11-18T07:39:42Z",
+      "pushed_at": "2026-11-18T08:08:36Z",
+      "updated_at": "2026-11-18T08:10:56Z",
       "latest_release": {
         "tagName": "nightly",
         "publishedAt": "2026-11-16T19:45:15Z",
         "isPrerelease": true
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "ZSeven-W/openpencil": {
@@ -163,7 +163,7 @@
         "publishedAt": "2026-10-27T11:27:54Z",
         "isPrerelease": true
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "velloo-design/velloo": {
@@ -179,7 +179,7 @@
       "head_sha": "8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a",
       "last_commit_at": "2026-11-17T09:10:10Z",
       "commits_30d": 43,
-      "commits_90d": 345,
+      "commits_90d": 344,
       "pushed_at": "2026-11-17T09:17:11Z",
       "updated_at": "2026-11-12T16:04:34Z",
       "latest_release": {
@@ -187,7 +187,7 @@
         "publishedAt": "2026-09-14T08:55:14Z",
         "isPrerelease": true
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "onlook-dev/onlook": {
@@ -211,37 +211,37 @@
         "publishedAt": "2025-07-17T18:36:21Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "penpot/penpot": {
       "canonical_repo": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
-      "stars": 62493,
+      "stars": 62495,
       "forks": 4434,
       "archived": false,
       "disabled": false,
       "license_spdx": "MPL-2.0",
       "license_name": "Mozilla Public License 2.0",
       "default_branch": "develop",
-      "head_sha": "14abaf93f4ec220970b07e85e915446e7a11150d",
-      "last_commit_at": "2026-11-18T06:07:53Z",
-      "commits_30d": 524,
-      "commits_90d": 1418,
-      "pushed_at": "2026-11-18T06:07:53Z",
-      "updated_at": "2026-11-18T07:52:48Z",
+      "head_sha": "d403a661222849d7bd11a217de7c2d46df4f3fac",
+      "last_commit_at": "2026-11-18T08:07:22Z",
+      "commits_30d": 526,
+      "commits_90d": 1420,
+      "pushed_at": "2026-11-18T08:07:26Z",
+      "updated_at": "2026-11-18T08:07:09Z",
       "latest_release": {
         "tagName": "2.19.2",
         "publishedAt": "2026-11-16T11:59:19Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "emilkowalski/skills": {
       "canonical_repo": "emilkowalski/skills",
       "url": "https://github.com/emilkowalski/skills",
-      "stars": 57860,
+      "stars": 57861,
       "forks": 3396,
       "archived": false,
       "disabled": false,
@@ -253,15 +253,15 @@
       "commits_30d": 12,
       "commits_90d": 21,
       "pushed_at": "2026-11-15T12:42:50Z",
-      "updated_at": "2026-11-18T08:02:01Z",
+      "updated_at": "2026-11-18T08:10:21Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "pbakaus/impeccable": {
       "canonical_repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 112452,
+      "stars": 112458,
       "forks": 6703,
       "archived": false,
       "disabled": false,
@@ -273,20 +273,20 @@
       "commits_30d": 812,
       "commits_90d": 1730,
       "pushed_at": "2026-11-18T07:12:18Z",
-      "updated_at": "2026-11-18T08:01:32Z",
+      "updated_at": "2026-11-18T08:07:13Z",
       "latest_release": {
         "tagName": "cli-v4.9.2",
         "publishedAt": "2026-11-16T00:40:46Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "canonical_repo": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "stars": 151057,
-      "forks": 15955,
+      "stars": 151063,
+      "forks": 15956,
       "archived": false,
       "disabled": false,
       "license_spdx": "MIT",
@@ -297,13 +297,13 @@
       "commits_30d": 27,
       "commits_90d": 88,
       "pushed_at": "2026-11-18T07:17:25Z",
-      "updated_at": "2026-11-18T07:58:37Z",
+      "updated_at": "2026-11-18T08:09:24Z",
       "latest_release": {
         "tagName": "v2.15.0",
         "publishedAt": "2026-08-13T17:10:40Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "feimacode/open-design-agent-kit": {
@@ -327,13 +327,13 @@
         "publishedAt": "2026-11-08T00:48:12Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "JustineBijuPaul/frontend-ai-skills": {
       "canonical_repo": "JustineBijuPaul/frontend-ai-skills",
       "url": "https://github.com/JustineBijuPaul/frontend-ai-skills",
-      "stars": 10,
+      "stars": 11,
       "forks": 1,
       "archived": false,
       "disabled": false,
@@ -345,9 +345,9 @@
       "commits_30d": 0,
       "commits_90d": 86,
       "pushed_at": "2026-09-04T16:54:22Z",
-      "updated_at": "2026-11-17T20:09:25Z",
+      "updated_at": "2026-11-18T08:06:58Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "google-labs-code/design.md": {
@@ -371,14 +371,14 @@
         "publishedAt": "2026-07-27T21:15:16Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "VoltAgent/awesome-design-md": {
       "canonical_repo": "VoltAgent/awesome-design-md",
       "url": "https://github.com/VoltAgent/awesome-design-md",
-      "stars": 128037,
-      "forks": 14156,
+      "stars": 128038,
+      "forks": 14157,
       "archived": false,
       "disabled": false,
       "license_spdx": "MIT",
@@ -389,15 +389,15 @@
       "commits_30d": 3,
       "commits_90d": 8,
       "pushed_at": "2026-10-28T15:45:40Z",
-      "updated_at": "2026-11-18T08:00:29Z",
+      "updated_at": "2026-11-18T08:03:32Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "google-labs-code/stitch-skills": {
       "canonical_repo": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars": 10226,
+      "stars": 10228,
       "forks": 1335,
       "archived": false,
       "disabled": false,
@@ -409,19 +409,19 @@
       "commits_30d": 2,
       "commits_90d": 2,
       "pushed_at": "2026-11-18T05:00:25Z",
-      "updated_at": "2026-11-18T08:00:20Z",
+      "updated_at": "2026-11-18T08:09:08Z",
       "latest_release": {
         "tagName": "v1.0",
         "publishedAt": "2026-05-18T18:02:32Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "abi/screenshot-to-code": {
       "canonical_repo": "abi/screenshot-to-code",
       "url": "https://github.com/abi/screenshot-to-code",
-      "stars": 81282,
+      "stars": 81283,
       "forks": 9956,
       "archived": false,
       "disabled": false,
@@ -433,9 +433,9 @@
       "commits_30d": 4,
       "commits_90d": 6,
       "pushed_at": "2026-11-15T15:07:36Z",
-      "updated_at": "2026-11-18T04:54:39Z",
+      "updated_at": "2026-11-18T08:06:08Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "GLips/Figma-Context-MCP": {
@@ -459,7 +459,7 @@
         "publishedAt": "2026-06-18T16:38:25Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "grab/cursor-talk-to-figma-mcp": {
@@ -479,7 +479,7 @@
       "pushed_at": "2026-07-26T07:14:26Z",
       "updated_at": "2026-11-18T06:44:41Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "figma/mcp-server-guide": {
@@ -499,14 +499,14 @@
       "pushed_at": "2026-11-16T17:12:20Z",
       "updated_at": "2026-11-18T06:03:21Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "cathrynlavery/diagram-design": {
       "canonical_repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 68029,
-      "forks": 4565,
+      "stars": 68031,
+      "forks": 4566,
       "archived": false,
       "disabled": false,
       "license_spdx": "MIT",
@@ -517,9 +517,9 @@
       "commits_30d": 108,
       "commits_90d": 341,
       "pushed_at": "2026-11-12T21:14:19Z",
-      "updated_at": "2026-11-18T07:56:52Z",
+      "updated_at": "2026-11-18T08:06:58Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "yctimlin/mcp_excalidraw": {
@@ -543,7 +543,7 @@
         "publishedAt": "2026-11-10T10:59:29Z",
         "isPrerelease": false
       },
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "NoviScl/Design2Code": {
@@ -563,7 +563,7 @@
       "pushed_at": "2024-11-02T00:37:18Z",
       "updated_at": "2026-11-16T19:56:21Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "WebPAI/DesignBench": {
@@ -583,7 +583,7 @@
       "pushed_at": "2026-07-27T09:47:34Z",
       "updated_at": "2026-10-29T02:34:31Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "DAMO-NLP-SG/WebDesignAgent": {
@@ -603,7 +603,7 @@
       "pushed_at": "2024-09-20T15:49:46Z",
       "updated_at": "2026-08-18T20:20:53Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "superdesigndev/superdesign": {
@@ -623,7 +623,7 @@
       "pushed_at": "2026-06-29T04:55:32Z",
       "updated_at": "2026-11-17T23:52:52Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     },
     "penpot/penpot-mcp": {
@@ -643,7 +643,7 @@
       "pushed_at": "2026-03-19T12:45:10Z",
       "updated_at": "2026-11-16T22:47:48Z",
       "latest_release": null,
-      "collected_at": "2026-11-18T08:02:11+00:00",
+      "collected_at": "2026-11-18T08:11:43+00:00",
       "source": "https://api.github.com/graphql"
     }
   }
