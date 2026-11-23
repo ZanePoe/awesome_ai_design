@@ -1,30 +1,30 @@
 repo,name,category,scope,baseline,license,license_status,stars,commits_30d,commits_90d,last_commit_at,maintenance_status,score,as_of
-nexu-io/open-design,OpenDesign,studios,core,True,Apache-2.0,verified,108897,84,488,2026-11-21T06:40:19Z,近90天有提交,99.55,2026-11-22T10:16:09+00:00
-pbakaus/impeccable,Impeccable,skills,core,False,Apache-2.0,verified,114719,1205,2170,2026-11-18T21:58:19Z,近90天有提交,99.04,2026-11-22T10:16:09+00:00
-penpot/penpot,Penpot,canvas,core,False,MPL-2.0,verified,62627,564,1514,2026-11-20T17:56:41Z,近90天有提交,97.91,2026-11-22T10:16:09+00:00
-cathrynlavery/diagram-design,Diagram Design,diagrams,core,True,MIT,verified,70008,102,348,2026-11-22T01:44:53Z,近90天有提交,96.63,2026-11-22T10:16:09+00:00
-open-pencil/open-pencil,OpenPencil（open-pencil）,canvas,core,False,MIT,verified,10008,691,1551,2026-11-22T00:59:27Z,近90天有提交,91.9,2026-11-22T10:16:09+00:00
-ZSeven-W/openpencil,OpenPencil（ZSeven-W）,canvas,core,False,MIT,verified,7312,239,937,2026-11-22T09:49:40Z,近90天有提交,90.91,2026-11-22T10:16:09+00:00
-nextlevelbuilder/ui-ux-pro-max-skill,UI UX Pro Max,skills,core,False,MIT,verified,152634,28,93,2026-11-22T04:08:26Z,近90天有提交,90.51,2026-11-22T10:16:09+00:00
-OpenCoworkAI/open-codesign,Open CoDesign,studios,core,False,MIT,verified,8248,24,141,2026-11-21T17:14:53Z,近90天有提交,84.04,2026-11-22T10:16:09+00:00
-feimacode/open-design-agent-kit,Open Design Agent Kit,skills,core,False,MIT,verified,1172,261,414,2026-11-22T09:57:58Z,近90天有提交,83.49,2026-11-22T10:16:09+00:00
-emilkowalski/skills,Emil Kowalski Skills,skills,core,True,MIT,verified,58734,12,19,2026-11-15T12:42:50Z,近90天有提交,78.17,2026-11-22T10:16:09+00:00
-abi/screenshot-to-code,Screenshot to Code,bridges,core,False,MIT,verified,81356,4,6,2026-11-15T15:07:36Z,近90天有提交,73.42,2026-11-22T10:16:09+00:00
-vercel-labs/fx0,fx0,studios,core,False,Apache-2.0,verified,442,71,134,2026-11-18T03:56:31Z,近90天有提交,72.63,2026-11-22T10:16:09+00:00
-onlook-dev/onlook,Onlook,canvas,core,False,Apache-2.0,verified,27733,8,8,2026-11-21T02:01:16Z,近90天有提交,72.54,2026-11-22T10:16:09+00:00
-google-labs-code/design.md,Google DESIGN.md,design_systems,core,False,Apache-2.0,verified,29025,8,9,2026-11-18T02:55:28Z,近90天有提交,72.5,2026-11-22T10:16:09+00:00
-google-labs-code/stitch-skills,Stitch Design Skills,design_systems,adjacent,False,Apache-2.0,verified,11656,14,14,2026-11-20T18:08:00Z,近90天有提交,72.32,2026-11-22T10:16:09+00:00
-github/replica,GitHub Replica,studios,core,True,MIT,verified,325,71,117,2026-11-20T18:21:31Z,近90天有提交,71.51,2026-11-22T10:16:09+00:00
-VoltAgent/awesome-design-md,Awesome DESIGN.md,design_systems,adjacent,False,MIT,verified,128569,3,8,2026-10-28T15:45:37Z,近90天有提交,71.36,2026-11-22T10:16:09+00:00
-langchain-ai/design-agent,LangChain Content Studio,studios,core,False,Apache-2.0,verified,667,36,65,2026-11-18T07:09:13Z,近90天有提交,70.07,2026-11-22T10:16:09+00:00
-figma/mcp-server-guide,Figma MCP 官方指南,bridges,adjacent,False,未确认,unverified,2223,8,29,2026-11-18T09:00:36Z,近90天有提交,69.83,2026-11-22T10:16:09+00:00
-yctimlin/mcp_excalidraw,Excalidraw MCP Server,diagrams,core,False,MIT,verified,2674,7,33,2026-11-10T08:54:44Z,近90天有提交,69.14,2026-11-22T10:16:09+00:00
-velloo-design/velloo,Velloo,canvas,core,False,Apache-2.0,verified,10,39,302,2026-11-17T09:10:10Z,近90天有提交,64.14,2026-11-22T10:16:09+00:00
-JustineBijuPaul/frontend-ai-skills,Frontend AI Skills,skills,core,False,MIT,verified,11,0,86,2026-09-04T16:54:19Z,近90天有提交,44.2,2026-11-22T10:16:09+00:00
-GLips/Figma-Context-MCP,Framelink Figma MCP,bridges,core,False,MIT,verified,16279,0,0,2026-06-24T16:12:40Z,91–365天未提交,38.38,2026-11-22T10:16:09+00:00
-grab/cursor-talk-to-figma-mcp,Talk to Figma MCP,bridges,core,False,MIT,verified,7124,0,0,2026-07-26T07:14:26Z,91–365天未提交,37.48,2026-11-22T10:16:09+00:00
-WebPAI/DesignBench,DesignBench,research,research,False,未确认,unverified,61,0,0,2026-07-27T09:47:33Z,91–365天未提交,21.08,2026-11-22T10:16:09+00:00
-NoviScl/Design2Code,Design2Code,research,research,False,MIT,verified,605,0,0,2024-11-02T00:37:11Z,超过365天未提交,22.27,2026-11-22T10:16:09+00:00
-DAMO-NLP-SG/WebDesignAgent,WebDesignAgent,research,research,False,Apache-2.0,verified,267,0,0,2024-09-20T15:49:46Z,超过365天未提交,19.43,2026-11-22T10:16:09+00:00
-superdesigndev/superdesign,SuperDesign IDE 扩展（旧版）,historical,historical,False,AGPL-3.0 + 商业条款,custom,7635,0,0,2026-06-29T04:55:31Z,归档 / 历史,35.99,2026-11-22T10:16:09+00:00
-penpot/penpot-mcp,Penpot MCP（旧仓库）,historical,historical,False,MPL-2.0,verified,536,0,0,2026-03-19T12:44:53Z,归档 / 历史,23.43,2026-11-22T10:16:09+00:00
+nexu-io/open-design,OpenDesign,studios,core,True,Apache-2.0,verified,109076,84,457,2026-11-21T06:40:19Z,近90天有提交,98.89,2026-11-23T11:15:18+00:00
+pbakaus/impeccable,Impeccable,skills,core,False,Apache-2.0,verified,115303,1172,2164,2026-11-18T21:58:19Z,近90天有提交,98.77,2026-11-23T11:15:18+00:00
+penpot/penpot,Penpot,canvas,core,False,MPL-2.0,verified,62658,572,1522,2026-11-23T09:44:20Z,近90天有提交,98.36,2026-11-23T11:15:18+00:00
+cathrynlavery/diagram-design,Diagram Design,diagrams,core,True,MIT,verified,70637,108,355,2026-11-23T11:00:36Z,近90天有提交,96.87,2026-11-23T11:15:18+00:00
+open-pencil/open-pencil,OpenPencil（open-pencil）,canvas,core,False,MIT,verified,10052,690,1555,2026-11-23T02:17:07Z,近90天有提交,91.91,2026-11-23T11:15:18+00:00
+ZSeven-W/openpencil,OpenPencil（ZSeven-W）,canvas,core,False,MIT,verified,7333,246,949,2026-11-22T23:30:26Z,近90天有提交,90.79,2026-11-23T11:15:18+00:00
+nextlevelbuilder/ui-ux-pro-max-skill,UI UX Pro Max,skills,core,False,MIT,verified,153067,29,90,2026-11-23T04:08:08Z,近90天有提交,90.31,2026-11-23T11:15:18+00:00
+OpenCoworkAI/open-codesign,Open CoDesign,studios,core,False,MIT,verified,8249,17,141,2026-11-21T17:14:53Z,近90天有提交,83.75,2026-11-23T11:15:18+00:00
+feimacode/open-design-agent-kit,Open Design Agent Kit,skills,core,False,MIT,verified,1178,241,414,2026-11-22T09:57:58Z,近90天有提交,83.22,2026-11-23T11:15:18+00:00
+emilkowalski/skills,Emil Kowalski Skills,skills,core,True,MIT,verified,58974,12,19,2026-11-15T12:42:50Z,近90天有提交,77.92,2026-11-23T11:15:18+00:00
+abi/screenshot-to-code,Screenshot to Code,bridges,core,False,MIT,verified,81387,4,6,2026-11-15T15:07:36Z,近90天有提交,73.15,2026-11-23T11:15:18+00:00
+vercel-labs/fx0,fx0,studios,core,False,Apache-2.0,verified,442,67,134,2026-11-18T03:56:31Z,近90天有提交,72.36,2026-11-23T11:15:18+00:00
+onlook-dev/onlook,Onlook,canvas,core,False,Apache-2.0,verified,27814,8,8,2026-11-21T02:01:16Z,近90天有提交,72.27,2026-11-23T11:15:18+00:00
+google-labs-code/design.md,Google DESIGN.md,design_systems,core,False,Apache-2.0,verified,29055,8,9,2026-11-18T02:55:28Z,近90天有提交,72.23,2026-11-23T11:15:18+00:00
+google-labs-code/stitch-skills,Stitch Design Skills,design_systems,adjacent,False,Apache-2.0,verified,12086,14,14,2026-11-20T18:08:00Z,近90天有提交,72.16,2026-11-23T11:15:18+00:00
+langchain-ai/design-agent,LangChain Content Studio,studios,core,False,Apache-2.0,verified,674,37,69,2026-11-23T07:15:02Z,近90天有提交,71.51,2026-11-23T11:15:18+00:00
+github/replica,GitHub Replica,studios,core,True,MIT,verified,331,65,117,2026-11-20T18:21:31Z,近90天有提交,71.29,2026-11-23T11:15:18+00:00
+VoltAgent/awesome-design-md,Awesome DESIGN.md,design_systems,adjacent,False,MIT,verified,128714,3,8,2026-10-28T15:45:37Z,近90天有提交,71.14,2026-11-23T11:15:18+00:00
+figma/mcp-server-guide,Figma MCP 官方指南,bridges,adjacent,False,未确认,unverified,2225,8,29,2026-11-18T09:00:36Z,近90天有提交,69.55,2026-11-23T11:15:18+00:00
+yctimlin/mcp_excalidraw,Excalidraw MCP Server,diagrams,core,False,MIT,verified,2678,7,33,2026-11-10T08:54:44Z,近90天有提交,68.89,2026-11-23T11:15:18+00:00
+velloo-design/velloo,Velloo,canvas,core,False,Apache-2.0,verified,10,39,292,2026-11-17T09:10:10Z,近90天有提交,63.68,2026-11-23T11:15:18+00:00
+JustineBijuPaul/frontend-ai-skills,Frontend AI Skills,skills,core,False,MIT,verified,11,0,86,2026-09-04T16:54:19Z,近90天有提交,44.08,2026-11-23T11:15:18+00:00
+GLips/Figma-Context-MCP,Framelink Figma MCP,bridges,core,False,MIT,verified,16286,0,0,2026-06-24T16:12:40Z,91–365天未提交,38.32,2026-11-23T11:15:18+00:00
+grab/cursor-talk-to-figma-mcp,Talk to Figma MCP,bridges,core,False,MIT,verified,7125,0,0,2026-07-26T07:14:26Z,91–365天未提交,37.4,2026-11-23T11:15:18+00:00
+WebPAI/DesignBench,DesignBench,research,research,False,未确认,unverified,61,0,0,2026-07-27T09:47:33Z,91–365天未提交,21.0,2026-11-23T11:15:18+00:00
+NoviScl/Design2Code,Design2Code,research,research,False,MIT,verified,605,0,0,2024-11-02T00:37:11Z,超过365天未提交,22.27,2026-11-23T11:15:18+00:00
+DAMO-NLP-SG/WebDesignAgent,WebDesignAgent,research,research,False,Apache-2.0,verified,267,0,0,2024-09-20T15:49:46Z,超过365天未提交,19.43,2026-11-23T11:15:18+00:00
+superdesigndev/superdesign,SuperDesign IDE 扩展（旧版）,historical,historical,False,AGPL-3.0 + 商业条款,custom,7639,0,0,2026-06-29T04:55:31Z,归档 / 历史,35.93,2026-11-23T11:15:18+00:00
+penpot/penpot-mcp,Penpot MCP（旧仓库）,historical,historical,False,MPL-2.0,verified,537,0,0,2026-03-19T12:44:53Z,归档 / 历史,23.42,2026-11-23T11:15:18+00:00

@@ -9,7 +9,7 @@
 
 - 分类：设计 Agent 与原型工作台；核心候选。
 - 适用边界：本地工作流、托管 Cloud 和 Go 套餐分开看；模型、模板和品牌素材的条款另计。
-- 维护状态：近90天有提交；30 天提交 84 次，90 天提交 488 次。
+- 维护状态：近90天有提交；30 天提交 84 次，90 天提交 457 次。
 - 许可：[Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [来源2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105)。
 
@@ -19,7 +19,7 @@
 
 - 分类：设计 Agent 与原型工作台；核心候选。
 - 适用边界：本地工作区不代表推理完全离线；具体输出格式和能力随模型与发布版本而异。
-- 维护状态：近90天有提交；30 天提交 24 次，90 天提交 141 次。
+- 维护状态：近90天有提交；30 天提交 17 次，90 天提交 141 次。
 - 许可：[MIT](https://github.com/OpenCoworkAI/open-codesign/blob/1779bb5b0f15c734ff8ba06e2eb2463b5578e5b6/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/OpenCoworkAI/open-codesign/blob/1779bb5b0f15c734ff8ba06e2eb2463b5578e5b6/README.md#L7)。
 
@@ -29,19 +29,9 @@
 
 - 分类：设计 Agent 与原型工作台；核心候选。
 - 适用边界：官方部署路线涉及 Vercel 与 AI Gateway；单文件产物不等同于完整产品代码库。
-- 维护状态：近90天有提交；30 天提交 71 次，90 天提交 134 次。
+- 维护状态：近90天有提交；30 天提交 67 次，90 天提交 134 次。
 - 许可：[Apache-2.0](https://github.com/vercel-labs/fx0/blob/ebc177ea055c863f6da50bfe4241fc8381a6b0c8/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/vercel-labs/fx0/blob/ebc177ea055c863f6da50bfe4241fc8381a6b0c8/README.md#L3)。
-
-## [GitHub Replica](https://github.com/github/replica)
-
-使用团队已有组件、模式和设计指导，通过 GitHub Copilot 生成并迭代交互原型。
-
-- 分类：设计 Agent 与原型工作台；核心候选。
-- 适用边界：本地流程依赖 GitHub Copilot app、Git 和 Node.js，官方列出 macOS/Linux；可选的 Replica Hub 由团队托管。
-- 维护状态：近90天有提交；30 天提交 71 次，90 天提交 117 次。
-- 许可：[MIT](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/LICENSE)；开放许可证已核验。MIT 覆盖自有代码；根目录 NOTICE.md 列出 Mona Sans 等字体的 SIL OFL 1.1 许可。
-- 功能核验：2026-11-18；[来源1](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L7) · [来源2](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L53) · [来源3](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/NOTICE.md#L3)。
 
 ## [LangChain Content Studio](https://github.com/langchain-ai/design-agent)
 
@@ -49,9 +39,19 @@
 
 - 分类：设计 Agent 与原型工作台；核心候选。
 - 适用边界：官方 Slack 部署路线依赖 Managed Deep Agents；开源代码不等于托管免费。
-- 维护状态：近90天有提交；30 天提交 36 次，90 天提交 65 次。
+- 维护状态：近90天有提交；30 天提交 37 次，90 天提交 69 次。
 - 许可：[Apache-2.0](https://github.com/langchain-ai/design-agent/blob/8134d7ccdc3f91a0192d45499dc368e9f89d7910/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/langchain-ai/design-agent/blob/8134d7ccdc3f91a0192d45499dc368e9f89d7910/README.md#L26)。
+
+## [GitHub Replica](https://github.com/github/replica)
+
+使用团队已有组件、模式和设计指导，通过 GitHub Copilot 生成并迭代交互原型。
+
+- 分类：设计 Agent 与原型工作台；核心候选。
+- 适用边界：本地流程依赖 GitHub Copilot app、Git 和 Node.js，官方列出 macOS/Linux；可选的 Replica Hub 由团队托管。
+- 维护状态：近90天有提交；30 天提交 65 次，90 天提交 117 次。
+- 许可：[MIT](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/LICENSE)；开放许可证已核验。MIT 覆盖自有代码；根目录 NOTICE.md 列出 Mona Sans 等字体的 SIL OFL 1.1 许可。
+- 功能核验：2026-11-18；[来源1](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L7) · [来源2](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L53) · [来源3](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/NOTICE.md#L3)。
 
 ## [Penpot](https://github.com/penpot/penpot)
 
@@ -59,7 +59,7 @@
 
 - 分类：可编辑画布与矢量设计；核心候选。
 - 适用边界：编辑器可独立使用；MCP 属集成能力，不等同于内置生成模型。
-- 维护状态：近90天有提交；30 天提交 564 次，90 天提交 1514 次。
+- 维护状态：近90天有提交；30 天提交 572 次，90 天提交 1522 次。
 - 许可：[MPL-2.0](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/README.md#L47)。
 
@@ -69,7 +69,7 @@
 
 - 分类：可编辑画布与矢量设计；核心候选。
 - 适用边界：仍在开发，具体节点、字体和文件往返保真需按真实文件验证；不是 ZSeven-W 的同名仓库。
-- 维护状态：近90天有提交；30 天提交 691 次，90 天提交 1551 次。
+- 维护状态：近90天有提交；30 天提交 690 次，90 天提交 1555 次。
 - 许可：[MIT](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/README.md#L9)。
 
@@ -79,7 +79,7 @@
 
 - 分类：可编辑画布与矢量设计；核心候选。
 - 适用边界：模型接入和框架导出需逐项验证；它是独立仓库，不与 open-pencil 合并计算指标。
-- 维护状态：近90天有提交；30 天提交 239 次，90 天提交 937 次。
+- 维护状态：近90天有提交；30 天提交 246 次，90 天提交 949 次。
 - 许可：[MIT](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/README.md#L44)。
 
@@ -99,7 +99,7 @@
 
 - 分类：可编辑画布与矢量设计；核心候选。
 - 适用边界：主要针对已有应用的设计迭代；跨框架支持与实际回写效果未测。
-- 维护状态：近90天有提交；30 天提交 39 次，90 天提交 302 次。
+- 维护状态：近90天有提交；30 天提交 39 次，90 天提交 292 次。
 - 许可：[Apache-2.0](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/README.md#L12)。
 
@@ -109,7 +109,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：Skill 指导和检查不等于人工设计审查或无障碍认证。
-- 维护状态：近90天有提交；30 天提交 1205 次，90 天提交 2170 次。
+- 维护状态：近90天有提交；30 天提交 1172 次，90 天提交 2164 次。
 - 许可：[Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3)。
 
@@ -119,7 +119,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：规则与生成结果是设计起点；无障碍和最终实现仍需测试。
-- 维护状态：近90天有提交；30 天提交 28 次，90 天提交 93 次。
+- 维护状态：近90天有提交；30 天提交 29 次，90 天提交 90 次。
 - 许可：[MIT](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/README.md#L30)。
 
@@ -129,7 +129,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：不是 OpenDesign 桌面应用；示例、品牌资源和生成结果按各自使用条件核验。
-- 维护状态：近90天有提交；30 天提交 261 次，90 天提交 414 次。
+- 维护状态：近90天有提交；30 天提交 241 次，90 天提交 414 次。
 - 许可：[MIT](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/README.md#L7)。
 
@@ -229,7 +229,7 @@ Figma 官方接入指南，说明 Agent 获取设计上下文及部分远程写�
 
 - 分类：图解与视觉表达；核心候选。
 - 适用边界：它是 Agent Skill；导入文件的版权、第三方依赖和可访问性需要单独核对。
-- 维护状态：近90天有提交；30 天提交 102 次，90 天提交 348 次。
+- 维护状态：近90天有提交；30 天提交 108 次，90 天提交 355 次。
 - 许可：[MIT](https://github.com/cathrynlavery/diagram-design/blob/f6db0decea96de66b901331a0f79a8d4b147ebae/LICENSE)；开放许可证已核验。自有代码采用 MIT；随附依赖另见 THIRD_PARTY_LICENSES.md。
 - 功能核验：2026-11-18；[来源1](https://github.com/cathrynlavery/diagram-design/blob/f6db0decea96de66b901331a0f79a8d4b147ebae/README.md#L10) · [来源2](https://github.com/cathrynlavery/diagram-design/blob/f6db0decea96de66b901331a0f79a8d4b147ebae/README.md#L51)。
 
