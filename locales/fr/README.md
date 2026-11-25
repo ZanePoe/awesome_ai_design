@@ -6,6 +6,10 @@ Collection de design par IA pour les designers, les équipes produit et les codi
 
 Le « design par IA » désigne ici la participation d'agents à la création, la modification, la revue et le transfert d'interfaces, de prototypes, de graphiques vectoriels, de diagrammes ou de systèmes de design. Les modèles purement texte-image, les coding agents généralistes et les SaaS sans dépôt vérifiable ne sont pas retenus comme outils principaux. Les guides d'intégration officiels et les index de systèmes de design sont signalés séparément ; le [catalogue vidéo IA](https://github.com/ZanePoe/awesome_ai_video_creation) existant couvre la génération et le montage vidéo.
 
+## Aller à une catégorie
+
+[Agents de design et ateliers de prototypage](#agents-de-design-et-ateliers-de-prototypage) · [Canvas éditables et conception vectorielle](#canvas-éditables-et-conception-vectorielle) · [Skills de design front-end, motion et revue](#skills-de-design-front-end-motion-et-revue) · [Systèmes de design et DESIGN.md](#systèmes-de-design-et-designmd) · [Design-vers-code et ponts MCP](#design-vers-code-et-ponts-mcp) · [Diagrammes et expression visuelle](#diagrammes-et-expression-visuelle) · [Articles, benchmarks et jeux de données](#articles-benchmarks-et-jeux-de-données) · [Projets historiques et archivés](#projets-historiques-et-archivés)
+
 ## Sélection actuelle
 
 **29 projets, dont 4 référencés par l'utilisateur et 25 ajoutés lors de cette passe.** Vérification fonctionnelle : 2026-11-18 ; instantané des métriques : `2026-11-24T12:55:32+00:00` (UTC).

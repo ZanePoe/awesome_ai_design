@@ -6,6 +6,10 @@ Colección de diseño con IA para diseñadores, equipos de producto y coding age
 
 «Diseño con IA» significa aquí que un agente participa en la creación, la modificación, la revisión y la entrega de interfaces, prototipos, gráficos vectoriales, diagramas o sistemas de diseño. Los modelos puros de texto-a-imagen, los coding agents genéricos y los SaaS sin repositorio verificable no se incluyen como herramientas centrales. Las guías oficiales de integración y los índices de sistemas de diseño se indican aparte; la ya existente [colección de vídeo con IA](https://github.com/ZanePoe/awesome_ai_video_creation) cubre la generación y la edición de vídeo.
 
+## Ir a una categoría
+
+[Agentes de diseño y bancos de trabajo de prototipos](#agentes-de-diseño-y-bancos-de-trabajo-de-prototipos) · [Lienzos editables y diseño vectorial](#lienzos-editables-y-diseño-vectorial) · [Skills de diseño front-end, animación y revisión](#skills-de-diseño-front-end-animación-y-revisión) · [Sistemas de diseño y DESIGN.md](#sistemas-de-diseño-y-designmd) · [De diseño a código y puentes MCP](#de-diseño-a-código-y-puentes-mcp) · [Diagramas y expresión visual](#diagramas-y-expresión-visual) · [Artículos, benchmarks y conjuntos de datos](#artículos-benchmarks-y-conjuntos-de-datos) · [Proyectos históricos y archivados](#proyectos-históricos-y-archivados)
+
 ## Catálogo actual
 
 **29 proyectos, de los cuales 4 son proyectos de referencia del usuario y 25 se han añadido en esta ronda.** Verificación funcional: 2026-11-18; instantánea de métricas: `2026-11-24T12:55:32+00:00` (UTC).

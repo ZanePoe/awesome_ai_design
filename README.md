@@ -6,6 +6,10 @@ An AI design catalogue for designers, product teams and coding agents. It collec
 
 Here, "AI design" means agents taking part in creating, modifying, reviewing or handing off interfaces, prototypes, vector graphics, diagrams or design systems. Pure text-to-image models, general coding agents and SaaS without a verifiable repository are not listed as core tools. Official integration guides and design-system indexes are marked separately; the existing [AI video catalogue](https://github.com/ZanePoe/awesome_ai_video_creation) covers video generation and editing.
 
+## Jump to a category
+
+[Design agents and prototyping workbenches](#design-agents-and-prototyping-workbenches) · [Editable canvas and vector design](#editable-canvas-and-vector-design) · [Front-end design, motion and review Skills](#front-end-design-motion-and-review-skills) · [Design systems and DESIGN.md](#design-systems-and-designmd) · [Design-to-code and MCP bridges](#design-to-code-and-mcp-bridges) · [Diagrams and visual expression](#diagrams-and-visual-expression) · [Papers, benchmarks and datasets](#papers-benchmarks-and-datasets) · [Historical and archived projects](#historical-and-archived-projects)
+
 ## Current coverage
 
 **29 projects, of which 4 are user-reference projects and 25 were added in this round.** Feature verification: 2026-11-18; metrics snapshot: `2026-11-24T12:55:32+00:00` (UTC).
