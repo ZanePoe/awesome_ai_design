@@ -12,7 +12,7 @@
 
 ## वर्तमान संग्रह
 
-**कुल 29 प्रोजेक्ट, जिनमें 4 उपयोगकर्ता संदर्भ प्रोजेक्ट हैं और 25 इस दौर में जोड़े गए।** फ़ंक्शन सत्यापन: 2026-11-18; मीट्रिक स्नैपशॉट: `2026-11-24T12:55:32+00:00` (UTC)।
+**कुल 29 प्रोजेक्ट, जिनमें 4 उपयोगकर्ता संदर्भ प्रोजेक्ट हैं और 25 इस दौर में जोड़े गए।** फ़ंक्शन सत्यापन: 2026-11-18; मीट्रिक स्नैपशॉट: `2026-11-25T11:43:22+00:00` (UTC)।
 
 हर श्रेणी में पहले मेंटेनेंस स्थिति के अनुसार लेयर बनाई जाती है, फिर star (40%), 90 दिन की डिफ़ॉल्ट-ब्रांच कमिट (35%) और नवीनतम कमिट (25%) मिलाकर क्रम तय होता है। मेंटेनेंस स्कोर डिज़ाइन की गुणवत्ता, मॉडल की क्षमता, एक्सेसिबिलिटी या प्रोडक्शन परिपक्वता को नहीं दर्शाता।
 
@@ -22,18 +22,18 @@
 
 | प्रोजेक्ट | भूमिका | Stars | 90-दिन कमिट | नवीनतम कमिट UTC | मेंटेनेंस स्कोर |
 | --- | --- | --- | --- | --- | --- |
-| [OpenDesign](https://github.com/nexu-io/open-design) | लोकल AI coding agent या OpenDesign Cloud से डिज़ाइन सिस्टम का पालन करने वाले प्रोटोटाइप बनाएँ, फिर टीम वर्कबेंच में साझा और इटेरेट करें। | 109,270 | 436 | 2026-11-23 | 99.0 |
-| [Impeccable](https://github.com/pbakaus/impeccable) | coding agent के लिए डिज़ाइन शब्दावली, रिफ़ाइन, क्रिटिक और रिव्यू कमांड, मौजूदा UI को इटेरेट करने हेतु। | 115,984 | 2,154 | 2026-11-18 | 98.5 |
-| [Penpot](https://github.com/penpot/penpot) | सेल्फ-होस्ट-योग्य कोलैबोरेटिव डिज़ाइन प्लेटफ़ॉर्म; डिज़ाइन token, कंपोनेंट और MCP इंटरफ़ेस से डिज़ाइन और कोड जोड़ता है। | 62,694 | 1,615 | 2026-11-24 | 98.4 |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | आर्किटेक्चर, फ़्लो, डेटा आदि डॉयाग्राम को ब्रांड स्टाइल वाले सेल्फ-कंटेन्ड HTML/SVG में आउटपुट करता है। | 71,491 | 355 | 2026-11-23 | 96.6 |
-| [OpenPencil (open-pencil)](https://github.com/open-pencil/open-pencil) | AI, CLI और MCP वाला प्रोग्रामेबल डिज़ाइन एडिटर, जो .fig और .pen फ़ाइलें खोल सकता है। | 10,081 | 1,560 | 2026-11-24 | 91.9 |
-| [OpenPencil (ZSeven-W)](https://github.com/ZSeven-W/openpencil) | नेचुरल लैंग्वेज को कैनवास पर संपादन-योग्य UI में बदलता है; कई Agent के साथ समानांतर डिज़ाइन और MCP ऑपरेशन सपोर्ट करता है। | 7,353 | 941 | 2026-11-22 | 90.5 |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | कई फ्रंटएंड टेकस्टैक के लिए शैली, रंग, टाइपोग्राफ़ी और डिज़ाइन सिस्टम सुझाव देने वाला Agent Skill। | 153,574 | 90 | 2026-11-24 | 90.3 |
-| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | OpenDesign के डिज़ाइन Skills, ब्रांड डिज़ाइन सिस्टम और उदाहरण coding agent के अंदर इस्तेमाल के लिए पोर्ट करता है। | 1,185 | 422 | 2026-11-24 | 83.6 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | लोकल डेस्कटॉप डिज़ाइन Agent जो prompt को प्रीव्यू-योग्य डिज़ाइन आउटपुट में बदलता है और अपना चुना गया मॉडल जोड़ने देता है। | 8,252 | 141 | 2026-11-21 | 83.5 |
-| [Onlook](https://github.com/onlook-dev/onlook) | लोकल-फर्स्ट कोड विज़ुअल एडिटर, जिसमें Claude Code या Codex जैसे मौजूदा Agent प्रोजेक्ट के भीतर काम करते हैं। | 27,870 | 22 | 2026-11-24 | 78.2 |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | डिज़ाइनरों और इंजीनियरों के लिए UI व मोशन Skills — मोशन चयन, समीक्षा और परफ़ॉर्मेंस सुधार। | 59,205 | 19 | 2026-11-15 | 77.7 |
-| [Screenshot to Code](https://github.com/abi/screenshot-to-code) | मॉडल से स्क्रीनशॉट, प्रोटोटाइप, Figma डिज़ाइन या स्क्रीन रिकॉर्डिंग को UI कोड में बदलता है। | 81,409 | 6 | 2026-11-15 | 72.9 |
+| [Impeccable](https://github.com/pbakaus/impeccable) | coding agent के लिए डिज़ाइन शब्दावली, रिफ़ाइन, क्रिटिक और रिव्यू कमांड, मौजूदा UI को इटेरेट करने हेतु। | 116,582 | 2,321 | 2026-11-24 | 99.8 |
+| [OpenDesign](https://github.com/nexu-io/open-design) | लोकल AI coding agent या OpenDesign Cloud से डिज़ाइन सिस्टम का पालन करने वाले प्रोटोटाइप बनाएँ, फिर टीम वर्कबेंच में साझा और इटेरेट करें। | 109,420 | 418 | 2026-11-23 | 98.5 |
+| [Penpot](https://github.com/penpot/penpot) | सेल्फ-होस्ट-योग्य कोलैबोरेटिव डिज़ाइन प्लेटफ़ॉर्म; डिज़ाइन token, कंपोनेंट और MCP इंटरफ़ेस से डिज़ाइन और कोड जोड़ता है। | 62,724 | 1,612 | 2026-11-25 | 98.4 |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | आर्किटेक्चर, फ़्लो, डेटा आदि डॉयाग्राम को ब्रांड स्टाइल वाले सेल्फ-कंटेन्ड HTML/SVG में आउटपुट करता है। | 72,547 | 365 | 2026-11-25 | 97.0 |
+| [OpenPencil (open-pencil)](https://github.com/open-pencil/open-pencil) | AI, CLI और MCP वाला प्रोग्रामेबल डिज़ाइन एडिटर, जो .fig और .pen फ़ाइलें खोल सकता है। | 10,105 | 1,576 | 2026-11-24 | 91.9 |
+| [OpenPencil (ZSeven-W)](https://github.com/ZSeven-W/openpencil) | नेचुरल लैंग्वेज को कैनवास पर संपादन-योग्य UI में बदलता है; कई Agent के साथ समानांतर डिज़ाइन और MCP ऑपरेशन सपोर्ट करता है। | 7,363 | 931 | 2026-11-25 | 90.9 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | कई फ्रंटएंड टेकस्टैक के लिए शैली, रंग, टाइपोग्राफ़ी और डिज़ाइन सिस्टम सुझाव देने वाला Agent Skill। | 153,976 | 92 | 2026-11-24 | 90.3 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | लोकल डेस्कटॉप डिज़ाइन Agent जो prompt को प्रीव्यू-योग्य डिज़ाइन आउटपुट में बदलता है और अपना चुना गया मॉडल जोड़ने देता है। | 8,255 | 142 | 2026-11-24 | 84.1 |
+| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | OpenDesign के डिज़ाइन Skills, ब्रांड डिज़ाइन सिस्टम और उदाहरण coding agent के अंदर इस्तेमाल के लिए पोर्ट करता है। | 1,192 | 425 | 2026-11-25 | 83.7 |
+| [Onlook](https://github.com/onlook-dev/onlook) | लोकल-फर्स्ट कोड विज़ुअल एडिटर, जिसमें Claude Code या Codex जैसे मौजूदा Agent प्रोजेक्ट के भीतर काम करते हैं। | 27,921 | 35 | 2026-11-25 | 80.7 |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | डिज़ाइनरों और इंजीनियरों के लिए UI व मोशन Skills — मोशन चयन, समीक्षा और परफ़ॉर्मेंस सुधार। | 59,407 | 19 | 2026-11-15 | 77.4 |
+| [Screenshot to Code](https://github.com/abi/screenshot-to-code) | मॉडल से स्क्रीनशॉट, प्रोटोटाइप, Figma डिज़ाइन या स्क्रीन रिकॉर्डिंग को UI कोड में बदलता है। | 81,430 | 6 | 2026-11-15 | 72.7 |
 
 ## श्रेणी सूची
 
@@ -54,55 +54,55 @@
 
 | प्रोजेक्ट | भूमिका | Stars | 90-दिन कमिट | नवीनतम कमिट UTC | मेंटेनेंस स्कोर | लाइसेंस |
 | --- | --- | --- | --- | --- | --- | --- |
-| [OpenDesign](https://github.com/nexu-io/open-design) · ★उपयोगकर्ता संदर्भ | लोकल AI coding agent या OpenDesign Cloud से डिज़ाइन सिस्टम का पालन करने वाले प्रोटोटाइप बनाएँ, फिर टीम वर्कबेंच में साझा और इटेरेट करें। | 109,270 | 436 | 2026-11-23 | 99.0 | Apache-2.0 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | लोकल डेस्कटॉप डिज़ाइन Agent जो prompt को प्रीव्यू-योग्य डिज़ाइन आउटपुट में बदलता है और अपना चुना गया मॉडल जोड़ने देता है। | 8,252 | 141 | 2026-11-21 | 83.5 | MIT |
-| [GitHub Replica](https://github.com/github/replica) · ★उपयोगकर्ता संदर्भ | टीम के मौजूदा कंपोनेंट, पैटर्न और डिज़ाइन गाइडेंश का उपयोग कर GitHub Copilot से इंटरैक्टिव प्रोटोटाइप बनाकर इटेरेट करें। | 366 | 121 | 2026-11-24 | 72.6 | MIT |
-| [fx0](https://github.com/vercel-labs/fx0) | libfx पर आधारित हल्का डिज़ाइन Agent, जो नेचुरल लैंग्वेज से इटेरेशन करता है और सिंगल-फ़ाइल HTML पेज एक्सपोर्ट करता है। | 442 | 134 | 2026-11-18 | 72.1 | Apache-2.0 |
-| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | टीम के लिए ब्रांड डिज़ाइन Agent जो Slack से सामग्री और requirements लेता है और फ्लैट ग्राफ़िक्स, प्रेज़ेंटेशन या डायनामिक कंटेंट डिलीवर करता है। | 731 | 72 | 2026-11-23 | 71.9 | Apache-2.0 |
+| [OpenDesign](https://github.com/nexu-io/open-design) · ★उपयोगकर्ता संदर्भ | लोकल AI coding agent या OpenDesign Cloud से डिज़ाइन सिस्टम का पालन करने वाले प्रोटोटाइप बनाएँ, फिर टीम वर्कबेंच में साझा और इटेरेट करें। | 109,420 | 418 | 2026-11-23 | 98.5 | Apache-2.0 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | लोकल डेस्कटॉप डिज़ाइन Agent जो prompt को प्रीव्यू-योग्य डिज़ाइन आउटपुट में बदलता है और अपना चुना गया मॉडल जोड़ने देता है। | 8,255 | 142 | 2026-11-24 | 84.1 | MIT |
+| [GitHub Replica](https://github.com/github/replica) · ★उपयोगकर्ता संदर्भ | टीम के मौजूदा कंपोनेंट, पैटर्न और डिज़ाइन गाइडेंश का उपयोग कर GitHub Copilot से इंटरैक्टिव प्रोटोटाइप बनाकर इटेरेट करें। | 377 | 122 | 2026-11-24 | 72.5 | MIT |
+| [fx0](https://github.com/vercel-labs/fx0) | libfx पर आधारित हल्का डिज़ाइन Agent, जो नेचुरल लैंग्वेज से इटेरेशन करता है और सिंगल-फ़ाइल HTML पेज एक्सपोर्ट करता है। | 442 | 134 | 2026-11-18 | 71.8 | Apache-2.0 |
+| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | टीम के लिए ब्रांड डिज़ाइन Agent जो Slack से सामग्री और requirements लेता है और फ्लैट ग्राफ़िक्स, प्रेज़ेंटेशन या डायनामिक कंटेंट डिलीवर करता है। | 760 | 72 | 2026-11-23 | 71.8 | Apache-2.0 |
 
 ### संपादन-योग्य कैनवास और वेक्टर डिज़ाइन
 
 | प्रोजेक्ट | भूमिका | Stars | 90-दिन कमिट | नवीनतम कमिट UTC | मेंटेनेंस स्कोर | लाइसेंस |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Penpot](https://github.com/penpot/penpot) | सेल्फ-होस्ट-योग्य कोलैबोरेटिव डिज़ाइन प्लेटफ़ॉर्म; डिज़ाइन token, कंपोनेंट और MCP इंटरफ़ेस से डिज़ाइन और कोड जोड़ता है। | 62,694 | 1,615 | 2026-11-24 | 98.4 | MPL-2.0 |
-| [OpenPencil (open-pencil)](https://github.com/open-pencil/open-pencil) | AI, CLI और MCP वाला प्रोग्रामेबल डिज़ाइन एडिटर, जो .fig और .pen फ़ाइलें खोल सकता है। | 10,081 | 1,560 | 2026-11-24 | 91.9 | MIT |
-| [OpenPencil (ZSeven-W)](https://github.com/ZSeven-W/openpencil) | नेचुरल लैंग्वेज को कैनवास पर संपादन-योग्य UI में बदलता है; कई Agent के साथ समानांतर डिज़ाइन और MCP ऑपरेशन सपोर्ट करता है। | 7,353 | 941 | 2026-11-22 | 90.5 | MIT |
-| [Onlook](https://github.com/onlook-dev/onlook) | लोकल-फर्स्ट कोड विज़ुअल एडिटर, जिसमें Claude Code या Codex जैसे मौजूदा Agent प्रोजेक्ट के भीतर काम करते हैं। | 27,870 | 22 | 2026-11-24 | 78.2 | Apache-2.0 |
-| [Velloo](https://github.com/velloo-design/velloo) | coding agent मौजूदा ऐप कंपोनेंट से लोकल कैनवास पर कई दिशाएँ एक्सप्लोर करता है, फिर चुना गया डिज़ाइन ऐप में वापस लिखता है। | 10 | 280 | 2026-11-17 | 63.2 | Apache-2.0 |
+| [Penpot](https://github.com/penpot/penpot) | सेल्फ-होस्ट-योग्य कोलैबोरेटिव डिज़ाइन प्लेटफ़ॉर्म; डिज़ाइन token, कंपोनेंट और MCP इंटरफ़ेस से डिज़ाइन और कोड जोड़ता है। | 62,724 | 1,612 | 2026-11-25 | 98.4 | MPL-2.0 |
+| [OpenPencil (open-pencil)](https://github.com/open-pencil/open-pencil) | AI, CLI और MCP वाला प्रोग्रामेबल डिज़ाइन एडिटर, जो .fig और .pen फ़ाइलें खोल सकता है। | 10,105 | 1,576 | 2026-11-24 | 91.9 | MIT |
+| [OpenPencil (ZSeven-W)](https://github.com/ZSeven-W/openpencil) | नेचुरल लैंग्वेज को कैनवास पर संपादन-योग्य UI में बदलता है; कई Agent के साथ समानांतर डिज़ाइन और MCP ऑपरेशन सपोर्ट करता है। | 7,363 | 931 | 2026-11-25 | 90.9 | MIT |
+| [Onlook](https://github.com/onlook-dev/onlook) | लोकल-फर्स्ट कोड विज़ुअल एडिटर, जिसमें Claude Code या Codex जैसे मौजूदा Agent प्रोजेक्ट के भीतर काम करते हैं। | 27,921 | 35 | 2026-11-25 | 80.7 | Apache-2.0 |
+| [Velloo](https://github.com/velloo-design/velloo) | coding agent मौजूदा ऐप कंपोनेंट से लोकल कैनवास पर कई दिशाएँ एक्सप्लोर करता है, फिर चुना गया डिज़ाइन ऐप में वापस लिखता है। | 10 | 269 | 2026-11-17 | 62.7 | Apache-2.0 |
 
 ### फ्रंटएंड डिज़ाइन, मोशन और समीक्षा Skills
 
 | प्रोजेक्ट | भूमिका | Stars | 90-दिन कमिट | नवीनतम कमिट UTC | मेंटेनेंस स्कोर | लाइसेंस |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Impeccable](https://github.com/pbakaus/impeccable) | coding agent के लिए डिज़ाइन शब्दावली, रिफ़ाइन, क्रिटिक और रिव्यू कमांड, मौजूदा UI को इटेरेट करने हेतु। | 115,984 | 2,154 | 2026-11-18 | 98.5 | Apache-2.0 |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | कई फ्रंटएंड टेकस्टैक के लिए शैली, रंग, टाइपोग्राफ़ी और डिज़ाइन सिस्टम सुझाव देने वाला Agent Skill। | 153,574 | 90 | 2026-11-24 | 90.3 | MIT |
-| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | OpenDesign के डिज़ाइन Skills, ब्रांड डिज़ाइन सिस्टम और उदाहरण coding agent के अंदर इस्तेमाल के लिए पोर्ट करता है। | 1,185 | 422 | 2026-11-24 | 83.6 | MIT |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) · ★उपयोगकर्ता संदर्भ | डिज़ाइनरों और इंजीनियरों के लिए UI व मोशन Skills — मोशन चयन, समीक्षा और परफ़ॉर्मेंस सुधार। | 59,205 | 19 | 2026-11-15 | 77.7 | MIT |
-| [Frontend AI Skills](https://github.com/JustineBijuPaul/frontend-ai-skills) | मॉड्यूलर फ्रंटएंड Skills, ज़रूरत पर लोड होने वाले — मोशन, इंटरैक्शन और एक्सेसिबिलिटी जैसे विषय। | 11 | 86 | 2026-09-04 | 44.0 | MIT |
+| [Impeccable](https://github.com/pbakaus/impeccable) | coding agent के लिए डिज़ाइन शब्दावली, रिफ़ाइन, क्रिटिक और रिव्यू कमांड, मौजूदा UI को इटेरेट करने हेतु। | 116,582 | 2,321 | 2026-11-24 | 99.8 | Apache-2.0 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | कई फ्रंटएंड टेकस्टैक के लिए शैली, रंग, टाइपोग्राफ़ी और डिज़ाइन सिस्टम सुझाव देने वाला Agent Skill। | 153,976 | 92 | 2026-11-24 | 90.3 | MIT |
+| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | OpenDesign के डिज़ाइन Skills, ब्रांड डिज़ाइन सिस्टम और उदाहरण coding agent के अंदर इस्तेमाल के लिए पोर्ट करता है। | 1,192 | 425 | 2026-11-25 | 83.7 | MIT |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) · ★उपयोगकर्ता संदर्भ | डिज़ाइनरों और इंजीनियरों के लिए UI व मोशन Skills — मोशन चयन, समीक्षा और परफ़ॉर्मेंस सुधार। | 59,407 | 19 | 2026-11-15 | 77.4 | MIT |
+| [Frontend AI Skills](https://github.com/JustineBijuPaul/frontend-ai-skills) | मॉड्यूलर फ्रंटएंड Skills, ज़रूरत पर लोड होने वाले — मोशन, इंटरैक्शन और एक्सेसिबिलिटी जैसे विषय। | 11 | 86 | 2026-09-04 | 43.9 | MIT |
 
 ### डिज़ाइन सिस्टम और DESIGN.md
 
 | प्रोजेक्ट | भूमिका | Stars | 90-दिन कमिट | नवीनतम कमिट UTC | मेंटेनेंस स्कोर | लाइसेंस |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | Google Stitch के लिए आधिकारिक skills और plugins का संग्रह, Agent को उसकी डिज़ाइन फ़्लो से जोड़ता है। | 12,509 | 18 | 2026-11-23 | 74.2 | Apache-2.0 |
-| [Google DESIGN.md](https://github.com/google-labs-code/design.md) | विज़ुअल पहचान का विनिर्देश; मशीन-रीडेबल डिज़ाइन token और Agent-पठनीय डिज़ाइन सिद्धांत एक ही फ़ाइल में। | 29,081 | 9 | 2026-11-18 | 72.0 | Apache-2.0 |
-| [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | पुनउपयोग-योग्य DESIGN.md रेफ़रेंस डॉक्युमेंट का संग्रह; Agent को ब्रांड शैली, टाइपोग्राफ़ी, रंग और कंपोनेंट कन्वेंशन देता है। | 128,870 | 8 | 2026-10-28 | 70.9 | MIT |
+| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | Google Stitch के लिए आधिकारिक skills और plugins का संग्रह, Agent को उसकी डिज़ाइन फ़्लो से जोड़ता है। | 12,839 | 22 | 2026-11-24 | 75.4 | Apache-2.0 |
+| [Google DESIGN.md](https://github.com/google-labs-code/design.md) | विज़ुअल पहचान का विनिर्देश; मशीन-रीडेबल डिज़ाइन token और Agent-पठनीय डिज़ाइन सिद्धांत एक ही फ़ाइल में। | 29,103 | 9 | 2026-11-18 | 71.7 | Apache-2.0 |
+| [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | पुनउपयोग-योग्य DESIGN.md रेफ़रेंस डॉक्युमेंट का संग्रह; Agent को ब्रांड शैली, टाइपोग्राफ़ी, रंग और कंपोनेंट कन्वेंशन देता है। | 129,006 | 8 | 2026-10-28 | 70.7 | MIT |
 
 ### डिज़ाइन-टू-कोड और MCP ब्रिज
 
 | प्रोजेक्ट | भूमिका | Stars | 90-दिन कमिट | नवीनतम कमिट UTC | मेंटेनेंस स्कोर | लाइसेंस |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Screenshot to Code](https://github.com/abi/screenshot-to-code) | मॉडल से स्क्रीनशॉट, प्रोटोटाइप, Figma डिज़ाइन या स्क्रीन रिकॉर्डिंग को UI कोड में बदलता है। | 81,409 | 6 | 2026-11-15 | 72.9 | MIT |
-| [Figma MCP आधिकारिक गाइड](https://github.com/figma/mcp-server-guide) · लाइसेंस चेतावनी | Figma की आधिकारिक ऑनबोर्डिंग गाइड; बताती है कि Agent डिज़ाइन कॉन्टेक्स्ट कैसे प्राप्त करते हैं और कुछ रिमोट राइट-वर्कफ़्लो कैसे चलते हैं। | 2,230 | 29 | 2026-11-18 | 69.3 | अपुष्ट |
-| [Framelink Figma MCP](https://github.com/GLips/Figma-Context-MCP) | coding agent को Figma फ़ाइल का डिज़ाइन कॉन्टेक्स्ट देता है, मौजूदा UI को लागू करने में सहायता के लिए। | 16,301 | 0 | 2026-06-24 | 38.3 | MIT |
-| [Talk to Figma MCP](https://github.com/grab/cursor-talk-to-figma-mcp) | MCP सर्विस, Figma प्लगइन और WebSocket ब्रिज से Agent को Figma डिज़ाइन पढ़ने और बदलने देता है। | 7,127 | 0 | 2026-07-26 | 37.3 | MIT |
+| [Screenshot to Code](https://github.com/abi/screenshot-to-code) | मॉडल से स्क्रीनशॉट, प्रोटोटाइप, Figma डिज़ाइन या स्क्रीन रिकॉर्डिंग को UI कोड में बदलता है। | 81,430 | 6 | 2026-11-15 | 72.7 | MIT |
+| [Figma MCP आधिकारिक गाइड](https://github.com/figma/mcp-server-guide) · लाइसेंस चेतावनी | Figma की आधिकारिक ऑनबोर्डिंग गाइड; बताती है कि Agent डिज़ाइन कॉन्टेक्स्ट कैसे प्राप्त करते हैं और कुछ रिमोट राइट-वर्कफ़्लो कैसे चलते हैं। | 2,233 | 30 | 2026-11-24 | 70.9 | अपुष्ट |
+| [Framelink Figma MCP](https://github.com/GLips/Figma-Context-MCP) | coding agent को Figma फ़ाइल का डिज़ाइन कॉन्टेक्स्ट देता है, मौजूदा UI को लागू करने में सहायता के लिए। | 16,311 | 0 | 2026-06-24 | 38.2 | MIT |
+| [Talk to Figma MCP](https://github.com/grab/cursor-talk-to-figma-mcp) | MCP सर्विस, Figma प्लगइन और WebSocket ब्रिज से Agent को Figma डिज़ाइन पढ़ने और बदलने देता है। | 7,128 | 0 | 2026-07-26 | 37.3 | MIT |
 
 ### डॉयाग्राम और विज़ुअल एक्सप्रेशन
 
 | प्रोजेक्ट | भूमिका | Stars | 90-दिन कमिट | नवीनतम कमिट UTC | मेंटेनेंस स्कोर | लाइसेंस |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) · ★उपयोगकर्ता संदर्भ | आर्किटेक्चर, फ़्लो, डेटा आदि डॉयाग्राम को ब्रांड स्टाइल वाले सेल्फ-कंटेन्ड HTML/SVG में आउटपुट करता है। | 71,491 | 355 | 2026-11-23 | 96.6 | MIT |
-| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | पढ़ने-संपादन-योग्य Excalidraw कैनवास देता है; CLI, Skill या MCP से डॉयाग्राम बदलकर सेव करें। | 2,684 | 33 | 2026-11-10 | 68.6 | MIT |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) · ★उपयोगकर्ता संदर्भ | आर्किटेक्चर, फ़्लो, डेटा आदि डॉयाग्राम को ब्रांड स्टाइल वाले सेल्फ-कंटेन्ड HTML/SVG में आउटपुट करता है। | 72,547 | 365 | 2026-11-25 | 97.0 | MIT |
+| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | पढ़ने-संपादन-योग्य Excalidraw कैनवास देता है; CLI, Skill या MCP से डॉयाग्राम बदलकर सेव करें। | 2,687 | 33 | 2026-11-10 | 68.4 | MIT |
 
 ### पेपर, बेंचमार्क और डेटासेट
 
@@ -116,7 +116,7 @@
 
 | प्रोजेक्ट | भूमिका | Stars | 90-दिन कमिट | नवीनतम कमिट UTC | मेंटेनेंस स्कोर | लाइसेंस |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SuperDesign IDE एक्सटेंशन (पुराना संस्करण)](https://github.com/superdesigndev/superdesign) · संग्रहित/ऐतिहासिक · लाइसेंस चेतावनी | मूल ओपन कोड सुरक्षित रखता IDE UI-डिज़ाइन एक्सटेंशन; वर्तमान उसी नाम का उत्पाद अब वेब ऐप है। | 7,640 | 0 | 2026-06-29 | 35.9 | AGPL-3.0 + वाणिज्यिक नियम |
+| [SuperDesign IDE एक्सटेंशन (पुराना संस्करण)](https://github.com/superdesigndev/superdesign) · संग्रहित/ऐतिहासिक · लाइसेंस चेतावनी | मूल ओपन कोड सुरक्षित रखता IDE UI-डिज़ाइन एक्सटेंशन; वर्तमान उसी नाम का उत्पाद अब वेब ऐप है। | 7,646 | 0 | 2026-06-29 | 35.8 | AGPL-3.0 + वाणिज्यिक नियम |
 | [Penpot MCP (पुराना रिपॉज़िटरी)](https://github.com/penpot/penpot-mcp) · संग्रहित/ऐतिहासिक | इतिहास में स्वतंत्र इस रिपॉज़िटरी की सामग्री Penpot के मुख्य रिपॉज़िटरी के mcp डायरेक्टरी में शामिल हो चुकी है। | 537 | 0 | 2026-03-19 | 23.4 | MPL-2.0 |
 
 ## कैसे चुनें

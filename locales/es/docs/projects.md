@@ -9,7 +9,7 @@ Genera prototipos fieles a sistemas de diseño con un coding agent local o con O
 
 - Categoría: Agentes de diseño y bancos de trabajo de prototipos; Candidato principal.
 - Frontera de aplicación: El flujo local, la nube gestionada Cloud y el plan Go se consideran por separado; las condiciones de modelos, plantillas y materiales de marca se cuentan aparte.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 84 commits en 30 días, 436 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 82 commits en 30 días, 418 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [Fuente 2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105).
 
@@ -19,7 +19,7 @@ Agente de diseño de escritorio local que convierte prompts en artefactos de dis
 
 - Categoría: Agentes de diseño y bancos de trabajo de prototipos; Candidato principal.
 - Frontera de aplicación: Que el espacio de trabajo sea local no implica que la inferencia sea totalmente offline; los formatos de salida y las capacidades varían según el modelo y la versión publicada.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 17 commits en 30 días, 141 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 18 commits en 30 días, 142 en 90 días.
 - Licencia: [MIT](https://github.com/OpenCoworkAI/open-codesign/blob/1779bb5b0f15c734ff8ba06e2eb2463b5578e5b6/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/OpenCoworkAI/open-codesign/blob/1779bb5b0f15c734ff8ba06e2eb2463b5578e5b6/README.md#L7).
 
@@ -29,7 +29,7 @@ Genera e itera prototipos interactivos con GitHub Copilot a partir de los compon
 
 - Categoría: Agentes de diseño y bancos de trabajo de prototipos; Candidato principal.
 - Frontera de aplicación: El flujo local depende de la app GitHub Copilot, Git y Node.js, con macOS/Linux en la lista oficial; Replica Hub, opcional, lo aloja el propio equipo.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 69 commits en 30 días, 121 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 70 commits en 30 días, 122 en 90 días.
 - Licencia: [MIT](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/LICENSE); Licencia abierta verificada. MIT cubre el código propio; el NOTICE.md de la raíz enumera fuentes como Mona Sans bajo licencia SIL OFL 1.1.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L7) · [Fuente 2](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L53) · [Fuente 3](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/NOTICE.md#L3).
 
@@ -39,7 +39,7 @@ Agente de diseño ligero basado en libfx que itera en lenguaje natural y exporta
 
 - Categoría: Agentes de diseño y bancos de trabajo de prototipos; Candidato principal.
 - Frontera de aplicación: La ruta de despliegue oficial involucra a Vercel y AI Gateway; un artefacto de archivo único no equivale a una base de código de producto completa.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 67 commits en 30 días, 134 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 62 commits en 30 días, 134 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/vercel-labs/fx0/blob/ebc177ea055c863f6da50bfe4241fc8381a6b0c8/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/vercel-labs/fx0/blob/ebc177ea055c863f6da50bfe4241fc8381a6b0c8/README.md#L3).
 
@@ -49,7 +49,7 @@ Agente de diseño de marca para equipos que recibe materiales y requisitos por S
 
 - Categoría: Agentes de diseño y bancos de trabajo de prototipos; Candidato principal.
 - Frontera de aplicación: La ruta de despliegue oficial en Slack depende de Managed Deep Agents; que el código sea open source no significa que el servicio gestionado sea gratuito.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 40 commits en 30 días, 72 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 30 commits en 30 días, 72 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/langchain-ai/design-agent/blob/8134d7ccdc3f91a0192d45499dc368e9f89d7910/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/langchain-ai/design-agent/blob/8134d7ccdc3f91a0192d45499dc368e9f89d7910/README.md#L26).
 
@@ -59,7 +59,7 @@ Plataforma de diseño colaborativa autoalojable con design tokens, componentes e
 
 - Categoría: Lienzos editables y diseño vectorial; Candidato principal.
 - Frontera de aplicación: El editor puede usarse de forma independiente; MCP es una capacidad de integración, no un modelo generativo integrado.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 676 commits en 30 días, 1615 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 675 commits en 30 días, 1612 en 90 días.
 - Licencia: [MPL-2.0](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/README.md#L47).
 
@@ -69,7 +69,7 @@ Editor de diseño programable con IA, CLI y MCP que puede abrir archivos .fig y 
 
 - Categoría: Lienzos editables y diseño vectorial; Candidato principal.
 - Frontera de aplicación: Sigue en desarrollo; la fidelidad de nodos, fuentes e ida y vuelta de archivos debe verificarse con archivos reales; no es el repositorio homónimo de ZSeven-W.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 675 commits en 30 días, 1560 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 668 commits en 30 días, 1576 en 90 días.
 - Licencia: [MIT](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/README.md#L9).
 
@@ -79,7 +79,7 @@ Convierte lenguaje natural en interfaces editables sobre el lienzo, con diseño 
 
 - Categoría: Lienzos editables y diseño vectorial; Candidato principal.
 - Frontera de aplicación: La integración de modelos y la exportación a frameworks deben verificarse caso por caso; es un repositorio independiente y sus métricas no se combinan con las de open-pencil.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 245 commits en 30 días, 941 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 240 commits en 30 días, 931 en 90 días.
 - Licencia: [MIT](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/README.md#L44).
 
@@ -89,7 +89,7 @@ Editor visual de código local-first en el que trabajan agentes ya existentes de
 
 - Categoría: Lienzos editables y diseño vectorial; Candidato principal.
 - Frontera de aplicación: No incluye modelos propios; la licencia del código no cubre parte de los activos de marca, fuentes y de terceros del repositorio.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 22 commits en 30 días, 22 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 35 commits en 30 días, 35 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/onlook-dev/onlook/blob/7b17f48c59adb7ac4ec30a6982e4971f22846c2b/LICENSE); Licencia abierta verificada. Apache-2.0 cubre el código fuente, pero el README y NOTICE aclaran que ciertas fuentes, logotipos e imágenes no están bajo la licencia del código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/onlook-dev/onlook/blob/7b17f48c59adb7ac4ec30a6982e4971f22846c2b/README.md#L45) · [Fuente 2](https://github.com/onlook-dev/onlook/blob/7b17f48c59adb7ac4ec30a6982e4971f22846c2b/README.md#L148).
 
@@ -99,7 +99,7 @@ Permite que un coding agent explore varias direcciones en un lienzo local usando
 
 - Categoría: Lienzos editables y diseño vectorial; Candidato principal.
 - Frontera de aplicación: Orientado sobre todo a iterar el diseño de aplicaciones ya existentes; la compatibilidad multi-framework y el efecto real de la escritura de vuelta no se han probado.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 39 commits en 30 días, 280 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 39 commits en 30 días, 269 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/README.md#L12).
 
@@ -109,7 +109,7 @@ Aporta a los coding agents vocabulario de diseño y órdenes de refinado, críti
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: La guía y los chequeos de una Skill no equivalen a una revisión de diseño humana ni a una certificación de accesibilidad.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 1172 commits en 30 días, 2154 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 1322 commits en 30 días, 2321 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -119,7 +119,7 @@ Agent Skill que sugiere estilo, paletas, tipografía y sistemas de diseño para 
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: Las reglas y los resultados generados son un punto de partida de diseño; la accesibilidad y la implementación final siguen requiriendo pruebas.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 33 commits en 30 días, 90 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 34 commits en 30 días, 92 en 90 días.
 - Licencia: [MIT](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/README.md#L30).
 
@@ -129,7 +129,7 @@ Adapta al coding agent las design Skills, el sistema de diseño de marca y los e
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: No es la aplicación de escritorio de OpenDesign; los ejemplos, los recursos de marca y los resultados generados deben verificarse según sus propias condiciones de uso.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 220 commits en 30 días, 422 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 221 commits en 30 días, 425 en 90 días.
 - Licencia: [MIT](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/README.md#L7).
 
@@ -159,7 +159,7 @@ Conjunto oficial de skills y plugins para Google Stitch que conecta los agentes 
 
 - Categoría: Sistemas de diseño y DESIGN.md; Infraestructura adyacente.
 - Frontera de aplicación: Lo open source son las skills y los plugins; las capacidades del servicio Stitch, las cuentas y el uso se rigen por sus condiciones de servicio.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 18 commits en 30 días, 18 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 22 commits en 30 días, 22 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/README.md#L3).
 
@@ -199,7 +199,7 @@ Guía oficial de integración de Figma que explica cómo obtienen contexto de di
 
 - Categoría: De diseño a código y puentes MCP; Infraestructura adyacente.
 - Frontera de aplicación: El repositorio es documentación, no un servicio autoalojable; lectura, escritura, licencias de usuario y límites de tasa difieren entre sí.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 8 commits en 30 días, 29 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 9 commits en 30 días, 30 en 90 días.
 - Licencia: [Sin confirmar](https://github.com/figma/mcp-server-guide/blob/490a73c7537123cb1f0bcaced658585f0ee32fd9/README.md); Licencia pendiente de verificación. No se confirmó la licencia en la raíz del repositorio; se incluye como referencia pública sin asumir derechos de reutilización.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/figma/mcp-server-guide/blob/490a73c7537123cb1f0bcaced658585f0ee32fd9/README.md#L3).
 
@@ -229,7 +229,7 @@ Genera diagramas de arquitectura, flujo o datos como HTML/SVG autocontenido con 
 
 - Categoría: Diagramas y expresión visual; Candidato principal.
 - Frontera de aplicación: Es una Agent Skill; los derechos de los archivos importados, las dependencias de terceros y la accesibilidad deben revisarse por separado.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 108 commits en 30 días, 355 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 100 commits en 30 días, 365 en 90 días.
 - Licencia: [MIT](https://github.com/cathrynlavery/diagram-design/blob/f6db0decea96de66b901331a0f79a8d4b147ebae/LICENSE); Licencia abierta verificada. El código propio usa MIT; para las dependencias incluidas, consulta THIRD_PARTY_LICENSES.md.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/cathrynlavery/diagram-design/blob/f6db0decea96de66b901331a0f79a8d4b147ebae/README.md#L10) · [Fuente 2](https://github.com/cathrynlavery/diagram-design/blob/f6db0decea96de66b901331a0f79a8d4b147ebae/README.md#L51).
 
