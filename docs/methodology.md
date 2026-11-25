@@ -1,6 +1,6 @@
 # Maintenance ranking
 
-Metrics come from GitHub GraphQL: stars, reachable history commits on the default branch in the last 30 and 90 days, the most recent default-branch commit, archive status, and so on. Time windows are computed from the snapshot in UTC; pushes to other branches are not counted.
+Metrics come from GitHub GraphQL: stars, reachable history commits on the default branch in the last 30 and 90 days, the most recent default-branch commit, archive status, and so on. Time windows are computed from the snapshot in UTC; pushes to other branches are not counted. The one exception is a repository GitHub can no longer resolve (renamed away or deleted): its previous record is carried forward and marked `missing_upstream` with a `missing_since` timestamp, so a single vanished project cannot break the daily refresh. Rate limits, transport failures and partial GraphQL responses still abort the run and keep the previous snapshot whole.
 
 1. Tier by maintenance status first: commits within the last 90 days, no commits for 91–365 days, no commits for over 365 days, and archived or explicitly historical reference.
 2. Balanced maintenance score = 100 × (0.40 × star term + 0.35 × activity term + 0.25 × recency term). The star term is log1p(stars) / log1p(100000) and the activity term is log1p(90-day commits) / log1p(500), both capped at 1; the recency term is exp(-days since the last commit / 90).
