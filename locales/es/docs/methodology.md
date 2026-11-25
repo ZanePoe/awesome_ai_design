@@ -1,0 +1,11 @@
+# Ordenación por mantenimiento
+
+Las métricas proceden de GitHub GraphQL: estrellas, commits alcanzables en la rama por defecto de los últimos 30 y 90 días, último commit en la rama por defecto, estado de archivo, etc. Las ventanas temporales se calculan según la instantánea UTC; no cuentan los push de todas las ramas.
+
+1. Primero se estratifica por estado de mantenimiento: commits en los últimos 90 días, sin commits desde hace 91–365 días, sin commits desde hace más de 365 días, archivado o referencia histórica clara.
+2. Puntuación de mantenimiento combinada = 100 × (0.40 × término de estrellas + 0.35 × término de actividad + 0.25 × término de novedad). El término de estrellas es log1p(Stars) / log1p(100000), el de actividad es log1p(commits de 90 días) / log1p(500), ambos con tope 1; el de novedad es exp(−días desde el último commit / 90).
+3. Se ofrecen cuatro vistas: combinada, por estrellas, por commits de 90 días y por último commit; en caso de empate, el orden estable lo determinan las estrellas y el nombre del repositorio. El vistazo rápido a los proyectos nucleares activos exige además licencia de código abierta verificada.
+
+Las estrellas miden atención; el número de commits se ve influido por el tamaño del repositorio, las migraciones de historial y las actualizaciones de documentación. Las métricas de un repositorio no representan el mantenimiento de un Skill concreto, ni la calidad de los entregables, la fidelidad de la réplica, la accesibilidad ni la aptitud para el uso comercial.
+
+El flujo de mantenimiento actualiza periódicamente las métricas, el README, el CSV y la ficha detallada de proyectos. Las funciones y las licencias conservan su fecha de verificación manual y su evidencia en commits fijos, y no se reescriben automáticamente con cada instantánea.

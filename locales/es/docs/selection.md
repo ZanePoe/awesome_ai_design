@@ -1,0 +1,9 @@
+## Cómo elegir
+
+- Si ya tienes una librería de componentes y necesitas que el equipo genere prototipos interactivos: mira primero [GitHub Replica](https://github.com/github/replica); depende de la app de GitHub Copilot. Si prefieres elegir tú el agente o el modelo, mira [OpenDesign](https://github.com/nexu-io/open-design).
+- Si ya tienes una página web o un archivo de diseño y necesitas seguir editándolo: para un espacio de trabajo orientado al código, mira [Onlook](https://github.com/onlook-dev/onlook); si necesitas leer y escribir archivos de diseño y controlarlos con scripts, mira [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil).
+- Si ya tienes una página y solo quieres mejorar la animación o la calidad del diseño: para el movimiento, mira [Emil Kowalski Skills](https://github.com/emilkowalski/skills); para revisar layout y accesibilidad, puedes probar primero [Impeccable](https://github.com/pbakaus/impeccable) y validar después con navegadores reales, teclado y tecnologías de asistencia.
+- Si necesitas diagramas de arquitectura con estilo de marca, o que un agente edite repetidamente sobre un lienzo: mira respectivamente [Diagram Design](https://github.com/cathrynlavery/diagram-design) y [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw).
+- Si quieres reutilizar el mismo lenguaje visual en varios agentes: describe primero color, tipografía y reglas de layout con la [especificación DESIGN.md](https://github.com/google-labs-code/design.md); los ejemplos de marcas de terceros son solo referencia.
+
+Para la primera prueba, conviene elegir una página o un diagrama publicable, comprobar si el entregable sigue siendo editable, revisar las fuentes y el camino de los datos hacia modelos remotos, y comparar después los proyectos candidatos con la misma entrada.

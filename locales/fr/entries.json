@@ -1,0 +1,181 @@
+{
+  "nexu-io/open-design": {
+    "description": "Génère des prototypes respectant le design system via un coding agent local ou OpenDesign Cloud, puis les partage et les fait itérer dans l'espace de travail d'équipe.",
+    "boundary": "Considérez séparément le flux local, le Cloud hébergé et l'offre Go ; les conditions des modèles, gabarits et ressources de marque comptent à part.",
+    "license_label": "Apache-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "github/replica": {
+    "description": "Génère et fait itérer des prototypes interactifs via GitHub Copilot en réutilisant les composants, motifs et directives de design déjà présents dans l'équipe.",
+    "boundary": "Le flux local dépend de l'application GitHub Copilot, de Git et de Node.js, avec macOS/Linux listés officiellement ; le Replica Hub optionnel est hébergé par l'équipe.",
+    "license_label": "MIT",
+    "license_note": "MIT couvre le code propre au projet ; le NOTICE.md racine liste la licence SIL OFL 1.1 de polices comme Mona Sans."
+  },
+  "OpenCoworkAI/open-codesign": {
+    "description": "Agent de design de bureau local qui transforme les prompts en livrables de design prévisualisables, avec la possibilité de connecter un modèle au choix.",
+    "boundary": "Un espace de travail local ne signifie pas une inférence entièrement hors ligne ; les formats de sortie et les capacités varient selon le modèle et la version publiée.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "langchain-ai/design-agent": {
+    "description": "Agent de design de marque pour les équipes : reçoit ressources et exigences depuis Slack et livre des maquettes, des présentations ou du contenu animé.",
+    "boundary": "La voie de déploiement Slack officielle dépend de Managed Deep Agents ; un code open source n'équivaut pas à un hébergement gratuit.",
+    "license_label": "Apache-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "vercel-labs/fx0": {
+    "description": "Agent de design léger basé sur libfx qui itère en langage naturel et exporte des pages HTML mono-fichier.",
+    "boundary": "La voie de déploiement officielle implique Vercel et AI Gateway ; un livrable mono-fichier n'équivaut pas à une base de code produit complète.",
+    "license_label": "Apache-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "open-pencil/open-pencil": {
+    "name": "OpenPencil (open-pencil)",
+    "description": "Éditeur de design programmable avec IA, CLI et MCP, capable d'ouvrir les fichiers .fig et .pen.",
+    "boundary": "Encore en développement ; la fidélité des nœuds, des polices et des allers-retours fichiers doit être vérifiée sur des fichiers réels ; ce n'est pas le dépôt homonyme de ZSeven-W.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "ZSeven-W/openpencil": {
+    "name": "OpenPencil (ZSeven-W)",
+    "description": "Convertit le langage naturel en interfaces éditables sur le canvas, avec conception parallèle par plusieurs agents et opérations MCP.",
+    "boundary": "La connexion des modèles et l'export vers les frameworks sont à vérifier point par point ; dépôt indépendant dont les métriques ne sont pas fusionnées avec celles de open-pencil.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "velloo-design/velloo": {
+    "description": "Permet aux coding agents d'explorer plusieurs directions sur un canvas local en réutilisant les composants de l'application existante, puis de réinjecter le design retenu dans l'application.",
+    "boundary": "Viser surtout l'itération de design d'applications existantes ; le support multi-framework et l'effet réel de la réécriture n'ont pas été testés.",
+    "license_label": "Apache-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "onlook-dev/onlook": {
+    "description": "Éditeur visuel local-first pour le code, où des agents existants comme Claude Code ou Codex travaillent directement dans le projet.",
+    "boundary": "N'embarque pas de modèle propre ; la licence du code ne couvre pas certaines ressources de marque, polices et actifs tiers présents dans le dépôt.",
+    "license_label": "Apache-2.0",
+    "license_note": "Apache-2.0 couvre le code source, mais le README et NOTICE précisent que certaines polices, logos et images ne relèvent pas de cette licence."
+  },
+  "penpot/penpot": {
+    "description": "Plateforme de design collaborative auto-hébergeable offrant jetons de design, composants et interface MCP pour relier design et code.",
+    "boundary": "L'éditeur s'utilise seul ; MCP est une capacité d'intégration, pas un modèle génératif intégré.",
+    "license_label": "MPL-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "emilkowalski/skills": {
+    "description": "Skills d'UI et de motion pour designers et ingénieurs : choix du motion, revue et amélioration des performances.",
+    "boundary": "Les règles viennent de la pratique design-engineering de l'auteur ; croisez-les avec des tests utilisateurs, la préférence de réduction des animations et le comportement sur de vrais appareils.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "pbakaus/impeccable": {
+    "description": "Commandes de vocabulaire de design, de polissage, de critique et de revue pour coding agents, afin d'itérer des interfaces existantes.",
+    "boundary": "Les consignes et vérifications du Skill ne remplacent pas une revue de design humaine ni une certification d'accessibilité.",
+    "license_label": "Apache-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "nextlevelbuilder/ui-ux-pro-max-skill": {
+    "description": "Agent Skill proposant style, palette, typographie et conseils de design system pour plusieurs stacks front-end.",
+    "boundary": "Les règles et les résultats générés constituent un point de départ ; l'accessibilité et l'implémentation finale restent à tester.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "feimacode/open-design-agent-kit": {
+    "description": "Porte les Skills de design d'OpenDesign, ses design systems de marque et ses exemples pour un usage dans les coding agents.",
+    "boundary": "Ce n'est pas l'application de bureau OpenDesign ; les exemples, les ressources de marque et les résultats générés sont à vérifier selon leurs conditions d'usage propres.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "JustineBijuPaul/frontend-ai-skills": {
+    "description": "Skills front-end modulaires chargés à la demande, couvrant entre autres le motion, les interactions et l'accessibilité.",
+    "boundary": "Contient aussi des connaissances générales d'ingénierie front-end ; concentrez-vous sur les modules design et interaction.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "google-labs-code/design.md": {
+    "description": "Spécification d'identité visuelle réunissant dans un même fichier les jetons de design lisibles par machine et les principes de design lisibles par les agents.",
+    "boundary": "C'est une spécification portable et son outillage, pas un agent de design ; le soutien des hôtes à la spécification peut varier.",
+    "license_label": "Apache-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "VoltAgent/awesome-design-md": {
+    "description": "Rassemble des références DESIGN.md réutilisables pour donner aux agents le style de marque, la typographie, les couleurs et les conventions de composants.",
+    "boundary": "C'est un ensemble de références, pas un générateur ; les logos de marque, polices et autres droits tiers ne sont pas couverts par la licence MIT du dépôt.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "google-labs-code/stitch-skills": {
+    "description": "Ensemble officiel de skills et de plugins pour Google Stitch, reliant les agents à son flux de design.",
+    "boundary": "Ce qui est open source, ce sont les skills et les plugins ; les capacités du service Stitch, le compte et l'usage suivent ses conditions de service.",
+    "license_label": "Apache-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "abi/screenshot-to-code": {
+    "description": "Convertit captures d'écran, maquettes, designs Figma ou enregistrements d'écran en code d'interface à l'aide de modèles.",
+    "boundary": "Le coût des modèles, la destination des données et la stack exportée dépendent de la configuration ; une approximation visuelle n'équivaut pas à du code maintenable ou accessible.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "GLips/Figma-Context-MCP": {
+    "description": "Fournit aux coding agents le contexte de design des fichiers Figma pour les aider à implémenter les interfaces existantes.",
+    "boundary": "Nécessite un accès Figma autorisé ; c'est un pont de contexte, pas un canvas autonome ni un MCP hébergé officiel.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "grab/cursor-talk-to-figma-mcp": {
+    "description": "Permet aux agents de lire et de modifier les designs Figma via un service MCP, un plugin Figma et un pont WebSocket.",
+    "boundary": "Vérifiez le plugin, les droits d'écriture sur les fichiers et le périmètre de connexion ; l'ancienne adresse sonnylazuardi/cursor-talk-to-figma-mcp redirige vers ce dépôt.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "figma/mcp-server-guide": {
+    "name": "Guide officiel MCP Figma",
+    "description": "Guide d'intégration officiel de Figma expliquant comment les agents obtiennent le contexte de design et quelques flux d'écriture à distance.",
+    "boundary": "Le dépôt est de la documentation, pas un service auto-hébergeable ; lecture, écriture, sièges et limites de débit diffèrent.",
+    "license_label": "Non confirmée",
+    "license_note": "Licence non confirmée à la racine du dépôt ; inclus comme référence publique, sans que cela accorde un droit de réutilisation."
+  },
+  "cathrynlavery/diagram-design": {
+    "description": "Produit des diagrammes d'architecture, de flux ou de données en HTML/SVG autonomes au style de la marque.",
+    "boundary": "C'est un Agent Skill ; les droits sur les fichiers importés, les dépendances tierces et l'accessibilité sont à vérifier séparément.",
+    "license_label": "MIT",
+    "license_note": "MIT pour le code propre au projet ; voir THIRD_PARTY_LICENSES.md pour les dépendances incluses."
+  },
+  "yctimlin/mcp_excalidraw": {
+    "description": "Offre un canvas Excalidraw en lecture-écriture, modifiant et sauvegardant les diagrammes via CLI, Skill ou MCP.",
+    "boundary": "Nécessite le canvas ou l'environnement de service correspondant ; la collaboration multi-personne et la fidélité des exports sont à tester selon le déploiement.",
+    "license_label": "MIT",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "NoviScl/Design2Code": {
+    "description": "Benchmark de capture-d'écran-vers-code sur des pages web réelles, avec jeu de données et outils d'évaluation automatique.",
+    "boundary": "La licence du code ne remplace pas les conditions du jeu de données ni des poids ; ses résultats ne se mélangent pas au score de maintenance du catalogue.",
+    "license_label": "MIT",
+    "license_note": "MIT pour le code ; voir DATA_LICENSE à la racine du dépôt pour le jeu de données, et vérifier la page de publication pour les poids de modèles."
+  },
+  "WebPAI/DesignBench": {
+    "description": "Benchmark de recherche évaluant la génération, l'édition et la réparation de code front-end dans plusieurs frameworks.",
+    "boundary": "La licence à la racine du dépôt n'est pas encore confirmée ; vérifiez séparément les conditions d'usage de l'article, du code et des données.",
+    "license_label": "Non confirmée",
+    "license_note": "Licence non confirmée à la racine du dépôt ; inclus comme référence publique, sans que cela accorde un droit de réutilisation."
+  },
+  "DAMO-NLP-SG/WebDesignAgent": {
+    "description": "Prototype de recherche de génération de sites web illustrant un flux de design piloté par la description, les gabarits de référence, les images et les retours.",
+    "boundary": "Prototype et exemples académiques ; ne présumez pas qu'il sert directement d'atelier de design de production.",
+    "license_label": "Apache-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "superdesigndev/superdesign": {
+    "name": "SuperDesign IDE (hérité)",
+    "description": "Extension IDE de design d'interfaces conservant le code ouvert d'origine ; le produit homonyme actuel est devenu une application web.",
+    "boundary": "L'ancienne extension n'est plus activement maintenue ; le produit web actuel n'est pas une version auto-hébergeable de ce dépôt.",
+    "license_label": "AGPL-3.0 + conditions commerciales",
+    "license_note": "La plupart des fichiers relèvent de l'AGPLv3 ; les fichiers marqués Enterprise sont soumis à une licence commerciale distincte."
+  },
+  "penpot/penpot-mcp": {
+    "name": "Penpot MCP (archivé)",
+    "description": "Le contenu de l'ancien dépôt autonome a été fusionné dans le répertoire mcp du dépôt principal de Penpot.",
+    "boundary": "Les nouveaux utilisateurs doivent passer par le dépôt principal de Penpot ; l'ancien dépôt est conservé pour tracer la migration.",
+    "license_label": "MPL-2.0",
+    "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  }
+}

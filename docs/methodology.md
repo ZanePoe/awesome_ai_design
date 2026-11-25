@@ -1,11 +1,11 @@
-# 维护排序
+# Maintenance ranking
 
-指标使用 GitHub GraphQL：Stars、默认分支近 30 天和 90 天可达历史提交数、最近默认分支提交、归档状态等。时间窗口按快照 UTC 计算；不是统计所有分支的 push。
+Metrics come from GitHub GraphQL: stars, reachable history commits on the default branch in the last 30 and 90 days, the most recent default-branch commit, archive status, and so on. Time windows are computed from the snapshot in UTC; pushes to other branches are not counted.
 
-1. 先按维护状态分层：近 90 天有提交、91–365 天未提交、超过 365 天未提交、归档或明确的历史参考。
-2. 综合维护分 = 100 × (0.40 × Star 项 + 0.35 × 活跃项 + 0.25 × 新鲜度项)。Star 项为 log1p(Stars) / log1p(100000)，活跃项为 log1p(90 天提交数) / log1p(500)，两者上限均为 1；新鲜度项为 exp(−距最近提交天数 / 90)。
-3. 提供综合、Star、90 天提交、最近提交四种视图，同值时用 Stars、仓库名决定稳定次序。活跃核心速览另要求代码开放许可已核验。
+1. Tier by maintenance status first: commits within the last 90 days, no commits for 91–365 days, no commits for over 365 days, and archived or explicitly historical reference.
+2. Balanced maintenance score = 100 × (0.40 × star term + 0.35 × activity term + 0.25 × recency term). The star term is log1p(stars) / log1p(100000) and the activity term is log1p(90-day commits) / log1p(500), both capped at 1; the recency term is exp(-days since the last commit / 90).
+3. Four views are provided — balanced, stars, 90-day commits, and last commit — with ties ordered stably by stars, then repository name. The active-core shortlist additionally requires a verified open code license.
 
-Star 是关注度，提交数会受仓库大小、历史迁移和文档更新影响。仓库指标不等于单个 Skill 的维护情况，也不等于产物质量、复刻还原度、可访问性或可商用性。
+Stars measure attention; commit counts are affected by repository size, history migrations and documentation updates. Repository metrics do not describe the maintenance of an individual Skill, nor output quality, replication fidelity, accessibility or commercial usability.
 
-维护工作流定期更新指标、README、CSV 和项目详表。功能和许可证保留人工核验日期与固定提交证据，不随快照自动改写。
+The maintenance workflow periodically refreshes metrics, README, CSV and project details. Feature and license verification keep their manual verification date and pinned-commit evidence, and are not rewritten automatically with the snapshot.

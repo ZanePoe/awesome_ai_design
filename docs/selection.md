@@ -1,9 +1,9 @@
-## 怎么选
+## How to choose
 
-- 已有组件库，需要让团队生成交互原型：先看 [GitHub Replica](https://github.com/github/replica)；它依赖 GitHub Copilot app。希望自行选择 Agent 或模型时，看 [OpenDesign](https://github.com/nexu-io/open-design)。
-- 已有网页或设计文件，需要继续编辑：代码工作区看 [Onlook](https://github.com/onlook-dev/onlook)；需要设计文件读写与脚本控制，看 [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)。
-- 已有页面，只想改善动效或设计质量：动效看 [Emil Kowalski Skills](https://github.com/emilkowalski/skills)，布局和可访问性审查可先试 [Impeccable](https://github.com/pbakaus/impeccable)，再用实际浏览器、键盘和辅助技术验证。
-- 需要带品牌样式的架构图，或需要 Agent 在画布上反复编辑：分别看 [Diagram Design](https://github.com/cathrynlavery/diagram-design) 和 [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw)。
-- 想在多个 Agent 中复用同一视觉语言：先用 [DESIGN.md 规范](https://github.com/google-labs-code/design.md) 写出颜色、排版和布局规则；第三方品牌样例只作参考。
+- You have a component library and need the team to generate interactive prototypes: start with [GitHub Replica](https://github.com/github/replica); it depends on the GitHub Copilot app. When you want to choose the agent or model yourself, look at [OpenDesign](https://github.com/nexu-io/open-design).
+- You have an existing web page or design file to keep editing: for a code workspace, see [Onlook](https://github.com/onlook-dev/onlook); for reading and writing design files with scripted control, see [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil).
+- You only want better motion or design quality on existing pages: for motion, see [Emil Kowalski Skills](https://github.com/emilkowalski/skills); for layout and accessibility review, try [Impeccable](https://github.com/pbakaus/impeccable) first, then validate in real browsers, with keyboards and assistive technology.
+- You need architecture diagrams with brand styling, or agents editing repeatedly on a canvas: see [Diagram Design](https://github.com/cathrynlavery/diagram-design) and [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) respectively.
+- You want to reuse one visual language across several agents: write the color, typography and layout rules first with the [DESIGN.md specification](https://github.com/google-labs-code/design.md); third-party brand samples are for reference only.
 
-首次试用建议选一个可公开的页面或图解，核对交付物能否继续编辑，检查字体和远程模型的数据路径，再用同一输入比较备选项目。
+For a first trial, pick one page or diagram you can publish, check that the deliverable stays editable, inspect the data paths of fonts and remote models, then compare the alternatives with the same input.

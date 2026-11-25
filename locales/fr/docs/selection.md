@@ -1,0 +1,9 @@
+## Comment choisir
+
+- Vous avez déjà une bibliothèque de composants et l'équipe doit générer des prototypes interactifs : commencez par [GitHub Replica](https://github.com/github/replica) ; il dépend de l'application GitHub Copilot. Pour choisir vous-même l'agent ou le modèle, regardez [OpenDesign](https://github.com/nexu-io/open-design).
+- Vous avez déjà une page web ou un fichier de design et devez continuer à l'éditer : pour un espace de travail centré sur le code, [Onlook](https://github.com/onlook-dev/onlook) ; pour la lecture-écriture de fichiers de design et le pilotage par scripts, [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil).
+- Vous avez une page existante et voulez seulement améliorer le motion design ou la qualité du design : pour le motion, [Emil Kowalski Skills](https://github.com/emilkowalski/skills) ; pour la revue de mise en page et d'accessibilité, essayez d'abord [Impeccable](https://github.com/pbakaus/impeccable), puis validez avec un vrai navigateur, un vrai clavier et des technologies d'assistance.
+- Vous voulez des diagrammes d'architecture au style de votre marque, ou un agent qui édite en continu sur un canvas : voir respectivement [Diagram Design](https://github.com/cathrynlavery/diagram-design) et [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw).
+- Vous voulez réutiliser le même langage visuel dans plusieurs agents : rédigez d'abord couleurs, typographie et règles de mise en page avec la [spécification DESIGN.md](https://github.com/google-labs-code/design.md) ; les exemples de marques tiers ne servent que de référence.
+
+Pour un premier essai, choisissez une page ou un diagramme pouvant être rendu public, vérifiez que le livrable reste éditable, inspectez les chemins des polices et des données vers les modèles distants, puis comparez les candidats sur la même entrée.

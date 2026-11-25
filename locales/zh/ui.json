@@ -1,0 +1,72 @@
+{
+  "language": "zh",
+  "language_name": "简体中文",
+  "list_separator": "、",
+  "categories": {
+    "studios": "设计 Agent 与原型工作台",
+    "canvas": "可编辑画布与矢量设计",
+    "skills": "前端设计、动效与审查 Skills",
+    "design_systems": "设计系统与 DESIGN.md",
+    "bridges": "设计转代码与 MCP 桥接",
+    "diagrams": "图解与视觉表达",
+    "research": "论文、基准与数据集",
+    "historical": "历史与归档项目"
+  },
+  "scopes": {
+    "core": "核心候选",
+    "adjacent": "相邻基础设施",
+    "research": "研究/评测",
+    "historical": "历史参考",
+    "restricted": "受限许可"
+  },
+  "license_status": {
+    "verified": "开放许可证已核验",
+    "custom": "复合/条件许可",
+    "source_available": "源码可见但非 OSI 开源",
+    "unverified": "许可待核验"
+  },
+  "modes": {
+    "balanced": "综合维护分",
+    "stars": "Star 优先",
+    "activity": "90 天提交优先",
+    "recent": "最近默认分支提交优先"
+  },
+  "tiers": [
+    "近90天有提交",
+    "91–365天未提交",
+    "超过365天未提交",
+    "归档 / 历史"
+  ],
+  "tags": {
+    "baseline": "★用户参考",
+    "archived": "归档/历史",
+    "license": "许可注意"
+  },
+  "headers": {
+    "shortlist": ["项目", "定位", "Stars", "90天提交", "最近提交 UTC", "维护分"],
+    "categories": ["分类", "数量", "维护排序靠前的项目"],
+    "detail": ["项目", "定位", "Stars", "90天提交", "最近提交 UTC", "维护分", "许可"],
+    "rankings": ["项目", "分类", "维护层", "Stars", "90天提交", "最近提交 UTC", "维护分"]
+  },
+  "sections": {
+    "current": "当前收录",
+    "shortlist": "活跃核心项目速览",
+    "toc": "分类目录",
+    "data": "数据与维护",
+    "thanks": "许可",
+    "detail_title": "项目说明与证据",
+    "rankings_title": "排序视图"
+  },
+  "templates": {
+    "current": "**{total} 个项目，其中 {baseline} 个为用户参考项目，{added} 个为扩展收录。** 功能核验：{reviewed}；指标快照：`{as_of}`（UTC）。\n\n每个分类先按维护状态分层，再综合 star（40%）、90 天默认分支提交（35%）和最近提交（25%）排序。维护分不代表设计质量、模型能力、可访问性或生产成熟度。",
+    "shortlist_note": "仅展示核心候选、开放许可证已核验且近 90 天有提交的项目；受限许可、研究基准和相邻工具不进入此表。",
+    "toc_note": "`★用户参考` 表示用户直接提供的项目。每个仓库只进入一个主分类；项目详表记录依赖和限制。",
+    "detail_intro": "每项定位来自固定提交的官方 README，未安装运行全部项目。指标刷新不会自动重审功能和许可证。",
+    "rankings_intro": "快照：`{as_of}`。这是 GitHub 维护元数据排序，不是设计质量排行榜。所有视图先按维护状态分层。",
+    "entry": "- 分类：{category}；{scope}。\n- 适用边界：{boundary}\n- 维护状态：{maintenance}；30 天提交 {commits_30d} 次，90 天提交 {commits_90d} 次。\n- 许可：[{license}]({license_source})；{license_status}。{license_note}\n- 功能核验：{reviewed_at}；{sources}。",
+    "source_link": "来源{index}",
+    "data": "- [项目详表与固定版本证据](docs/projects.md)\n- [综合、Star、活跃度、最近提交排序](docs/rankings.md)\n- [论文与基准](docs/research.md)\n- [检索与收录决策]({R}research/README.md)\n- [排序方法](docs/methodology.md)\n- [贡献指南](CONTRIBUTING.md)",
+    "thanks": "本目录原创整理与脚本采用 [MIT]({R}LICENSE)。链接项目、托管服务、数据集、素材和字体遵循各自条款。部分维护脚本沿用 [视频合集](https://github.com/ZanePoe/awesome_ai_video_creation) 的 MIT 实现。",
+    "records_note": "本目录的核验记录与收录决策保留核验当时的原文（中文），用于审计每条判断的来源和当时的措辞；`research/` 目录与变更记录不做机器翻译。"
+  }
+}

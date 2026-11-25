@@ -1,0 +1,99 @@
+{
+ "language": "es",
+ "language_name": "Español",
+ "list_separator": ", ",
+ "categories": {
+  "studios": "Agentes de diseño y bancos de trabajo de prototipos",
+  "canvas": "Lienzos editables y diseño vectorial",
+  "skills": "Skills de diseño front-end, animación y revisión",
+  "design_systems": "Sistemas de diseño y DESIGN.md",
+  "bridges": "De diseño a código y puentes MCP",
+  "diagrams": "Diagramas y expresión visual",
+  "research": "Artículos, benchmarks y conjuntos de datos",
+  "historical": "Proyectos históricos y archivados"
+ },
+ "scopes": {
+  "core": "Candidato principal",
+  "adjacent": "Infraestructura adyacente",
+  "research": "Investigación/evaluación",
+  "historical": "Referencia histórica",
+  "restricted": "Licencia restringida"
+ },
+ "license_status": {
+  "verified": "Licencia abierta verificada",
+  "custom": "Licencia compuesta/condicional",
+  "source_available": "Código fuente visible pero no open source OSI",
+  "unverified": "Licencia pendiente de verificación"
+ },
+ "modes": {
+  "balanced": "Puntuación de mantenimiento combinada",
+  "stars": "Prioridad a las estrellas",
+  "activity": "Prioridad a los commits de 90 días",
+  "recent": "Prioridad al último commit de la rama por defecto"
+ },
+ "tiers": [
+  "Con commits en los últimos 90 días",
+  "Sin commits desde hace 91–365 días",
+  "Sin commits desde hace más de 365 días",
+  "Archivado / histórico"
+ ],
+ "tags": {
+  "baseline": "★Referencia del usuario",
+  "archived": "Archivado/histórico",
+  "license": "Aviso de licencia"
+ },
+ "headers": {
+  "shortlist": [
+   "Proyecto",
+   "Propósito",
+   "Estrellas",
+   "Commits 90 d",
+   "Último commit UTC",
+   "Puntuación de mantenimiento"
+  ],
+  "categories": [
+   "Categoría",
+   "Cantidad",
+   "Proyectos mejor posicionados por mantenimiento"
+  ],
+  "detail": [
+   "Proyecto",
+   "Propósito",
+   "Estrellas",
+   "Commits 90 d",
+   "Último commit UTC",
+   "Puntuación de mantenimiento",
+   "Licencia"
+  ],
+  "rankings": [
+   "Proyecto",
+   "Categoría",
+   "Capa de mantenimiento",
+   "Estrellas",
+   "Commits 90 d",
+   "Último commit UTC",
+   "Puntuación de mantenimiento"
+  ]
+ },
+ "sections": {
+  "current": "Catálogo actual",
+  "shortlist": "Vistazo rápido a los proyectos nucleares activos",
+  "toc": "Índice de categorías",
+  "data": "Datos y mantenimiento",
+  "thanks": "Licencias",
+  "detail_title": "Descripciones de proyectos y evidencia",
+  "rankings_title": "Vistas de ordenación"
+ },
+ "templates": {
+  "current": "**{total} proyectos, de los cuales {baseline} son proyectos de referencia del usuario y {added} se han añadido en esta ronda.** Verificación funcional: {reviewed}; instantánea de métricas: `{as_of}` (UTC).\n\nDentro de cada categoría se estratifica primero por estado de mantenimiento y luego se ordena combinando estrellas (40%), commits en la rama por defecto a 90 días (35%) y último commit (25%). La puntuación de mantenimiento no representa la calidad del diseño, la capacidad de los modelos, la accesibilidad ni la madurez de producción.",
+  "shortlist_note": "Solo se muestran los candidatos principales con licencia abierta verificada y commits en los últimos 90 días; las licencias restringidas, los benchmarks de investigación y las herramientas adyacentes no entran en esta tabla.",
+  "toc_note": "`★Referencia del usuario` indica proyectos aportados directamente por el usuario. Cada repositorio aparece en una sola categoría principal; la ficha detallada de proyectos registra dependencias y limitaciones.",
+  "detail_intro": "Cada propósito proviene del README oficial en un commit fijo; no se instalaron ni ejecutaron todos los proyectos. Actualizar las métricas no revalida automáticamente funciones ni licencias.",
+  "rankings_intro": "Instantánea: `{as_of}`. Es una ordenación por metadatos de mantenimiento de GitHub, no un ranking de calidad de diseño. Todas las vistas se estratifican primero por estado de mantenimiento.",
+  "entry": "- Categoría: {category}; {scope}.\n- Frontera de aplicación: {boundary}\n- Estado de mantenimiento: {maintenance}; {commits_30d} commits en 30 días, {commits_90d} en 90 días.\n- Licencia: [{license}]({license_source}); {license_status}. {license_note}\n- Verificación funcional: {reviewed_at}; {sources}.",
+  "source_link": "Fuente {index}",
+  "data": "- [Ficha detallada de proyectos y evidencia en versiones fijas](docs/projects.md)\n- [Ordenaciones combinada, por estrellas, por actividad y por último commit](docs/rankings.md)\n- [Artículos y benchmarks](docs/research.md)\n- [Decisiones de búsqueda e inclusión]({R}research/README.md)\n- [Metodología de ordenación](docs/methodology.md)\n- [Guía de contribución](CONTRIBUTING.md)",
+  "thanks": "La compilación original y los scripts de este catálogo están bajo [MIT]({R}LICENSE); los proyectos enlazados, los servicios gestionados, los conjuntos de datos, el material y las fuentes siguen sus propias condiciones. Parte de los scripts de mantenimiento reutilizan la implementación MIT de la [colección de vídeo con IA](https://github.com/ZanePoe/awesome_ai_video_creation).",
+  "records_note": "Los registros de verificación y las decisiones de inclusión de este catálogo conservan el texto original tal como se redactó en el momento de cada verificación (en chino), para poder auditar el origen y la formulación de cada juicio; el directorio `research/` y los registros de cambios no se traducen automáticamente."
+ }
+}

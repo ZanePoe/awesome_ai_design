@@ -1,0 +1,181 @@
+{
+ "nexu-io/open-design": {
+  "description": "Genera prototipos fieles a sistemas de diseño con un coding agent local o con OpenDesign Cloud, y compártelos e itéralos en el banco de trabajo del equipo.",
+  "boundary": "El flujo local, la nube gestionada Cloud y el plan Go se consideran por separado; las condiciones de modelos, plantillas y materiales de marca se cuentan aparte.",
+  "license_label": "Apache-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "github/replica": {
+  "description": "Genera e itera prototipos interactivos con GitHub Copilot a partir de los componentes, patrones y guías de diseño que el equipo ya tiene.",
+  "boundary": "El flujo local depende de la app GitHub Copilot, Git y Node.js, con macOS/Linux en la lista oficial; Replica Hub, opcional, lo aloja el propio equipo.",
+  "license_label": "MIT",
+  "license_note": "MIT cubre el código propio; el NOTICE.md de la raíz enumera fuentes como Mona Sans bajo licencia SIL OFL 1.1."
+ },
+ "OpenCoworkAI/open-codesign": {
+  "description": "Agente de diseño de escritorio local que convierte prompts en artefactos de diseño previsibles y permite conectar los modelos que elija cada usuario.",
+  "boundary": "Que el espacio de trabajo sea local no implica que la inferencia sea totalmente offline; los formatos de salida y las capacidades varían según el modelo y la versión publicada.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "langchain-ai/design-agent": {
+  "description": "Agente de diseño de marca para equipos que recibe materiales y requisitos por Slack y entrega mockups estáticos, presentaciones o contenido dinámico.",
+  "boundary": "La ruta de despliegue oficial en Slack depende de Managed Deep Agents; que el código sea open source no significa que el servicio gestionado sea gratuito.",
+  "license_label": "Apache-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "vercel-labs/fx0": {
+  "description": "Agente de diseño ligero basado en libfx que itera en lenguaje natural y exporta páginas HTML de archivo único.",
+  "boundary": "La ruta de despliegue oficial involucra a Vercel y AI Gateway; un artefacto de archivo único no equivale a una base de código de producto completa.",
+  "license_label": "Apache-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "open-pencil/open-pencil": {
+  "name": "OpenPencil (open-pencil)",
+  "description": "Editor de diseño programable con IA, CLI y MCP que puede abrir archivos .fig y .pen.",
+  "boundary": "Sigue en desarrollo; la fidelidad de nodos, fuentes e ida y vuelta de archivos debe verificarse con archivos reales; no es el repositorio homónimo de ZSeven-W.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "ZSeven-W/openpencil": {
+  "name": "OpenPencil (ZSeven-W)",
+  "description": "Convierte lenguaje natural en interfaces editables sobre el lienzo, con diseño en paralelo de varios agentes y operaciones MCP.",
+  "boundary": "La integración de modelos y la exportación a frameworks deben verificarse caso por caso; es un repositorio independiente y sus métricas no se combinan con las de open-pencil.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "velloo-design/velloo": {
+  "description": "Permite que un coding agent explore varias direcciones en un lienzo local usando los componentes de la aplicación existente y luego escriba en la app el diseño elegido.",
+  "boundary": "Orientado sobre todo a iterar el diseño de aplicaciones ya existentes; la compatibilidad multi-framework y el efecto real de la escritura de vuelta no se han probado.",
+  "license_label": "Apache-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "onlook-dev/onlook": {
+  "description": "Editor visual de código local-first en el que trabajan agentes ya existentes del proyecto, como Claude Code o Codex.",
+  "boundary": "No incluye modelos propios; la licencia del código no cubre parte de los activos de marca, fuentes y de terceros del repositorio.",
+  "license_label": "Apache-2.0",
+  "license_note": "Apache-2.0 cubre el código fuente, pero el README y NOTICE aclaran que ciertas fuentes, logotipos e imágenes no están bajo la licencia del código."
+ },
+ "penpot/penpot": {
+  "description": "Plataforma de diseño colaborativa autoalojable con design tokens, componentes e interfaz MCP para conectar diseño y código.",
+  "boundary": "El editor puede usarse de forma independiente; MCP es una capacidad de integración, no un modelo generativo integrado.",
+  "license_label": "MPL-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "emilkowalski/skills": {
+  "description": "Skills de interfaz y animación para diseñadores e ingenieros: elección de movimiento, revisión y mejoras de rendimiento.",
+  "boundary": "Las reglas nacen de la práctica de ingeniería de diseño del autor; conviene combinarlas con pruebas de usuario, la preferencia de movimiento reducido y el comportamiento real en dispositivos.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "pbakaus/impeccable": {
+  "description": "Aporta a los coding agents vocabulario de diseño y órdenes de refinado, crítica y revisión para iterar sobre interfaces existentes.",
+  "boundary": "La guía y los chequeos de una Skill no equivalen a una revisión de diseño humana ni a una certificación de accesibilidad.",
+  "license_label": "Apache-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "nextlevelbuilder/ui-ux-pro-max-skill": {
+  "description": "Agent Skill que sugiere estilo, paletas, tipografía y sistemas de diseño para varios stacks de front-end.",
+  "boundary": "Las reglas y los resultados generados son un punto de partida de diseño; la accesibilidad y la implementación final siguen requiriendo pruebas.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "feimacode/open-design-agent-kit": {
+  "description": "Adapta al coding agent las design Skills, el sistema de diseño de marca y los ejemplos de OpenDesign.",
+  "boundary": "No es la aplicación de escritorio de OpenDesign; los ejemplos, los recursos de marca y los resultados generados deben verificarse según sus propias condiciones de uso.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "JustineBijuPaul/frontend-ai-skills": {
+  "description": "Skills modulares de front-end cargables bajo demanda, que cubren animación, interacción, accesibilidad y otros temas.",
+  "boundary": "Incluye también conocimiento general de ingeniería front-end; el foco del catálogo está en los módulos de diseño e interacción.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "google-labs-code/design.md": {
+  "description": "Especificación de identidad visual que reúne en un mismo archivo design tokens legibles por máquina y principios de diseño para la lectura de los agentes.",
+  "boundary": "Es una especificación portable con sus herramientas, no un agente de diseño; el soporte de la especificación puede variar según el producto anfitrión.",
+  "license_label": "Apache-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "VoltAgent/awesome-design-md": {
+  "description": "Recopilación de documentos DESIGN.md de referencia reutilizables que aportan a los agentes estilos de marca, tipografía, color y convenciones de componentes.",
+  "boundary": "Es una colección de referencia, no un generador; los logotipos de marca, las fuentes y otros derechos de terceros no están cubiertos por la licencia MIT del repositorio.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "google-labs-code/stitch-skills": {
+  "description": "Conjunto oficial de skills y plugins para Google Stitch que conecta los agentes con su flujo de diseño.",
+  "boundary": "Lo open source son las skills y los plugins; las capacidades del servicio Stitch, las cuentas y el uso se rigen por sus condiciones de servicio.",
+  "license_label": "Apache-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "abi/screenshot-to-code": {
+  "description": "Convierte capturas de pantalla, prototipos, diseños de Figma o grabaciones de pantalla en código de interfaz con la ayuda de modelos.",
+  "boundary": "El coste de los modelos, el destino de los datos y el stack exportado dependen de la configuración; una aproximación visual no equivale a código mantenible o accesible.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "GLips/Figma-Context-MCP": {
+  "description": "Aporta a los coding agents el contexto de diseño de los archivos de Figma para ayudar a implementar interfaces ya diseñadas.",
+  "boundary": "Requiere un acceso a Figma con permisos; es un puente de contexto, no un lienzo independiente ni el MCP oficial gestionado.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "grab/cursor-talk-to-figma-mcp": {
+  "description": "Permite a los agentes leer y modificar diseños de Figma mediante un servicio MCP, un plugin de Figma y un puente WebSocket.",
+  "boundary": "Revisa el plugin, los permisos de escritura sobre archivos y el alcance de la conexión; la antigua ruta sonnylazuardi/cursor-talk-to-figma-mcp redirige a este repositorio.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "figma/mcp-server-guide": {
+  "name": "Guía oficial de Figma MCP",
+  "description": "Guía oficial de integración de Figma que explica cómo obtienen contexto de diseño los agentes y algunos flujos de escritura remota.",
+  "boundary": "El repositorio es documentación, no un servicio autoalojable; lectura, escritura, licencias de usuario y límites de tasa difieren entre sí.",
+  "license_label": "Sin confirmar",
+  "license_note": "No se confirmó la licencia en la raíz del repositorio; se incluye como referencia pública sin asumir derechos de reutilización."
+ },
+ "cathrynlavery/diagram-design": {
+  "description": "Genera diagramas de arquitectura, flujo o datos como HTML/SVG autocontenido con estilo de marca.",
+  "boundary": "Es una Agent Skill; los derechos de los archivos importados, las dependencias de terceros y la accesibilidad deben revisarse por separado.",
+  "license_label": "MIT",
+  "license_note": "El código propio usa MIT; para las dependencias incluidas, consulta THIRD_PARTY_LICENSES.md."
+ },
+ "yctimlin/mcp_excalidraw": {
+  "description": "Ofrece un lienzo Excalidraw legible y editable que permite modificar y guardar diagramas mediante CLI, Skill o MCP.",
+  "boundary": "Requiere el lienzo o el entorno de servicio correspondiente; la colaboración multiusuario y la fidelidad de exportación deben probarse según el despliegue.",
+  "license_label": "MIT",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "NoviScl/Design2Code": {
+  "description": "Benchmark de captura-a-código sobre páginas web reales, con conjunto de datos y herramientas de evaluación automática.",
+  "boundary": "La licencia del código no sustituye las condiciones del conjunto de datos y de los pesos; sus resultados no se mezclan con la puntuación de mantenimiento del catálogo.",
+  "license_label": "MIT",
+  "license_note": "MIT es la licencia del código; para el conjunto de datos, consulta DATA_LICENSE en el repositorio; los pesos de los modelos deben verificarse en sus páginas de publicación."
+ },
+ "WebPAI/DesignBench": {
+  "description": "Benchmark de investigación que evalúa generación, edición y reparación de código front-end multi-framework.",
+  "boundary": "La licencia en la raíz del repositorio aún no está confirmada; las condiciones del artículo, del código y de los datos deben revisarse por separado.",
+  "license_label": "Sin confirmar",
+  "license_note": "No se confirmó la licencia en la raíz del repositorio; se incluye como referencia pública sin asumir derechos de reutilización."
+ },
+ "DAMO-NLP-SG/WebDesignAgent": {
+  "description": "Prototipo de investigación sobre generación de sitios web que muestra un flujo de diseño impulsado por descripciones, layouts de referencia, imágenes y retroalimentación.",
+  "boundary": "Es un prototipo y unos ejemplos académicos; no se asume que pueda usarse directamente como banco de trabajo de diseño en producción.",
+  "license_label": "Apache-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ },
+ "superdesigndev/superdesign": {
+  "name": "SuperDesign IDE (heredado)",
+  "description": "Extensión de diseño de interfaces para IDE que conserva el código abierto original; el producto actual homónimo ya es una aplicación web.",
+  "boundary": "La extensión antigua ya no se mantiene de forma activa; el producto web actual no es una versión autoalojable de este repositorio.",
+  "license_label": "AGPL-3.0 + condiciones comerciales",
+  "license_note": "La mayoría de los archivos se rigen por AGPLv3; los archivos marcados como Enterprise tienen una licencia comercial independiente."
+ },
+ "penpot/penpot-mcp": {
+  "name": "Penpot MCP (archivado)",
+  "description": "El contenido del antiguo repositorio independiente se integró en el directorio mcp del repositorio principal de Penpot.",
+  "boundary": "Quien empiece debe hacerlo desde el repositorio principal de Penpot; el repositorio antiguo se conserva solo para la trazabilidad de la migración.",
+  "license_label": "MPL-2.0",
+  "license_note": "Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código."
+ }
+}

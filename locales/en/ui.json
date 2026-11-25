@@ -1,0 +1,72 @@
+{
+  "language": "en",
+  "language_name": "English",
+  "list_separator": ", ",
+  "categories": {
+    "studios": "Design agents and prototyping workbenches",
+    "canvas": "Editable canvas and vector design",
+    "skills": "Front-end design, motion and review Skills",
+    "design_systems": "Design systems and DESIGN.md",
+    "bridges": "Design-to-code and MCP bridges",
+    "diagrams": "Diagrams and visual expression",
+    "research": "Papers, benchmarks and datasets",
+    "historical": "Historical and archived projects"
+  },
+  "scopes": {
+    "core": "Core candidate",
+    "adjacent": "Adjacent infrastructure",
+    "research": "Research/benchmark",
+    "historical": "Historical reference",
+    "restricted": "Restricted license"
+  },
+  "license_status": {
+    "verified": "Open license verified",
+    "custom": "Composite/conditional license",
+    "source_available": "Source-available, not OSI open source",
+    "unverified": "License unverified"
+  },
+  "modes": {
+    "balanced": "Balanced maintenance score",
+    "stars": "Star priority",
+    "activity": "90-day commits priority",
+    "recent": "Most recent default-branch commit priority"
+  },
+  "tiers": [
+    "Commits within the last 90 days",
+    "No commits for 91–365 days",
+    "No commits for over 365 days",
+    "Archived / historical"
+  ],
+  "tags": {
+    "baseline": "★User reference",
+    "archived": "Archived/historical",
+    "license": "License caution"
+  },
+  "headers": {
+    "shortlist": ["Project", "Positioning", "Stars", "90-day commits", "Last commit (UTC)", "Maintenance score"],
+    "categories": ["Category", "Count", "Top projects by maintenance rank"],
+    "detail": ["Project", "Positioning", "Stars", "90-day commits", "Last commit (UTC)", "Maintenance score", "License"],
+    "rankings": ["Project", "Category", "Maintenance tier", "Stars", "90-day commits", "Last commit (UTC)", "Maintenance score"]
+  },
+  "sections": {
+    "current": "Current coverage",
+    "shortlist": "Active core projects at a glance",
+    "toc": "Category index",
+    "data": "Data and maintenance",
+    "thanks": "Licenses",
+    "detail_title": "Project notes and evidence",
+    "rankings_title": "Ranking views"
+  },
+  "templates": {
+    "current": "**{total} projects, of which {baseline} are user-reference projects and {added} were added in this round.** Feature verification: {reviewed}; metrics snapshot: `{as_of}` (UTC).\n\nWithin each category, projects are first tiered by maintenance status, then ranked by a blend of stars (40%), 90-day default-branch commits (35%) and recency of the last commit (25%). The maintenance score does not represent design quality, model capability, accessibility or production readiness.",
+    "shortlist_note": "Shows only core candidates with a verified open license and commits in the last 90 days; restricted-license projects, research benchmarks and adjacent tools are excluded from this table.",
+    "toc_note": "`★User reference` marks projects provided directly by the user. Each repository appears in one primary category only; the project detail table records dependencies and limitations.",
+    "detail_intro": "Each positioning statement comes from the official README at a pinned commit; not every project was installed and run. Metrics refreshes do not automatically re-audit features or licenses.",
+    "rankings_intro": "Snapshot: `{as_of}`. This is a ranking of GitHub maintenance metadata, not a design-quality leaderboard. All views tier by maintenance status first.",
+    "entry": "- Category: {category}; {scope}.\n- Scope boundary: {boundary}\n- Maintenance: {maintenance}; {commits_30d} commits in 30 days, {commits_90d} commits in 90 days.\n- License: [{license}]({license_source}); {license_status}. {license_note}\n- Feature verified: {reviewed_at}; {sources}.",
+    "source_link": "Source {index}",
+    "data": "- [Project notes and pinned-version evidence](docs/projects.md)\n- [Balanced, stars, activity and recent-commit rankings](docs/rankings.md)\n- [Papers and benchmarks](docs/research.md)\n- [Search and inclusion decisions]({R}research/README.md)\n- [Ranking method](docs/methodology.md)\n- [Contributing guide](CONTRIBUTING.md)",
+    "thanks": "Original curation and scripts in this catalogue use the [MIT]({R}LICENSE) license. Linked projects, hosted services, datasets, assets and fonts follow their own terms. Some maintenance scripts reuse the MIT implementation from the [AI video catalogue](https://github.com/ZanePoe/awesome_ai_video_creation).",
+    "records_note": "Verification records and inclusion decisions in this catalogue keep the wording used at verification time (Chinese), so the source and original phrasing of every judgement stay auditable; the `research/` directory and change records are not machine-translated."
+  }
+}

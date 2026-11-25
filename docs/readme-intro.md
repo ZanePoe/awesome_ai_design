@@ -1,5 +1,5 @@
 # Awesome AI Design
 
-面向设计师、产品团队和 coding agent 的中文 AI 设计合集。收录可以复用的设计 Skills，可运行的设计 Agent、编辑器和桥接工具，以及能复核研究结论的论文与基准。
+An AI design catalogue for designers, product teams and coding agents. It collects reusable design Skills, runnable design agents, editors and bridging tools, plus the papers and benchmarks behind the research conclusions.
 
-这里的“AI 设计”指 Agent 参与界面、原型、矢量图、图解或设计系统的创建、修改、评审和交接。纯文生图模型、通用 coding agent、无可核验仓库的 SaaS 不作为核心工具收录。官方接入指南和设计系统索引单独标明；已有 [AI 视频合集](https://github.com/ZanePoe/awesome_ai_video_creation) 覆盖视频生成和剪辑。
+Here, "AI design" means agents taking part in creating, modifying, reviewing or handing off interfaces, prototypes, vector graphics, diagrams or design systems. Pure text-to-image models, general coding agents and SaaS without a verifiable repository are not listed as core tools. Official integration guides and design-system indexes are marked separately; the existing [AI video catalogue](https://github.com/ZanePoe/awesome_ai_video_creation) covers video generation and editing.
