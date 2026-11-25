@@ -87,16 +87,18 @@ def validate(projects,snapshot):
 INLINE=['docs/readme-intro.md','docs/selection.md']
 GENERATED={'README.md','docs/projects.md','docs/rankings.md'}
 def check_links():
- """Prose links resolve from the file's own directory; the inlined readme intro resolves from the locale root."""
- bad=[]
- for locale in LOCALES:
-  base=ROOT if locale==DEFAULT else ROOT/'locales'/locale
-  for rel in STATIC:
-   origin=base if rel in INLINE else base/Path(rel).parent
-   for href in re.findall(r'\]\((?!https?:|#)([^)#]+?)(?:#[^)]*)?\)',(base/rel).read_text(encoding='utf-8')):
-    if href in GENERATED or (origin/href).resolve().exists():continue
-    bad.append('%s:%s -> %s' % (locale,rel,href))
- assert not bad,'broken relative links: '+', '.join(bad)
+    """Prose links resolve from the file's own directory; the inlined readme intro resolves from the locale root."""
+    bad=[]
+    for locale in LOCALES:
+        base=ROOT if locale==DEFAULT else ROOT/'locales'/locale
+        pending={(base/name).resolve() for name in GENERATED}
+        for rel in STATIC:
+            origin=base if rel in INLINE else base/Path(rel).parent
+            for href in re.findall(r'\]\((?!https?:|#)([^)#]+?)(?:#[^)]*)?\)',(base/rel).read_text(encoding='utf-8')):
+                target=(origin/href).resolve()
+                if target in pending or target.exists():continue
+                bad.append('%s:%s -> %s' % (locale,rel,href))
+    assert not bad,'broken relative links: '+', '.join(bad)
 def render(locale,u,words,projects,snapshot):
  m=snapshot['repositories'];asof=snapshot['as_of'];reviewed=max(p['reviewed_at'] for p in projects);ordered=rank(projects,m,asof);base=sum(bool(p['baseline']) for p in projects);R=prefix(locale)
  cat=u['categories'];scope=u['scopes'];lic_status=u['license_status'];tags=u['tags'];T=u['templates'];S=u['sections']
