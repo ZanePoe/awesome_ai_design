@@ -1,39 +1,39 @@
 repo,name,category,scope,baseline,license,license_status,stars,commits_30d,commits_90d,last_commit_at,maintenance_tier,score,as_of
-pbakaus/impeccable,Impeccable,skills,core,False,Apache-2.0,verified,117061,1305,2259,2026-11-26T01:23:55Z,0,99.94,2026-11-26T06:55:27+00:00
-penpot/penpot,Penpot,canvas,core,False,MPL-2.0,verified,62751,673,1619,2026-11-25T17:29:18Z,0,98.23,2026-11-26T06:55:27+00:00
-nexu-io/open-design,OpenDesign,studios,core,True,Apache-2.0,verified,109556,81,413,2026-11-23T12:35:18Z,0,98.17,2026-11-26T06:55:27+00:00
-cathrynlavery/diagram-design,Diagram Design,diagrams,core,True,MIT,verified,73287,96,364,2026-11-25T04:52:58Z,0,96.84,2026-11-26T06:55:27+00:00
-open-pencil/open-pencil,OpenPencil（open-pencil）,canvas,core,False,MIT,verified,10118,648,1580,2026-11-25T13:30:36Z,0,91.84,2026-11-26T06:55:27+00:00
-ZSeven-W/openpencil,OpenPencil（ZSeven-W）,canvas,core,False,MIT,verified,7368,224,914,2026-11-25T05:30:26Z,0,90.65,2026-11-26T06:55:27+00:00
-nextlevelbuilder/ui-ux-pro-max-skill,UI UX Pro Max,skills,core,False,MIT,verified,154325,36,94,2026-11-25T22:08:31Z,0,90.54,2026-11-26T06:55:27+00:00
-OpenCoworkAI/open-codesign,Open CoDesign,studios,core,False,MIT,verified,8258,21,145,2026-11-25T12:31:35Z,0,84.18,2026-11-26T06:55:27+00:00
-feimacode/open-design-agent-kit,Open Design Agent Kit,skills,core,False,MIT,verified,1198,220,429,2026-11-25T23:45:08Z,0,83.69,2026-11-26T06:55:27+00:00
-onlook-dev/onlook,Onlook,canvas,core,False,Apache-2.0,verified,27957,40,40,2026-11-26T03:44:10Z,0,81.44,2026-11-26T06:55:27+00:00
-emilkowalski/skills,Emil Kowalski Skills,skills,core,True,MIT,verified,59731,12,19,2026-11-15T12:42:50Z,0,77.26,2026-11-26T06:55:27+00:00
-google-labs-code/stitch-skills,Stitch Design Skills,design_systems,adjacent,False,Apache-2.0,verified,13076,22,22,2026-11-24T21:51:03Z,0,75.21,2026-11-26T06:55:27+00:00
-bitjaru/styleseed,StyleSeed,design_systems,core,False,MIT,verified,1057,47,95,2026-11-26T03:44:09Z,0,74.86,2026-11-26T06:55:27+00:00
-github/replica,GitHub Replica,studios,core,True,MIT,verified,382,72,126,2026-11-25T16:59:57Z,0,72.78,2026-11-26T06:55:27+00:00
-kaankiziltug/logo-design-skill,Logo Design Skill,skills,core,False,MIT（代码与技能）+ 第三方商标 logo 库除外,custom,7795,7,32,2026-11-13T16:32:36Z,0,72.55,2026-11-26T06:55:27+00:00
-abi/screenshot-to-code,Screenshot to Code,bridges,core,False,MIT,verified,81447,4,6,2026-11-15T15:07:36Z,0,72.45,2026-11-26T06:55:27+00:00
-VaneAi888/vane-gpt-image-skills,Vane GPT Image Skills,graphic,core,False,MIT,verified,1536,51,51,2026-11-24T03:11:39Z,0,72.15,2026-11-26T06:55:27+00:00
-vercel-labs/fx0,fx0,studios,core,False,Apache-2.0,verified,442,53,134,2026-11-18T03:56:31Z,0,71.63,2026-11-26T06:55:27+00:00
-langchain-ai/design-agent,LangChain Content Studio,studios,core,False,Apache-2.0,verified,767,29,72,2026-11-23T21:25:23Z,0,71.58,2026-11-26T06:55:27+00:00
-google-labs-code/design.md,Google DESIGN.md,design_systems,core,False,Apache-2.0,verified,29133,8,9,2026-11-18T02:55:28Z,0,71.51,2026-11-26T06:55:27+00:00
-figma/mcp-server-guide,Figma MCP 官方指南,bridges,adjacent,False,未确认,unverified,2235,9,30,2026-11-24T18:08:30Z,0,70.71,2026-11-26T06:55:27+00:00
-VoltAgent/awesome-design-md,Awesome DESIGN.md,design_systems,adjacent,False,MIT,verified,129119,3,8,2026-10-28T15:45:37Z,0,70.56,2026-11-26T06:55:27+00:00
-yctimlin/mcp_excalidraw,Excalidraw MCP Server,diagrams,core,False,MIT,verified,2687,7,33,2026-11-10T08:54:44Z,0,68.24,2026-11-26T06:55:27+00:00
-velloo-design/velloo,Velloo,canvas,core,False,Apache-2.0,verified,10,39,261,2026-11-17T09:10:10Z,0,62.33,2026-11-26T06:55:27+00:00
-jakubkrehel/make-interfaces-feel-better,Make Interfaces Feel Better,skills,core,False,MIT,verified,4297,2,3,2026-11-18T01:42:38Z,0,59.69,2026-11-26T06:55:27+00:00
-Akxan/ppt-agent-skill,PPT Agent Skill,presentations,core,False,MIT,verified,211,11,11,2026-11-18T14:22:26Z,0,55.55,2026-11-26T06:55:27+00:00
-samber/cc-skills,cc-skills,skills,core,False,MIT,verified,283,2,16,2026-11-01T07:26:22Z,0,54.52,2026-11-26T06:55:27+00:00
-Devesh-Shirsath/spotkit,Spotkit,diagrams,core,False,MIT,verified,131,0,33,2026-10-08T10:51:42Z,0,51.35,2026-11-26T06:55:27+00:00
-Moddingflow/better-design,Better Design,skills,core,False,MIT,verified,80,1,9,2026-10-27T11:01:48Z,0,46.18,2026-11-26T06:55:27+00:00
-JustineBijuPaul/frontend-ai-skills,Frontend AI Skills,skills,core,False,MIT,verified,12,0,86,2026-09-04T16:54:19Z,0,44.04,2026-11-26T06:55:27+00:00
-GLips/Figma-Context-MCP,Framelink Figma MCP,bridges,core,False,MIT,verified,16314,0,0,2026-06-24T16:12:40Z,1,38.19,2026-11-26T06:55:27+00:00
-grab/cursor-talk-to-figma-mcp,Talk to Figma MCP,bridges,core,False,MIT,verified,7131,0,0,2026-07-26T07:14:26Z,1,37.2,2026-11-26T06:55:27+00:00
-arvindrk/extract-design-system,extract-design-system,design_systems,core,False,MIT,verified,317,0,0,2026-06-19T17:12:24Z,1,24.26,2026-11-26T06:55:27+00:00
-WebPAI/DesignBench,DesignBench,research,research,False,未确认,unverified,61,0,0,2026-07-27T09:47:33Z,1,20.79,2026-11-26T06:55:27+00:00
-NoviScl/Design2Code,Design2Code,research,research,False,MIT,verified,605,0,0,2024-11-02T00:37:11Z,2,22.27,2026-11-26T06:55:27+00:00
-DAMO-NLP-SG/WebDesignAgent,WebDesignAgent,research,research,False,Apache-2.0,verified,267,0,0,2024-09-20T15:49:46Z,2,19.43,2026-11-26T06:55:27+00:00
-superdesigndev/superdesign,SuperDesign IDE 扩展（旧版）,historical,historical,False,AGPL-3.0 + 商业条款,custom,7648,0,0,2026-06-29T04:55:31Z,3,35.79,2026-11-26T06:55:27+00:00
-penpot/penpot-mcp,Penpot MCP（旧仓库）,historical,historical,False,MPL-2.0,verified,537,0,0,2026-03-19T12:44:53Z,3,23.37,2026-11-26T06:55:27+00:00
+pbakaus/impeccable,Impeccable,skills,core,False,Apache-2.0,verified,117210,1299,2250,2026-11-26T01:23:55Z,0,99.88,2026-11-26T11:28:09+00:00
+nexu-io/open-design,OpenDesign,studios,core,True,Apache-2.0,verified,109604,83,410,2026-11-26T10:31:07Z,0,98.87,2026-11-26T11:28:09+00:00
+penpot/penpot,Penpot,canvas,core,False,MPL-2.0,verified,62764,670,1621,2026-11-26T09:09:04Z,0,98.35,2026-11-26T11:28:09+00:00
+cathrynlavery/diagram-design,Diagram Design,diagrams,core,True,MIT,verified,73477,96,364,2026-11-25T04:52:58Z,0,96.79,2026-11-26T11:28:09+00:00
+open-pencil/open-pencil,OpenPencil（open-pencil）,canvas,core,False,MIT,verified,10126,637,1585,2026-11-26T09:38:18Z,0,92.02,2026-11-26T11:28:09+00:00
+nextlevelbuilder/ui-ux-pro-max-skill,UI UX Pro Max,skills,core,False,MIT,verified,154438,37,95,2026-11-26T10:05:18Z,0,90.68,2026-11-26T11:28:09+00:00
+ZSeven-W/openpencil,OpenPencil（ZSeven-W）,canvas,core,False,MIT,verified,7372,220,914,2026-11-25T05:30:26Z,0,90.6,2026-11-26T11:28:09+00:00
+OpenCoworkAI/open-codesign,Open CoDesign,studios,core,False,MIT,verified,8259,21,145,2026-11-25T12:31:35Z,0,84.13,2026-11-26T11:28:09+00:00
+feimacode/open-design-agent-kit,Open Design Agent Kit,skills,core,False,MIT,verified,1199,224,435,2026-11-26T10:45:43Z,0,83.84,2026-11-26T11:28:09+00:00
+onlook-dev/onlook,Onlook,canvas,core,False,Apache-2.0,verified,27961,40,40,2026-11-26T03:44:10Z,0,81.39,2026-11-26T11:28:09+00:00
+emilkowalski/skills,Emil Kowalski Skills,skills,core,True,MIT,verified,59811,12,19,2026-11-15T12:42:50Z,0,77.22,2026-11-26T11:28:09+00:00
+google-labs-code/stitch-skills,Stitch Design Skills,design_systems,adjacent,False,Apache-2.0,verified,13133,22,22,2026-11-24T21:51:03Z,0,75.17,2026-11-26T11:28:09+00:00
+bitjaru/styleseed,StyleSeed,design_systems,core,False,MIT,verified,1058,48,96,2026-11-26T10:01:52Z,0,74.94,2026-11-26T11:28:09+00:00
+github/replica,GitHub Replica,studios,core,True,MIT,verified,383,78,132,2026-11-26T11:10:52Z,0,73.2,2026-11-26T11:28:09+00:00
+kaankiziltug/logo-design-skill,Logo Design Skill,skills,core,False,MIT（代码与技能）+ 第三方商标 logo 库除外,custom,7823,7,32,2026-11-13T16:32:36Z,0,72.52,2026-11-26T11:28:09+00:00
+abi/screenshot-to-code,Screenshot to Code,bridges,core,False,MIT,verified,81447,4,6,2026-11-15T15:07:36Z,0,72.4,2026-11-26T11:28:09+00:00
+VaneAi888/vane-gpt-image-skills,Vane GPT Image Skills,graphic,core,False,MIT,verified,1540,51,51,2026-11-24T03:11:39Z,0,72.11,2026-11-26T11:28:09+00:00
+vercel-labs/fx0,fx0,studios,core,False,Apache-2.0,verified,442,53,134,2026-11-18T03:56:31Z,0,71.58,2026-11-26T11:28:09+00:00
+langchain-ai/design-agent,LangChain Content Studio,studios,core,False,Apache-2.0,verified,771,29,72,2026-11-23T21:25:23Z,0,71.55,2026-11-26T11:28:09+00:00
+google-labs-code/design.md,Google DESIGN.md,design_systems,core,False,Apache-2.0,verified,29140,8,9,2026-11-18T02:55:28Z,0,71.46,2026-11-26T11:28:09+00:00
+figma/mcp-server-guide,Figma MCP 官方指南,bridges,adjacent,False,未确认,unverified,2237,9,30,2026-11-24T18:08:30Z,0,70.66,2026-11-26T11:28:09+00:00
+VoltAgent/awesome-design-md,Awesome DESIGN.md,design_systems,adjacent,False,MIT,verified,129150,3,8,2026-10-28T15:45:37Z,0,70.52,2026-11-26T11:28:09+00:00
+yctimlin/mcp_excalidraw,Excalidraw MCP Server,diagrams,core,False,MIT,verified,2688,7,33,2026-11-10T08:54:44Z,0,68.19,2026-11-26T11:28:09+00:00
+velloo-design/velloo,Velloo,canvas,core,False,Apache-2.0,verified,10,39,260,2026-11-17T09:10:10Z,0,62.26,2026-11-26T11:28:09+00:00
+jakubkrehel/make-interfaces-feel-better,Make Interfaces Feel Better,skills,core,False,MIT,verified,4304,2,3,2026-11-18T01:42:38Z,0,59.65,2026-11-26T11:28:09+00:00
+Akxan/ppt-agent-skill,PPT Agent Skill,presentations,core,False,MIT,verified,211,11,11,2026-11-18T14:22:26Z,0,55.51,2026-11-26T11:28:09+00:00
+samber/cc-skills,cc-skills,skills,core,False,MIT,verified,284,2,15,2026-11-01T07:26:22Z,0,54.15,2026-11-26T11:28:09+00:00
+Devesh-Shirsath/spotkit,Spotkit,diagrams,core,False,MIT,verified,131,0,33,2026-10-08T10:51:42Z,0,51.32,2026-11-26T11:28:09+00:00
+Moddingflow/better-design,Better Design,skills,core,False,MIT,verified,81,0,9,2026-10-27T11:01:48Z,0,46.18,2026-11-26T11:28:09+00:00
+JustineBijuPaul/frontend-ai-skills,Frontend AI Skills,skills,core,False,MIT,verified,12,0,86,2026-09-04T16:54:19Z,0,44.02,2026-11-26T11:28:09+00:00
+GLips/Figma-Context-MCP,Framelink Figma MCP,bridges,core,False,MIT,verified,16316,0,0,2026-06-24T16:12:40Z,1,38.18,2026-11-26T11:28:09+00:00
+grab/cursor-talk-to-figma-mcp,Talk to Figma MCP,bridges,core,False,MIT,verified,7132,0,0,2026-07-26T07:14:26Z,1,37.19,2026-11-26T11:28:09+00:00
+arvindrk/extract-design-system,extract-design-system,design_systems,core,False,MIT,verified,318,0,0,2026-06-19T17:12:24Z,1,24.27,2026-11-26T11:28:09+00:00
+WebPAI/DesignBench,DesignBench,research,research,False,未确认,unverified,61,0,0,2026-07-27T09:47:33Z,1,20.78,2026-11-26T11:28:09+00:00
+NoviScl/Design2Code,Design2Code,research,research,False,MIT,verified,605,0,0,2024-11-02T00:37:11Z,2,22.27,2026-11-26T11:28:09+00:00
+DAMO-NLP-SG/WebDesignAgent,WebDesignAgent,research,research,False,Apache-2.0,verified,267,0,0,2024-09-20T15:49:46Z,2,19.43,2026-11-26T11:28:09+00:00
+superdesigndev/superdesign,SuperDesign IDE 扩展（旧版）,historical,historical,False,AGPL-3.0 + 商业条款,custom,7648,0,0,2026-06-29T04:55:31Z,3,35.78,2026-11-26T11:28:09+00:00
+penpot/penpot-mcp,Penpot MCP（旧仓库）,historical,historical,False,MPL-2.0,verified,537,0,0,2026-03-19T12:44:53Z,3,23.37,2026-11-26T11:28:09+00:00

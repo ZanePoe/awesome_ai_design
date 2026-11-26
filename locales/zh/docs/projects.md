@@ -9,7 +9,7 @@
 
 - 分类：设计 Agent 与原型工作台；核心候选。
 - 适用边界：本地工作流、托管 Cloud 和 Go 套餐分开看；模型、模板和品牌素材的条款另计。
-- 维护状态：近90天有提交；30 天提交 81 次，90 天提交 413 次。
+- 维护状态：近90天有提交；30 天提交 83 次，90 天提交 410 次。
 - 许可：[Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [来源2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105)。
 
@@ -29,7 +29,7 @@
 
 - 分类：设计 Agent 与原型工作台；核心候选。
 - 适用边界：本地流程依赖 GitHub Copilot app、Git 和 Node.js，官方列出 macOS/Linux；可选的 Replica Hub 由团队托管。
-- 维护状态：近90天有提交；30 天提交 72 次，90 天提交 126 次。
+- 维护状态：近90天有提交；30 天提交 78 次，90 天提交 132 次。
 - 许可：[MIT](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/LICENSE)；开放许可证已核验。MIT 覆盖自有代码；根目录 NOTICE.md 列出 Mona Sans 等字体的 SIL OFL 1.1 许可。
 - 功能核验：2026-11-18；[来源1](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L7) · [来源2](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L53) · [来源3](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/NOTICE.md#L3)。
 
@@ -59,7 +59,7 @@
 
 - 分类：可编辑画布与矢量设计；核心候选。
 - 适用边界：编辑器可独立使用；MCP 属集成能力，不等同于内置生成模型。
-- 维护状态：近90天有提交；30 天提交 673 次，90 天提交 1619 次。
+- 维护状态：近90天有提交；30 天提交 670 次，90 天提交 1621 次。
 - 许可：[MPL-2.0](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/README.md#L47)。
 
@@ -69,7 +69,7 @@
 
 - 分类：可编辑画布与矢量设计；核心候选。
 - 适用边界：仍在开发，具体节点、字体和文件往返保真需按真实文件验证；不是 ZSeven-W 的同名仓库。
-- 维护状态：近90天有提交；30 天提交 648 次，90 天提交 1580 次。
+- 维护状态：近90天有提交；30 天提交 637 次，90 天提交 1585 次。
 - 许可：[MIT](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/README.md#L9)。
 
@@ -79,7 +79,7 @@
 
 - 分类：可编辑画布与矢量设计；核心候选。
 - 适用边界：模型接入和框架导出需逐项验证；它是独立仓库，不与 open-pencil 合并计算指标。
-- 维护状态：近90天有提交；30 天提交 224 次，90 天提交 914 次。
+- 维护状态：近90天有提交；30 天提交 220 次，90 天提交 914 次。
 - 许可：[MIT](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/README.md#L44)。
 
@@ -99,7 +99,7 @@
 
 - 分类：可编辑画布与矢量设计；核心候选。
 - 适用边界：主要针对已有应用的设计迭代；跨框架支持与实际回写效果未测。
-- 维护状态：近90天有提交；30 天提交 39 次，90 天提交 261 次。
+- 维护状态：近90天有提交；30 天提交 39 次，90 天提交 260 次。
 - 许可：[Apache-2.0](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/README.md#L12)。
 
@@ -109,7 +109,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：Skill 指导和检查不等于人工设计审查或无障碍认证。
-- 维护状态：近90天有提交；30 天提交 1305 次，90 天提交 2259 次。
+- 维护状态：近90天有提交；30 天提交 1299 次，90 天提交 2250 次。
 - 许可：[Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3)。
 
@@ -119,7 +119,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：规则与生成结果是设计起点；无障碍和最终实现仍需测试。
-- 维护状态：近90天有提交；30 天提交 36 次，90 天提交 94 次。
+- 维护状态：近90天有提交；30 天提交 37 次，90 天提交 95 次。
 - 许可：[MIT](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/README.md#L30)。
 
@@ -129,7 +129,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：不是 OpenDesign 桌面应用；示例、品牌资源和生成结果按各自使用条件核验。
-- 维护状态：近90天有提交；30 天提交 220 次，90 天提交 429 次。
+- 维护状态：近90天有提交；30 天提交 224 次，90 天提交 435 次。
 - 许可：[MIT](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/README.md#L7)。
 
@@ -169,7 +169,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：除界面设计外还含文案、Git、深度调研、安全扫描等技能，设计只是其中一条线；README 的 -28% 等对比数字是作者自建评测，未独立复现；Go 相关技能在另一仓库 cc-skills-golang。
-- 维护状态：近90天有提交；30 天提交 2 次，90 天提交 16 次。
+- 维护状态：近90天有提交；30 天提交 2 次，90 天提交 15 次。
 - 许可：[MIT](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/LICENSE)；开放许可证已核验。仓库根 LICENSE 为 MIT；各技能引用的站点、字体与素材仍按各自条款核验。
 - 功能核验：2026-11-26；[来源1](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L3) · [来源2](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L20) · [来源3](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L229)。
 
@@ -179,7 +179,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：官方说明结果依赖模型、简报、项目、参考与可用运行时工具，技能只提供流程、配方与评审清单；演示中的盲评对比是作者实验，未做统一复现；参考区记录的 Impeccable 等第三方来源保留各自条款。
-- 维护状态：近90天有提交；30 天提交 1 次，90 天提交 9 次。
+- 维护状态：近90天有提交；30 天提交 0 次，90 天提交 9 次。
 - 许可：[MIT](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/LICENSE)；开放许可证已核验。仓库根 LICENSE 为 MIT，README 明确可商用但需保留许可声明；references 记录的第三方来源（含 Impeccable，Apache-2.0）各自授权。
 - 功能核验：2026-11-26；[来源1](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L5) · [来源2](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L11) · [来源3](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L302)。
 
@@ -209,7 +209,7 @@
 
 - 分类：设计系统与 DESIGN.md；核心候选。
 - 适用边界：作者的目标是可重复执行专家判断，不宣称当下产出即专家级，分数不替代人工设计验收；README 的 +5.3 分来自 120 个自建渲染单元（Codex 与 Claude Code 分别测评，纯规则不加闸门时结果不稳定），不是第三方基准；安装走 npx skills add 需要 Node.js/npm；核心 skill 声明无运行时依赖，构建与验证所用第三方组件在 THIRD_PARTY.md 逐项列出版本与许可。
-- 维护状态：近90天有提交；30 天提交 47 次，90 天提交 95 次。
+- 维护状态：近90天有提交；30 天提交 48 次，90 天提交 96 次。
 - 许可：[MIT](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE)；开放许可证已核验。仓库根 LICENSE 为 MIT；THIRD_PARTY.md 逐项列出构建与验证所用组件及版本（Playwright、TypeScript 为 Apache-2.0，lucide-react 为 ISC，其余 MIT），再分发时按各自许可保留声明。
 - 功能核验：2026-11-26；[来源1](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7) · [来源2](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22) · [来源3](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88) · [来源4](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216)。
 

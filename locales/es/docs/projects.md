@@ -9,7 +9,7 @@ Genera prototipos fieles a sistemas de diseño con un coding agent local o con O
 
 - Categoría: Agentes de diseño y bancos de trabajo de prototipos; Candidato principal.
 - Frontera de aplicación: El flujo local, la nube gestionada Cloud y el plan Go se consideran por separado; las condiciones de modelos, plantillas y materiales de marca se cuentan aparte.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 81 commits en 30 días, 413 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 83 commits en 30 días, 410 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [Fuente 2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105).
 
@@ -29,7 +29,7 @@ Genera e itera prototipos interactivos con GitHub Copilot a partir de los compon
 
 - Categoría: Agentes de diseño y bancos de trabajo de prototipos; Candidato principal.
 - Frontera de aplicación: El flujo local depende de la app GitHub Copilot, Git y Node.js, con macOS/Linux en la lista oficial; Replica Hub, opcional, lo aloja el propio equipo.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 72 commits en 30 días, 126 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 78 commits en 30 días, 132 en 90 días.
 - Licencia: [MIT](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/LICENSE); Licencia abierta verificada. MIT cubre el código propio; el NOTICE.md de la raíz enumera fuentes como Mona Sans bajo licencia SIL OFL 1.1.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L7) · [Fuente 2](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L53) · [Fuente 3](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/NOTICE.md#L3).
 
@@ -59,7 +59,7 @@ Plataforma de diseño colaborativa autoalojable con design tokens, componentes e
 
 - Categoría: Lienzos editables y diseño vectorial; Candidato principal.
 - Frontera de aplicación: El editor puede usarse de forma independiente; MCP es una capacidad de integración, no un modelo generativo integrado.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 673 commits en 30 días, 1619 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 670 commits en 30 días, 1621 en 90 días.
 - Licencia: [MPL-2.0](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/README.md#L47).
 
@@ -69,7 +69,7 @@ Editor de diseño programable con IA, CLI y MCP que puede abrir archivos .fig y 
 
 - Categoría: Lienzos editables y diseño vectorial; Candidato principal.
 - Frontera de aplicación: Sigue en desarrollo; la fidelidad de nodos, fuentes e ida y vuelta de archivos debe verificarse con archivos reales; no es el repositorio homónimo de ZSeven-W.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 648 commits en 30 días, 1580 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 637 commits en 30 días, 1585 en 90 días.
 - Licencia: [MIT](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/README.md#L9).
 
@@ -79,7 +79,7 @@ Convierte lenguaje natural en interfaces editables sobre el lienzo, con diseño 
 
 - Categoría: Lienzos editables y diseño vectorial; Candidato principal.
 - Frontera de aplicación: La integración de modelos y la exportación a frameworks deben verificarse caso por caso; es un repositorio independiente y sus métricas no se combinan con las de open-pencil.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 224 commits en 30 días, 914 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 220 commits en 30 días, 914 en 90 días.
 - Licencia: [MIT](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/README.md#L44).
 
@@ -99,7 +99,7 @@ Permite que un coding agent explore varias direcciones en un lienzo local usando
 
 - Categoría: Lienzos editables y diseño vectorial; Candidato principal.
 - Frontera de aplicación: Orientado sobre todo a iterar el diseño de aplicaciones ya existentes; la compatibilidad multi-framework y el efecto real de la escritura de vuelta no se han probado.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 39 commits en 30 días, 261 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 39 commits en 30 días, 260 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/README.md#L12).
 
@@ -109,7 +109,7 @@ Aporta a los coding agents vocabulario de diseño y órdenes de refinado, críti
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: La guía y los chequeos de una Skill no equivalen a una revisión de diseño humana ni a una certificación de accesibilidad.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 1305 commits en 30 días, 2259 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 1299 commits en 30 días, 2250 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -119,7 +119,7 @@ Agent Skill que sugiere estilo, paletas, tipografía y sistemas de diseño para 
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: Las reglas y los resultados generados son un punto de partida de diseño; la accesibilidad y la implementación final siguen requiriendo pruebas.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 36 commits en 30 días, 94 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 37 commits en 30 días, 95 en 90 días.
 - Licencia: [MIT](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/README.md#L30).
 
@@ -129,7 +129,7 @@ Adapta al coding agent las design Skills, el sistema de diseño de marca y los e
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: No es la aplicación de escritorio de OpenDesign; los ejemplos, los recursos de marca y los resultados generados deben verificarse según sus propias condiciones de uso.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 220 commits en 30 días, 429 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 224 commits en 30 días, 435 en 90 días.
 - Licencia: [MIT](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/README.md#L7).
 
@@ -169,7 +169,7 @@ Colección transversal de skills de agente que se cargan bajo demanda; su skill 
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: El diseño es solo un hilo junto a redacción, Git, investigación profunda y análisis de seguridad; los -28 % que muestra el README son evaluaciones propias del autor, no reproducidas de forma independiente; las skills de Go viven en el repositorio aparte cc-skills-golang.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 2 commits en 30 días, 16 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 2 commits en 30 días, 15 en 90 días.
 - Licencia: [MIT](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/LICENSE); Licencia abierta verificada. La LICENSE raíz es MIT; los sitios, fuentes y materiales citados por cada skill mantienen sus propias condiciones.
 - Verificación funcional: 2026-11-26; [Fuente 1](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L3) · [Fuente 2](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L20) · [Fuente 3](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L229).
 
@@ -179,7 +179,7 @@ Proceso repetible de diseño de interfaces para agentes de codificación: direcc
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: El README indica que los resultados dependen del modelo, el brief, el proyecto, las referencias y las herramientas de ejecución disponibles, y que la skill solo aporta proceso, recetas y listas de revisión; la demo con evaluación a ciegas es un experimento del autor, no un benchmark unificado; las fuentes de terceros de las referencias (incluida Impeccable, Apache-2.0) conservan sus licencias.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 1 commits en 30 días, 9 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 0 commits en 30 días, 9 en 90 días.
 - Licencia: [MIT](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/LICENSE); Licencia abierta verificada. La LICENSE raíz es MIT y el README admite uso comercial manteniendo el aviso; las fuentes de terceros citadas se licencian por separado.
 - Verificación funcional: 2026-11-26; [Fuente 1](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L5) · [Fuente 2](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L11) · [Fuente 3](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L302).
 
@@ -209,7 +209,7 @@ Genera un sistema de diseño inicial para el producto (apariencia, paleta, escal
 
 - Categoría: Sistemas de diseño y DESIGN.md; Candidato principal.
 - Frontera de aplicación: El objetivo declarado del autor es la aplicación repetible del criterio experto, no afirmar que el resultado actual ya sea de nivel experto, y la puntuación no sustituye la aceptación humana del diseño; los +5,3 puntos salen de 120 celdas de benchmark renderizadas por el propio proyecto (Codex y Claude Code medidos por separado; las reglas sin puerta eran inconsistentes), no de un benchmark de terceros; la instalación usa npx skills add y requiere Node.js/npm; la skill central no trae dependencias de ejecución, mientras THIRD_PARTY.md lista con versión y licencia los componentes de construcción y verificación.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 47 commits en 30 días, 95 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 48 commits en 30 días, 96 en 90 días.
 - Licencia: [MIT](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE); Licencia abierta verificada. La LICENSE raíz es MIT; THIRD_PARTY.md detalla los componentes de construcción y verificación (Playwright y TypeScript son Apache-2.0, lucide-react es ISC y el resto MIT), así que hay que conservar cada aviso al redistribuir.
 - Verificación funcional: 2026-11-26; [Fuente 1](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7) · [Fuente 2](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22) · [Fuente 3](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88) · [Fuente 4](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216).
 

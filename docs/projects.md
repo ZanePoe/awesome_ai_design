@@ -9,7 +9,7 @@ Generate design-system-compliant prototypes with a local coding agent or OpenDes
 
 - Category: Design agents and prototyping workbenches; Core candidate.
 - Scope boundary: Treat the local workflow, the managed Cloud and the Go plan separately; terms for models, templates and brand assets are counted separately.
-- Maintenance: Commits within the last 90 days; 81 commits in 30 days, 413 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 83 commits in 30 days, 410 commits in 90 days.
 - License: [Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [Source 2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105).
 
@@ -29,7 +29,7 @@ Generate and iterate interactive prototypes with GitHub Copilot using the team's
 
 - Category: Design agents and prototyping workbenches; Core candidate.
 - Scope boundary: The local flow depends on the GitHub Copilot app, Git and Node.js, officially listed for macOS/Linux; the optional Replica Hub is team-hosted.
-- Maintenance: Commits within the last 90 days; 72 commits in 30 days, 126 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 78 commits in 30 days, 132 commits in 90 days.
 - License: [MIT](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/LICENSE); Open license verified. MIT covers the project's own code; the root NOTICE.md lists SIL OFL 1.1 licenses for fonts such as Mona Sans.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L7) · [Source 2](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L53) · [Source 3](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/NOTICE.md#L3).
 
@@ -59,7 +59,7 @@ Self-hostable collaborative design platform with design tokens, components and a
 
 - Category: Editable canvas and vector design; Core candidate.
 - Scope boundary: The editor works standalone; the MCP is an integration capability, not a built-in generation model.
-- Maintenance: Commits within the last 90 days; 673 commits in 30 days, 1619 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 670 commits in 30 days, 1621 commits in 90 days.
 - License: [MPL-2.0](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/README.md#L47).
 
@@ -69,7 +69,7 @@ Programmable design editor with AI, CLI and MCP that opens .fig and .pen files.
 
 - Category: Editable canvas and vector design; Core candidate.
 - Scope boundary: Still under active development; node, font and file round-trip fidelity must be verified against real files; it is not the same repository as the similarly named ZSeven-W project.
-- Maintenance: Commits within the last 90 days; 648 commits in 30 days, 1580 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 637 commits in 30 days, 1585 commits in 90 days.
 - License: [MIT](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/README.md#L9).
 
@@ -79,7 +79,7 @@ Turns natural language into editable interfaces on the canvas, with parallel mul
 
 - Category: Editable canvas and vector design; Core candidate.
 - Scope boundary: Model integration and framework export need to be verified item by item; it is a separate repository and is not merged with open-pencil for metrics.
-- Maintenance: Commits within the last 90 days; 224 commits in 30 days, 914 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 220 commits in 30 days, 914 commits in 90 days.
 - License: [MIT](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/README.md#L44).
 
@@ -99,7 +99,7 @@ Lets coding agents explore multiple directions on a local canvas using existing 
 
 - Category: Editable canvas and vector design; Core candidate.
 - Scope boundary: Aimed mainly at design iteration for existing apps; cross-framework support and actual write-back results are untested.
-- Maintenance: Commits within the last 90 days; 39 commits in 30 days, 261 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 39 commits in 30 days, 260 commits in 90 days.
 - License: [Apache-2.0](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/README.md#L12).
 
@@ -109,7 +109,7 @@ Design vocabulary, polish, critique and review commands for coding agents iterat
 
 - Category: Front-end design, motion and review Skills; Core candidate.
 - Scope boundary: Skill guidance and checks are not a human design review or an accessibility certification.
-- Maintenance: Commits within the last 90 days; 1305 commits in 30 days, 2259 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 1299 commits in 30 days, 2250 commits in 90 days.
 - License: [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -119,7 +119,7 @@ Agent Skill offering style, color, typography and design-system guidance across 
 
 - Category: Front-end design, motion and review Skills; Core candidate.
 - Scope boundary: Rules and generated results are a design starting point; accessibility and the final implementation still need testing.
-- Maintenance: Commits within the last 90 days; 36 commits in 30 days, 94 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 37 commits in 30 days, 95 commits in 90 days.
 - License: [MIT](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/README.md#L30).
 
@@ -129,7 +129,7 @@ Ports OpenDesign's design Skills, brand design system and examples for use insid
 
 - Category: Front-end design, motion and review Skills; Core candidate.
 - Scope boundary: Not the OpenDesign desktop app; examples, brand resources and generated results must be checked under their own use conditions.
-- Maintenance: Commits within the last 90 days; 220 commits in 30 days, 429 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 224 commits in 30 days, 435 commits in 90 days.
 - License: [MIT](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/README.md#L7).
 
@@ -169,7 +169,7 @@ Cross-domain collection of agent skills loaded on demand; its frontend-design-de
 
 - Category: Front-end design, motion and review Skills; Core candidate.
 - Scope boundary: Design is only one thread alongside copywriting, Git, deep research and security scanning; the -28% style deltas in the README are the author's own evaluations, not independently reproduced; Go skills live in the separate cc-skills-golang repository.
-- Maintenance: Commits within the last 90 days; 2 commits in 30 days, 16 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 2 commits in 30 days, 15 commits in 90 days.
 - License: [MIT](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/LICENSE); Open license verified. Repo root LICENSE is MIT; sites, fonts and assets referenced by individual skills stay under their own terms.
 - Feature verified: 2026-11-26; [Source 1](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L3) · [Source 2](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L20) · [Source 3](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L229).
 
@@ -179,7 +179,7 @@ A repeatable interface-design process for coding agents: product-specific art di
 
 - Category: Front-end design, motion and review Skills; Core candidate.
 - Scope boundary: The README states that results depend on the model, brief, project, references and available runtime tools, and that the skill supplies process, recipes and review checklists only; the blind-judged demo is the author's experiment, not a unified benchmark; third-party sources in the references (including Impeccable, Apache-2.0) keep their own licenses.
-- Maintenance: Commits within the last 90 days; 1 commits in 30 days, 9 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 0 commits in 30 days, 9 commits in 90 days.
 - License: [MIT](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/LICENSE); Open license verified. Repo root LICENSE is MIT and the README allows commercial use provided the notice is kept; referenced third-party sources are licensed separately.
 - Feature verified: 2026-11-26; [Source 1](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L5) · [Source 2](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L11) · [Source 3](https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L302).
 
@@ -209,7 +209,7 @@ Builds a starting design system for a product (look, palette, type scale, spacin
 
 - Category: Design systems and DESIGN.md; Core candidate.
 - Scope boundary: The author's stated goal is repeatable application of expert judgment, not a claim of expert-level output today, and a score does not replace human design acceptance; the +5.3 points come from 120 self-made rendered benchmark cells (Codex and Claude Code measured separately; raw rules alone were inconsistent), not a third-party benchmark; installation runs through npx skills add and needs Node.js/npm; the core skill ships no runtime dependencies while THIRD_PARTY.md lists the build and verification components with versions and licenses.
-- Maintenance: Commits within the last 90 days; 47 commits in 30 days, 95 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 48 commits in 30 days, 96 commits in 90 days.
 - License: [MIT](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE); Open license verified. Repo root LICENSE is MIT; THIRD_PARTY.md itemizes the build and verification components (Playwright and TypeScript are Apache-2.0, lucide-react is ISC, the rest MIT), so keep each notice when redistributing.
 - Feature verified: 2026-11-26; [Source 1](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7) · [Source 2](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22) · [Source 3](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88) · [Source 4](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216).
 
