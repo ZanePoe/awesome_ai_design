@@ -788,5 +788,233 @@
       "source": "https://github.com/penpot/penpot-mcp/blob/73e0cd21853dd03103f7ac675042b1277ee0b736/LICENSE",
       "note": "核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。"
     }
+  },
+  {
+    "repo": "samber/cc-skills",
+    "name": "cc-skills",
+    "category": "skills",
+    "scope": "core",
+    "description": "跨领域 Agent Skills 合集，按需加载；设计线里的 frontend-design-deslop 负责去掉前端的“AI 味”。",
+    "boundary": "除界面设计外还含文案、Git、深度调研、安全扫描等技能，设计只是其中一条线；README 的 -28% 等对比数字是作者自建评测，未独立复现；Go 相关技能在另一仓库 cc-skills-golang。",
+    "baseline": false,
+    "reviewed_at": "2026-11-26",
+    "readme_path": "README.md",
+    "evidence": [
+      {
+        "path": "README.md",
+        "line": 3,
+        "url": "https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L3",
+        "note": "官方 README 的技能定义与按需加载说明；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 20,
+        "url": "https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L20",
+        "note": "官方 README 的 skills CLI 安装与兼容宿主；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 229,
+        "url": "https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L229",
+        "note": "官方 README 的 frontend-design-deslop 用途说明；非实机测试"
+      }
+    ],
+    "evidence_commit": "50a33836b20f690c668af557bd9ef9d07a8c7ef2",
+    "license_review": {
+      "status": "verified",
+      "label": "MIT",
+      "source": "https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/LICENSE",
+      "note": "仓库根 LICENSE 为 MIT；各技能引用的站点、字体与素材仍按各自条款核验。"
+    }
+  },
+  {
+    "repo": "Devesh-Shirsath/spotkit",
+    "name": "Spotkit",
+    "category": "diagrams",
+    "scope": "core",
+    "description": "把功能描述转成真正 SVG（不是位图）的抽象产品插图技能：先问功能实际做什么、表达何种关系，再选 2-5 个 UI 原语与版式。",
+    "boundary": "面向单色抽象插图，不处理照片与复杂插画；同一套规则产出十二个版式，明暗双主题共用十二个 CSS 变量；示例取自作者自有功能集，落到自有品牌规范前需验证一致性。",
+    "baseline": false,
+    "reviewed_at": "2026-11-26",
+    "readme_path": "README.md",
+    "evidence": [
+      {
+        "path": "README.md",
+        "line": 4,
+        "url": "https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L4",
+        "note": "官方 README 的功能描述转 SVG 插图定位；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 18,
+        "url": "https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L18",
+        "note": "官方 README 的一套规则、十二版式与双主题 CSS 变量说明；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 117,
+        "url": "https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L117",
+        "note": "官方 README 的关系→原语→版式→SVG→检查清单流程；非实机测试"
+      }
+    ],
+    "evidence_commit": "f9b6a611e14c68a88fae44b4c67777a25b9c1d2c",
+    "license_review": {
+      "status": "verified",
+      "label": "MIT",
+      "source": "https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/LICENSE",
+      "note": "仓库根 LICENSE 为 MIT，未见第三方素材例外声明；示例 SVG 与图标脚本产物的再分发需自行核对。"
+    }
+  },
+  {
+    "repo": "Moddingflow/better-design",
+    "name": "Better Design",
+    "category": "skills",
+    "scope": "core",
+    "description": "给 coding agent 一套可复用的界面设计流程：产品专属艺术指导、共享 DESIGN.md、量化排版与控件规格，并附校验脚本与可点击演示。",
+    "boundary": "官方说明结果依赖模型、简报、项目、参考与可用运行时工具，技能只提供流程、配方与评审清单；演示中的盲评对比是作者实验，未做统一复现；参考区记录的 Impeccable 等第三方来源保留各自条款。",
+    "baseline": false,
+    "reviewed_at": "2026-11-26",
+    "readme_path": "README.md",
+    "evidence": [
+      {
+        "path": "README.md",
+        "line": 5,
+        "url": "https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L5",
+        "note": "官方 README 的艺术指导、DESIGN.md 与量化规格流程；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 11,
+        "url": "https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L11",
+        "note": "官方 README 的实时演示与盲评对照说明；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 302,
+        "url": "https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/README.md#L302",
+        "note": "官方 README 对结果依赖模型与运行时的自述边界；非实机测试"
+      }
+    ],
+    "evidence_commit": "c373ad7fa122b8c0d63b1be756443cc93a56e71d",
+    "license_review": {
+      "status": "verified",
+      "label": "MIT",
+      "source": "https://github.com/Moddingflow/better-design/blob/c373ad7fa122b8c0d63b1be756443cc93a56e71d/LICENSE",
+      "note": "仓库根 LICENSE 为 MIT，README 明确可商用但需保留许可声明；references 记录的第三方来源（含 Impeccable，Apache-2.0）各自授权。"
+    }
+  },
+  {
+    "repo": "arvindrk/extract-design-system",
+    "name": "extract-design-system",
+    "category": "design_systems",
+    "scope": "core",
+    "description": "从任意公开网站逆向出颜色、字体、间距、圆角与阴影等 design tokens，输出 W3C 兼容 tokens.json 与 CSS 自定义属性文件。",
+    "boundary": "skills-first 仓库，CLI 是技能执行的载体；抽取公开站点得到的品牌配色、字体与图形不等于取得授权，产出需按目标站点条款、字体许可与商标权另行核验。",
+    "baseline": false,
+    "reviewed_at": "2026-11-26",
+    "readme_path": "README.md",
+    "evidence": [
+      {
+        "path": "README.md",
+        "line": 15,
+        "url": "https://github.com/arvindrk/extract-design-system/blob/1873741ba8dea755e35e6e15134f7918cd58e036/README.md#L15",
+        "note": "官方 README 的 token 抽取范围与输出形式；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 19,
+        "url": "https://github.com/arvindrk/extract-design-system/blob/1873741ba8dea755e35e6e15134f7918cd58e036/README.md#L19",
+        "note": "官方 README 的 skills-first 与 CLI 关系说明；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 31,
+        "url": "https://github.com/arvindrk/extract-design-system/blob/1873741ba8dea755e35e6e15134f7918cd58e036/README.md#L31",
+        "note": "官方 README 的 W3C 兼容 tokens.json 与 tokens.css 输出；非实机测试"
+      }
+    ],
+    "evidence_commit": "1873741ba8dea755e35e6e15134f7918cd58e036",
+    "license_review": {
+      "status": "verified",
+      "label": "MIT",
+      "source": "https://github.com/arvindrk/extract-design-system/blob/1873741ba8dea755e35e6e15134f7918cd58e036/LICENSE",
+      "note": "仓库根 LICENSE 为 MIT；被抽取站点的商标、字体与素材权利不在该许可范围内。"
+    }
+  },
+  {
+    "repo": "kaankiziltug/logo-design-skill",
+    "name": "Logo Design Skill",
+    "category": "skills",
+    "scope": "core",
+    "description": "从 brief 到可交付 SVG 与品牌规范的 logo 设计技能，附 1,400+ 真实 logo 参考库、几何与光学修正规则和无依赖 Python 检查工具。",
+    "boundary": "参考库仅用于研究构造、类型与避免撞型，官方明令不得复制、描摹或模仿；产出需自行做商标检索，README 示例品牌为虚构；16 px、单色、反白、镜像等测试由自带脚本执行，未做统一效果评测。",
+    "baseline": false,
+    "reviewed_at": "2026-11-26",
+    "readme_path": "README.md",
+    "evidence": [
+      {
+        "path": "README.md",
+        "line": 7,
+        "url": "https://github.com/kaankiziltug/logo-design-skill/blob/e9eaddc07895575253d6663320354a708f53e955/README.md#L7",
+        "note": "官方 README 的 logo 设计技能定位与兼容宿主；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 16,
+        "url": "https://github.com/kaankiziltug/logo-design-skill/blob/e9eaddc07895575253d6663320354a708f53e955/README.md#L16",
+        "note": "官方 README 的 1,400+ 参考库用途与禁止复制说明；非实机测试"
+      },
+      {
+        "path": "TRADEMARKS.md",
+        "line": 10,
+        "url": "https://github.com/kaankiziltug/logo-design-skill/blob/e9eaddc07895575253d6663320354a708f53e955/TRADEMARKS.md#L10",
+        "note": "官方商标声明：技能要求模型只研究不复制这些商标；非实机测试"
+      }
+    ],
+    "evidence_commit": "e9eaddc07895575253d6663320354a708f53e955",
+    "license_review": {
+      "status": "custom",
+      "label": "MIT（代码与技能）+ 第三方商标 logo 库除外",
+      "source": "https://github.com/kaankiziltug/logo-design-skill/blob/e9eaddc07895575253d6663320354a708f53e955/TRADEMARKS.md",
+      "note": "TRADEMARKS.md 声明 assets/library/svg 内 1,432 个 logo 均为各自权利人的商标，MIT 不覆盖也不授权，仅作品构研究参考，权利人可要求下架。"
+    }
+  },
+  {
+    "repo": "jakubkrehel/make-interfaces-feel-better",
+    "name": "Make Interfaces Feel Better",
+    "category": "skills",
+    "scope": "core",
+    "description": "聚焦界面细节的 agent 技能：动效、字体、图标、hover 状态、光学对齐与同心圆角等，一条 skills CLI 命令安装。",
+    "boundary": "只提供细节规则与清单，不替代布局与信息架构决策；效果需在真实浏览器、键盘与辅助技术下验证，作者未发布统一评测数据。",
+    "baseline": false,
+    "reviewed_at": "2026-11-26",
+    "readme_path": "README.md",
+    "evidence": [
+      {
+        "path": "README.md",
+        "line": 7,
+        "url": "https://github.com/jakubkrehel/make-interfaces-feel-better/blob/6d9f2f1df10e8ce2ae1708598a73b0506fb98794/README.md#L7",
+        "note": "官方 README 的细节导向技能定位；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 9,
+        "url": "https://github.com/jakubkrehel/make-interfaces-feel-better/blob/6d9f2f1df10e8ce2ae1708598a73b0506fb98794/README.md#L9",
+        "note": "官方 README 的 SKILL.md 覆盖项（动效、字体、图标、hover、光学对齐、圆角）；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 14,
+        "url": "https://github.com/jakubkrehel/make-interfaces-feel-better/blob/6d9f2f1df10e8ce2ae1708598a73b0506fb98794/README.md#L14",
+        "note": "官方 README 的 skills CLI 安装命令；非实机测试"
+      }
+    ],
+    "evidence_commit": "6d9f2f1df10e8ce2ae1708598a73b0506fb98794",
+    "license_review": {
+      "status": "verified",
+      "label": "MIT",
+      "source": "https://github.com/jakubkrehel/make-interfaces-feel-better/blob/6d9f2f1df10e8ce2ae1708598a73b0506fb98794/LICENSE",
+      "note": "仓库根 LICENSE 为 MIT；SKILL.md 引用的外部资源、字体与示例素材按各自条款核验。"
+    }
   }
 ]

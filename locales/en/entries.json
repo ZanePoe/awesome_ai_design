@@ -177,5 +177,47 @@
     "boundary": "New users should enter through the Penpot main repository; the old repository is kept only for migration traceability.",
     "license_label": "MPL-2.0",
     "license_note": "Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license."
+  },
+  "samber/cc-skills": {
+    "name": "cc-skills",
+    "description": "Cross-domain collection of agent skills loaded on demand; its frontend-design-deslop skill strips the generic AI look from web frontends.",
+    "boundary": "Design is only one thread alongside copywriting, Git, deep research and security scanning; the -28% style deltas in the README are the author's own evaluations, not independently reproduced; Go skills live in the separate cc-skills-golang repository.",
+    "license_label": "MIT",
+    "license_note": "Repo root LICENSE is MIT; sites, fonts and assets referenced by individual skills stay under their own terms."
+  },
+  "Devesh-Shirsath/spotkit": {
+    "name": "Spotkit",
+    "description": "A Claude Code skill that turns a feature description into real SVG abstract product illustrations, first working out what the feature does and which relationship it expresses, then picking 2-5 UI primitives and a layout.",
+    "boundary": "Aimed at monochrome abstract illustration rather than photography or rich artwork; one rule set yields twelve layouts and both themes come from twelve CSS variables; the samples use the author's own feature set, so consistency against your own brand rules still needs verifying.",
+    "license_label": "MIT",
+    "license_note": "Repo root LICENSE is MIT with no stated third-party carve-out; re-check the example SVGs and the icons the scripts produce before redistributing."
+  },
+  "Moddingflow/better-design": {
+    "name": "Better Design",
+    "description": "A repeatable interface-design process for coding agents: product-specific art direction, a shared DESIGN.md, measured typography and control specs, plus validation scripts and a clickable demo.",
+    "boundary": "The README states that results depend on the model, brief, project, references and available runtime tools, and that the skill supplies process, recipes and review checklists only; the blind-judged demo is the author's experiment, not a unified benchmark; third-party sources in the references (including Impeccable, Apache-2.0) keep their own licenses.",
+    "license_label": "MIT",
+    "license_note": "Repo root LICENSE is MIT and the README allows commercial use provided the notice is kept; referenced third-party sources are licensed separately."
+  },
+  "arvindrk/extract-design-system": {
+    "name": "extract-design-system",
+    "description": "Reverse-engineers design tokens - colors, typography, spacing, radius and shadows - from any public website and emits W3C-compatible tokens.json plus a CSS custom-properties file.",
+    "boundary": "A skills-first repository where the bundled CLI is the workflow the agent runs; extracting a live site's palette, fonts and shapes grants no rights, so output must be checked against the site's terms, font licenses and trademark law.",
+    "license_label": "MIT",
+    "license_note": "Repo root LICENSE is MIT; trademarks, fonts and assets of the extracted site fall outside it."
+  },
+  "kaankiziltug/logo-design-skill": {
+    "name": "Logo Design Skill",
+    "description": "A logo-design skill running from brief to deliverable SVG and brand guidelines, with a 1,400+ real-logo reference library, geometry and optical correction rules and dependency-free Python checks.",
+    "boundary": "The reference library exists to study construction, typology and look-alikes and must never be copied, traced or imitated; run your own trademark clearance, the README brands are fictional; the 16 px, one-color, reversed, mirror and competitor-shelf tests come from the bundled scripts and no unified quality benchmark was run.",
+    "license_label": "MIT (code and skills) + third-party trademarked logo library excluded",
+    "license_note": "TRADEMARKS.md states the 1,432 logos under assets/library/svg are trademarks of their respective owners, outside the MIT grant and included for study only, with takedown on request."
+  },
+  "jakubkrehel/make-interfaces-feel-better": {
+    "name": "Make Interfaces Feel Better",
+    "description": "An agent skill for the small details that make interfaces feel better: animation, typography, icons, hover states, optical alignment and concentric radii, installed with one skills CLI command.",
+    "boundary": "It supplies detail rules and checklists rather than layout or information-architecture decisions, and effects must be verified in real browsers, with keyboard and assistive technology; the author publishes no benchmark numbers.",
+    "license_label": "MIT",
+    "license_note": "Repo root LICENSE is MIT; external resources, fonts and sample assets referenced by SKILL.md follow their own terms."
   }
 }

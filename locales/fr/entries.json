@@ -177,5 +177,47 @@
     "boundary": "Les nouveaux utilisateurs doivent passer par le dépôt principal de Penpot ; l'ancien dépôt est conservé pour tracer la migration.",
     "license_label": "MPL-2.0",
     "license_note": "Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code."
+  },
+  "samber/cc-skills": {
+    "name": "cc-skills",
+    "description": "Collection transverse de skills d'agent chargées à la demande ; sa skill frontend-design-deslop retire le rendu générique « fait par IA » des interfaces web.",
+    "boundary": "Le design n'est qu'un fil parmi la rédaction, Git, la recherche approfondie et l'analyse de sécurité ; les -28 % affichés dans le README sont des évaluations de l'auteur, pas reproduites de façon indépendante ; les skills Go vivent dans le dépôt séparé cc-skills-golang.",
+    "license_label": "MIT",
+    "license_note": "La LICENSE racine est MIT ; les sites, polices et médias cités par chaque skill restent sous leurs propres conditions."
+  },
+  "Devesh-Shirsath/spotkit": {
+    "name": "Spotkit",
+    "description": "Skill Claude Code qui transforme une description de fonctionnalité en illustrations produit abstraites en SVG réel : elle détermine d'abord ce que fait la fonctionnalité et quelle relation elle exprime, puis choisit 2 à 5 primitives d'interface et une mise en page.",
+    "boundary": "Ciblé sur l'illustration abstraite monochrome, pas la photo ni l'illustration détaillée ; un même jeu de règles produit douze gabarits et les deux thèmes découlent de douze variables CSS ; les exemples reprennent le catalogue de fonctions de l'auteur, la cohérence avec vos propres règles de marque reste à vérifier.",
+    "license_label": "MIT",
+    "license_note": "La LICENSE racine est MIT sans exception déclarée pour des médias tiers ; revérifiez les SVG d'exemple et les icônes produites par les scripts avant toute redistribution."
+  },
+  "Moddingflow/better-design": {
+    "name": "Better Design",
+    "description": "Un processus répétable de conception d'interface pour agents de codage : direction artistique propre au produit, DESIGN.md partagé, typographie et spécifications de contrôles mesurées, avec scripts de validation et une démo cliquable.",
+    "boundary": "Le README indique que les résultats dépendent du modèle, du brief, du projet, des références et des outils d'exécution disponibles, et que la skill ne fournit que processus, recettes et listes de relecture ; la démo jugée à l'aveugle est une expérience de l'auteur, pas un benchmark unifié ; les sources tierces des références (dont Impeccable, Apache-2.0) gardent leurs licences.",
+    "license_label": "MIT",
+    "license_note": "La LICENSE racine est MIT et le README autorise l'usage commercial en conservant la mention ; les sources tierces citées sont licenciées séparément."
+  },
+  "arvindrk/extract-design-system": {
+    "name": "extract-design-system",
+    "description": "Reconstitue les design tokens (couleurs, typographie, espacement, rayon, ombres) de n'importe quel site public et produit un tokens.json compatible W3C plus un fichier de propriétés personnalisées CSS.",
+    "boundary": "Dépôt skills-first où la CLI embarquée est le flux d'exécution de l'agent ; extraire la palette, les polices et les formes d'un site en ligne n'accorde aucun droit, il faut donc confronter la sortie aux conditions du site, aux licences de polices et au droit des marques.",
+    "license_label": "MIT",
+    "license_note": "La LICENSE racine est MIT ; les marques, polices et médias du site extrait en restent hors."
+  },
+  "kaankiziltug/logo-design-skill": {
+    "name": "Logo Design Skill",
+    "description": "Skill de design de logo allant du brief au SVG livrable et aux guidelines de marque, avec une bibliothèque de référence de plus de 1 400 logos réels, des règles de géométrie et de correction optique et des outils Python sans dépendances.",
+    "boundary": "La bibliothèque de référence sert à étudier la construction, la typologie et à éviter les doublons visuels, sans jamais copier, tracer ni imiter ; menez votre propre recherche de marques (les marques du README sont fictives) ; les tests 16 px, une couleur, inversé, miroir et « étagère concurrents » viennent des scripts fournis et aucun benchmark de qualité unifié n'a été exécuté.",
+    "license_label": "MIT (code et skills) + bibliothèque de logos tiers sous marque déposée exclue",
+    "license_note": "TRADEMARKS.md déclare que les 1 432 logos de assets/library/svg sont des marques de leurs titulaires, hors du champ MIT et inclus pour la seule étude, avec retrait sur demande."
+  },
+  "jakubkrehel/make-interfaces-feel-better": {
+    "name": "Make Interfaces Feel Better",
+    "description": "Skill d'agent pour les menus détails qui rendent une interface meilleure : animation, typographie, icônes, états de survol, alignement optique et rayons concentriques, installable d'une commande skills CLI.",
+    "boundary": "Elle apporte des règles et listes de détails, pas les décisions de mise en page ni d'architecture de l'information ; les effets doivent être vérifiés dans de vrais navigateurs, au clavier et avec des technologies d'assistance ; l'auteur ne publie aucun chiffre de benchmark.",
+    "license_label": "MIT",
+    "license_note": "La LICENSE racine est MIT ; les ressources externes, polices et médias d'exemple cités par SKILL.md suivent leurs propres conditions."
   }
 }
