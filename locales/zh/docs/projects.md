@@ -9,7 +9,7 @@
 
 - 分类：设计 Agent 与原型工作台；核心候选。
 - 适用边界：本地工作流、托管 Cloud 和 Go 套餐分开看；模型、模板和品牌素材的条款另计。
-- 维护状态：近90天有提交；30 天提交 81 次，90 天提交 415 次。
+- 维护状态：近90天有提交；30 天提交 81 次，90 天提交 413 次。
 - 许可：[Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [来源2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105)。
 
@@ -109,7 +109,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：Skill 指导和检查不等于人工设计审查或无障碍认证。
-- 维护状态：近90天有提交；30 天提交 1316 次，90 天提交 2259 次。
+- 维护状态：近90天有提交；30 天提交 1306 次，90 天提交 2259 次。
 - 许可：[Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3)。
 
@@ -202,6 +202,16 @@
 - 维护状态：近90天有提交；30 天提交 22 次，90 天提交 22 次。
 - 许可：[Apache-2.0](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/README.md#L3)。
+
+## [StyleSeed](https://github.com/bitjaru/styleseed)
+
+为产品生成起步设计系统（外观、配色、字阶、间距、圆角、动效），把决定锁进 STYLESEED.md 与 CSS token，并让 coding agent 在后续每个页面按 74 条 craft rules 和 0–100 打分闸门守住它。
+
+- 分类：设计系统与 DESIGN.md；核心候选。
+- 适用边界：作者的目标是可重复执行专家判断，不宣称当下产出即专家级，分数不替代人工设计验收；README 的 +5.3 分来自 120 个自建渲染单元（Codex 与 Claude Code 分别测评，纯规则不加闸门时结果不稳定），不是第三方基准；安装走 npx skills add 需要 Node.js/npm；核心 skill 声明无运行时依赖，构建与验证所用第三方组件在 THIRD_PARTY.md 逐项列出版本与许可。
+- 维护状态：近90天有提交；30 天提交 47 次，90 天提交 95 次。
+- 许可：[MIT](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE)；开放许可证已核验。仓库根 LICENSE 为 MIT；THIRD_PARTY.md 逐项列出构建与验证所用组件及版本（Playwright、TypeScript 为 Apache-2.0，lucide-react 为 ISC，其余 MIT），再分发时按各自许可保留声明。
+- 功能核验：2026-11-26；[来源1](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7) · [来源2](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22) · [来源3](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88) · [来源4](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216)。
 
 ## [Google DESIGN.md](https://github.com/google-labs-code/design.md)
 

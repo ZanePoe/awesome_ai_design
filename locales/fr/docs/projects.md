@@ -9,7 +9,7 @@ Génère des prototypes respectant le design system via un coding agent local ou
 
 - Catégorie : Agents de design et ateliers de prototypage ; Candidat principal.
 - Périmètre d'application : Considérez séparément le flux local, le Cloud hébergé et l'offre Go ; les conditions des modèles, gabarits et ressources de marque comptent à part.
-- État de maintenance : Commits sur les 90 derniers jours ; 81 commits sur 30 jours, 415 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 81 commits sur 30 jours, 413 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [Source2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105).
 
@@ -109,7 +109,7 @@ Commandes de vocabulaire de design, de polissage, de critique et de revue pour c
 
 - Catégorie : Skills de design front-end, motion et revue ; Candidat principal.
 - Périmètre d'application : Les consignes et vérifications du Skill ne remplacent pas une revue de design humaine ni une certification d'accessibilité.
-- État de maintenance : Commits sur les 90 derniers jours ; 1316 commits sur 30 jours, 2259 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 1306 commits sur 30 jours, 2259 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -202,6 +202,16 @@ Ensemble officiel de skills et de plugins pour Google Stitch, reliant les agents
 - État de maintenance : Commits sur les 90 derniers jours ; 22 commits sur 30 jours, 22 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/README.md#L3).
+
+## [StyleSeed](https://github.com/bitjaru/styleseed)
+
+Construit un système de design de départ pour le produit (allure, palette, échelle typographique, espacement, rayon, motion), verrouille les décisions dans STYLESEED.md et des tokens CSS, puis fait tenir ces règles à un coding agent sur chaque écran grâce à 74 règles craft et à un garde-fou noté de 0 à 100.
+
+- Catégorie : Systèmes de design et DESIGN.md ; Candidat principal.
+- Périmètre d'application : L'objectif annoncé de l'auteur est l'application répétable d'un jugement d'expert, pas la revendication d'un rendu déjà au niveau expert, et le score ne remplace pas l'acceptation humaine du design ; les +5,3 points proviennent de 120 cellules de benchmark rendues par le projet lui-même (Codex et Claude Code mesurés séparément ; les règles seules étaient irrégulières), pas d'un benchmark tiers ; l'installation passe par npx skills add et demande Node.js/npm ; le skill central n'embarque aucune dépendance d'exécution, tandis que THIRD_PARTY.md liste les composants de build et de vérification avec versions et licences.
+- État de maintenance : Commits sur les 90 derniers jours ; 47 commits sur 30 jours, 95 commits sur 90 jours.
+- Licence : [MIT](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE) ; Licence ouverte vérifiée. La LICENSE racine est MIT ; THIRD_PARTY.md détaille les composants de build et de vérification (Playwright et TypeScript en Apache-2.0, lucide-react en ISC, le reste en MIT), il faut donc conserver chaque mention lors de la redistribution.
+- Vérification fonctionnelle : 2026-11-26 ; [Source1](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7) · [Source2](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22) · [Source3](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88) · [Source4](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216).
 
 ## [Google DESIGN.md](https://github.com/google-labs-code/design.md)
 

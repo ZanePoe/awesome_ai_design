@@ -226,5 +226,12 @@
     "boundary": "The 26 styles, 18 charts and the benchmarked-against-world-class-brands framing are the author's own claims with no unified evaluation; exporting SVG/PPTX needs dependencies such as Python >=3.9 and Node >=18 and without them only the HTML preview is delivered; several references directories are adapted from the upstream sunbigfly/ppt-agent-skills, so redistribution must keep the MIT notice and ATTRIBUTIONS.md; styling after real brands grants no rights to their trademarks.",
     "license_label": "MIT",
     "license_note": "Repo root LICENSE is MIT, with the copyright line naming the upstream author sunbigfly (2025); ATTRIBUTIONS.md lists the references subdirectories adapted from sunbigfly/ppt-agent-skills, so keep both the license and the attribution when redistributing."
+  },
+  "bitjaru/styleseed": {
+    "name": "StyleSeed",
+    "description": "Builds a starting design system for a product (look, palette, type scale, spacing, radius, motion), locks the decisions in STYLESEED.md and CSS tokens, and keeps a coding agent to them on every screen through 74 craft rules and a 0-100 scored gate.",
+    "boundary": "The author's stated goal is repeatable application of expert judgment, not a claim of expert-level output today, and a score does not replace human design acceptance; the +5.3 points come from 120 self-made rendered benchmark cells (Codex and Claude Code measured separately; raw rules alone were inconsistent), not a third-party benchmark; installation runs through npx skills add and needs Node.js/npm; the core skill ships no runtime dependencies while THIRD_PARTY.md lists the build and verification components with versions and licenses.",
+    "license_label": "MIT",
+    "license_note": "Repo root LICENSE is MIT; THIRD_PARTY.md itemizes the build and verification components (Playwright and TypeScript are Apache-2.0, lucide-react is ISC, the rest MIT), so keep each notice when redistributing."
   }
 }

@@ -226,5 +226,12 @@
   "boundary": "26 शैलियाँ, 18 चार्ट और “वर्ल्ड-क्लास ब्रांडों से तुलना” लेखक के स्वयं के दावे हैं, कोई मानकीकृत मूल्यांकन नहीं; SVG/PPTX निर्यात के लिए Python ≥3.9, Node ≥18 जैसे dependencies चाहिए, न होने पर केवल HTML प्रीव्यू दिया जाता है; references के कई डायरेक्टरीज़ upstream sunbigfly/ppt-agent-skills से रूपांतरित हैं, इसलिए पुनर्वितरण में MIT नोटिस और ATTRIBUTIONS.md रखना जरूरी है; असली ब्रांडों की शैली की नकल से उनके ट्रेडमार्क पर कोई अधिकार नहीं मिलता।",
   "license_label": "MIT",
   "license_note": "जड़ LICENSE MIT है, जिसकी कॉपीराइट पंक्ति upstream लेखक sunbigfly (2025) को बताती है; ATTRIBUTIONS.md उन references उप-डायरेक्टरीज़ की सूची देता है जो sunbigfly/ppt-agent-skills से रूपांतरित हैं, अतः पुनर्वितरण में लाइसेंस और एट्रिब्यूशन दोनों रखें।"
+ },
+ "bitjaru/styleseed": {
+  "name": "StyleSeed",
+  "description": "प्रोडक्ट के लिए शुरुआती डिज़ाइन-सिस्टम बनाता है (लुक, पैलेट, टाइप-स्केल, स्पेसिंग, रेडियस, मोशन), निर्णय STYLESEED.md और CSS token में लॉक करता है, और 74 craft rules तथा 0-100 स्कोर्ड गेट से coding agent को हर स्क्रीन पर उनका पालन कराता है।",
+  "boundary": "लेखक का घोषित लक्ष्य विशेषज्ञ-निर्णय का दोहराव-योग्य अनुप्रयोग है, यह दावा नहीं कि आज का आउटपुट विशेषज्ञ-स्तर का है; स्कोर मानव डिज़ाइन-स्वीकृति को प्रतिस्थापित नहीं करता; +5.3 अंक परियोजना के स्वयं के 120 रेंडर्ड बेंचमार्क सेल से हैं (Codex और Claude Code अलग-अलग मापे गए, केवल rules असंगत रहे), थर्ड-पार्टी बेंचमार्क नहीं; इंस्टॉल npx skills add से होता है और Node.js/npm चाहिए; कोर skill में runtime dependencies नहीं हैं, जबकि THIRD_PARTY.md में build और verification घटकों को संस्करण व लाइसेंस सहित सूचीबद्ध किया गया है।",
+  "license_label": "MIT",
+  "license_note": "जड़ LICENSE MIT है; THIRD_PARTY.md में build/verification घटक सूचीबद्ध हैं (Playwright और TypeScript Apache-2.0, lucide-react ISC, शेष MIT), अतः पुनर्वितरण में हर नोटिस रखें।"
  }
 }

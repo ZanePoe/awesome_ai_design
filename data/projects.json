@@ -1060,5 +1060,49 @@
       "source": "https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/LICENSE",
       "note": "仓库根 LICENSE 为 MIT，版权行署上游作者 sunbigfly（2025）；ATTRIBUTIONS.md 说明 references 的 principles/design-runtime/blocks/page-templates/layouts 等目录来自 sunbigfly/ppt-agent-skills 的修改版，再分发需同时保留许可与署名。"
     }
+  },
+  {
+    "repo": "bitjaru/styleseed",
+    "name": "StyleSeed",
+    "category": "design_systems",
+    "scope": "core",
+    "description": "为产品生成起步设计系统（外观、配色、字阶、间距、圆角、动效），把决定锁进 STYLESEED.md 与 CSS token，并让 coding agent 在后续每个页面按 74 条 craft rules 和 0–100 打分闸门守住它。",
+    "boundary": "作者的目标是可重复执行专家判断，不宣称当下产出即专家级，分数不替代人工设计验收；README 的 +5.3 分来自 120 个自建渲染单元（Codex 与 Claude Code 分别测评，纯规则不加闸门时结果不稳定），不是第三方基准；安装走 npx skills add 需要 Node.js/npm；核心 skill 声明无运行时依赖，构建与验证所用第三方组件在 THIRD_PARTY.md 逐项列出版本与许可。",
+    "baseline": false,
+    "reviewed_at": "2026-11-26",
+    "readme_path": "README.md",
+    "evidence": [
+      {
+        "path": "README.md",
+        "line": 7,
+        "url": "https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7",
+        "note": "官方 README 的设计系统与守规定位；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 22,
+        "url": "https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22",
+        "note": "官方 README 的 120 渲染单元自测数字与闸门收益；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 88,
+        "url": "https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88",
+        "note": "官方 README 的 74 条 craft rules 与 0–100 打分闸门；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 216,
+        "url": "https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216",
+        "note": "官方 README 的 STYLESEED.md 锁定与跨会话保持机制；非实机测试"
+      }
+    ],
+    "evidence_commit": "6963076194fdefd84933d87a1a4d282fdd0a7b0f",
+    "license_review": {
+      "status": "verified",
+      "label": "MIT",
+      "source": "https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE",
+      "note": "仓库根 LICENSE 为 MIT；THIRD_PARTY.md 逐项列出构建与验证所用组件及版本（Playwright、TypeScript 为 Apache-2.0，lucide-react 为 ISC，其余 MIT），再分发时按各自许可保留声明。"
+    }
   }
 ]

@@ -9,7 +9,7 @@ Genera prototipos fieles a sistemas de diseño con un coding agent local o con O
 
 - Categoría: Agentes de diseño y bancos de trabajo de prototipos; Candidato principal.
 - Frontera de aplicación: El flujo local, la nube gestionada Cloud y el plan Go se consideran por separado; las condiciones de modelos, plantillas y materiales de marca se cuentan aparte.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 81 commits en 30 días, 415 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 81 commits en 30 días, 413 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [Fuente 2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105).
 
@@ -109,7 +109,7 @@ Aporta a los coding agents vocabulario de diseño y órdenes de refinado, críti
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: La guía y los chequeos de una Skill no equivalen a una revisión de diseño humana ni a una certificación de accesibilidad.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 1316 commits en 30 días, 2259 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 1306 commits en 30 días, 2259 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -202,6 +202,16 @@ Conjunto oficial de skills y plugins para Google Stitch que conecta los agentes 
 - Estado de mantenimiento: Con commits en los últimos 90 días; 22 commits en 30 días, 22 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/README.md#L3).
+
+## [StyleSeed](https://github.com/bitjaru/styleseed)
+
+Genera un sistema de diseño inicial para el producto (apariencia, paleta, escala tipográfica, espaciado, radio y movimiento), fija las decisiones en STYLESEED.md y tokens CSS y hace que el coding agent las respete en cada pantalla mediante 74 reglas craft y una puerta de puntuación 0-100.
+
+- Categoría: Sistemas de diseño y DESIGN.md; Candidato principal.
+- Frontera de aplicación: El objetivo declarado del autor es la aplicación repetible del criterio experto, no afirmar que el resultado actual ya sea de nivel experto, y la puntuación no sustituye la aceptación humana del diseño; los +5,3 puntos salen de 120 celdas de benchmark renderizadas por el propio proyecto (Codex y Claude Code medidos por separado; las reglas sin puerta eran inconsistentes), no de un benchmark de terceros; la instalación usa npx skills add y requiere Node.js/npm; la skill central no trae dependencias de ejecución, mientras THIRD_PARTY.md lista con versión y licencia los componentes de construcción y verificación.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 47 commits en 30 días, 95 en 90 días.
+- Licencia: [MIT](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE); Licencia abierta verificada. La LICENSE raíz es MIT; THIRD_PARTY.md detalla los componentes de construcción y verificación (Playwright y TypeScript son Apache-2.0, lucide-react es ISC y el resto MIT), así que hay que conservar cada aviso al redistribuir.
+- Verificación funcional: 2026-11-26; [Fuente 1](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7) · [Fuente 2](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22) · [Fuente 3](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88) · [Fuente 4](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216).
 
 ## [Google DESIGN.md](https://github.com/google-labs-code/design.md)
 

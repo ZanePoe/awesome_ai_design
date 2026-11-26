@@ -9,7 +9,7 @@ Generate design-system-compliant prototypes with a local coding agent or OpenDes
 
 - Category: Design agents and prototyping workbenches; Core candidate.
 - Scope boundary: Treat the local workflow, the managed Cloud and the Go plan separately; terms for models, templates and brand assets are counted separately.
-- Maintenance: Commits within the last 90 days; 81 commits in 30 days, 415 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 81 commits in 30 days, 413 commits in 90 days.
 - License: [Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [Source 2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105).
 
@@ -109,7 +109,7 @@ Design vocabulary, polish, critique and review commands for coding agents iterat
 
 - Category: Front-end design, motion and review Skills; Core candidate.
 - Scope boundary: Skill guidance and checks are not a human design review or an accessibility certification.
-- Maintenance: Commits within the last 90 days; 1316 commits in 30 days, 2259 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 1306 commits in 30 days, 2259 commits in 90 days.
 - License: [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -202,6 +202,16 @@ Official skills and plugins collection for Google Stitch, connecting agents to i
 - Maintenance: Commits within the last 90 days; 22 commits in 30 days, 22 commits in 90 days.
 - License: [Apache-2.0](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/README.md#L3).
+
+## [StyleSeed](https://github.com/bitjaru/styleseed)
+
+Builds a starting design system for a product (look, palette, type scale, spacing, radius, motion), locks the decisions in STYLESEED.md and CSS tokens, and keeps a coding agent to them on every screen through 74 craft rules and a 0-100 scored gate.
+
+- Category: Design systems and DESIGN.md; Core candidate.
+- Scope boundary: The author's stated goal is repeatable application of expert judgment, not a claim of expert-level output today, and a score does not replace human design acceptance; the +5.3 points come from 120 self-made rendered benchmark cells (Codex and Claude Code measured separately; raw rules alone were inconsistent), not a third-party benchmark; installation runs through npx skills add and needs Node.js/npm; the core skill ships no runtime dependencies while THIRD_PARTY.md lists the build and verification components with versions and licenses.
+- Maintenance: Commits within the last 90 days; 47 commits in 30 days, 95 commits in 90 days.
+- License: [MIT](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE); Open license verified. Repo root LICENSE is MIT; THIRD_PARTY.md itemizes the build and verification components (Playwright and TypeScript are Apache-2.0, lucide-react is ISC, the rest MIT), so keep each notice when redistributing.
+- Feature verified: 2026-11-26; [Source 1](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7) · [Source 2](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22) · [Source 3](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88) · [Source 4](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216).
 
 ## [Google DESIGN.md](https://github.com/google-labs-code/design.md)
 

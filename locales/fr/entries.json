@@ -226,5 +226,12 @@
     "boundary": "Les 26 styles, les 18 graphiques et la « comparaison avec des marques de premier plan » sont des affirmations de l'auteur, sans évaluation unifiée ; l'export SVG/PPTX exige des dépendances telles que Python ≥3.9 et Node ≥18 et, à défaut, seule la prévisualisation HTML est livrée ; plusieurs répertoires de references proviennent d'une adaptation de sunbigfly/ppt-agent-skills, donc la redistribution doit conserver la mention MIT et ATTRIBUTIONS.md ; imiter le style de marques réelles n'accorde aucun droit sur leurs marques.",
     "license_label": "MIT",
     "license_note": "La LICENSE racine est MIT, la ligne de copyright nommant l'auteur amont sunbigfly (2025) ; ATTRIBUTIONS.md énumère les sous-répertoires de references adaptés de sunbigfly/ppt-agent-skills, il faut donc conserver licence et attribution lors de toute redistribution."
+  },
+  "bitjaru/styleseed": {
+    "name": "StyleSeed",
+    "description": "Construit un système de design de départ pour le produit (allure, palette, échelle typographique, espacement, rayon, motion), verrouille les décisions dans STYLESEED.md et des tokens CSS, puis fait tenir ces règles à un coding agent sur chaque écran grâce à 74 règles craft et à un garde-fou noté de 0 à 100.",
+    "boundary": "L'objectif annoncé de l'auteur est l'application répétable d'un jugement d'expert, pas la revendication d'un rendu déjà au niveau expert, et le score ne remplace pas l'acceptation humaine du design ; les +5,3 points proviennent de 120 cellules de benchmark rendues par le projet lui-même (Codex et Claude Code mesurés séparément ; les règles seules étaient irrégulières), pas d'un benchmark tiers ; l'installation passe par npx skills add et demande Node.js/npm ; le skill central n'embarque aucune dépendance d'exécution, tandis que THIRD_PARTY.md liste les composants de build et de vérification avec versions et licences.",
+    "license_label": "MIT",
+    "license_note": "La LICENSE racine est MIT ; THIRD_PARTY.md détaille les composants de build et de vérification (Playwright et TypeScript en Apache-2.0, lucide-react en ISC, le reste en MIT), il faut donc conserver chaque mention lors de la redistribution."
   }
 }
