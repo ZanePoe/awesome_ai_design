@@ -1,6 +1,6 @@
 # 2026-11-26 收录 StyleSeed 设计系统引擎
 
-来源：[用户提供的帖子](https://x.com/oran_ge/status/2125789243134124334)（2026-11-26，@oran_ge），6 个「AI 味清除 Skill」中的设计侧条目。逐个回到 Cola Skill 目录页的「来源」链接还原真实仓库：本仓库收 2 个（其中 1 个已在同日 `647f163` 收录），1 个新增，2 个待用户定分类。合集 36 → 37 个项目。
+来源：[用户提供的帖子](https://x.com/oran_ge/status/2125789243134124334)（2026-11-26，@oran_ge），6 个「AI 味清除 Skill」中的设计侧条目。逐个回到 Cola Skill 目录页的「来源」链接还原真实仓库：本仓库新增 2 个（StyleSeed 进现有分类、Vane 进本日新增的 `graphic` 分类），1 个已在同日 `647f163` 收录，1 个经用户确认不收录。合集 36 → 38 个项目。
 
 ## 新增条目
 
@@ -20,8 +20,8 @@
 ## 同日同帖的其他条目去向
 
 - `kaankiziltug/logo-design-skill`（帖子第 5 项）：已在 `647f163` 收录，`license_review.status = custom`（1,432 个第三方商标 logo 不在 MIT 授权范围）。本次不重复添加。
-- `MartinOlivero/saas-builder`（帖子第 3 项 `ui-design` 的真实仓库）：22 个 SaaS 生命周期 skill 的通用产品构建插件，9 Stars、最后提交 2026-10-11；本合集范围句明写「通用 coding agent 不作为核心工具」，是否作为 `adjacent` 收录待用户确认。
-- `VaneAi888/vane-gpt-image-skills`（帖子第 6 项 `vane-cinematic-poster` 的真实仓库）：1,536 Stars、MIT、最后提交 2026-11-24，6 个 GPT Image 玩法（电影海报 36 构图、书页电影、微信红包封面、宠物写真、小红书图文、动态表情包）。产出是位图海报/封面，现有 9 个分类（含本日新增的 `presentations`）都不贴合，且范围句把「纯文生图模型」排除在核心工具之外——待用户确认是新增「平面与图像设计」分类、按 `adjacent` 收，还是不收。
+- `VaneAi888/vane-gpt-image-skills`（帖子第 6 项 `vane-cinematic-poster` 的真实仓库）：用户确认新增「平面与图像设计」分类收录，见 `2026-11-26-新增平面与图像设计分类.md`。
+- `MartinOlivero/saas-builder`（帖子第 3 项 `ui-design` 的真实仓库）：用户确认不收录——22 个 SaaS 生命周期 skill 的通用产品构建插件，范围句明写「通用 coding agent 不作为核心工具」，理由同见该记录。
 
 ## 校验
 

@@ -1104,5 +1104,49 @@
       "source": "https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE",
       "note": "仓库根 LICENSE 为 MIT；THIRD_PARTY.md 逐项列出构建与验证所用组件及版本（Playwright、TypeScript 为 Apache-2.0，lucide-react 为 ISC，其余 MIT），再分发时按各自许可保留声明。"
     }
+  },
+  {
+    "repo": "VaneAi888/vane-gpt-image-skills",
+    "name": "Vane GPT Image Skills",
+    "category": "graphic",
+    "scope": "core",
+    "description": "GPT Image 生图玩法合集，含 36 种版式的电影级海报设计：按影片情绪、故事与素材选构图、设计片名与信息层级，交付方案、可复制提示词或实际图片。",
+    "boundary": "产出是位图海报、封面与社交图文，不是界面或矢量稿；实际成图依赖宿主环境可用的图像生成/编辑工具，仓库不自带 API 调用；GIF 动作、图片文字与透明背景效果取决于素材与可用工具；SKILL.md 明写不得编造真实发行信息、获奖桂冠、评分、片方商标或背书；36 版式与中英文预览为作者自测展示，无第三方评测。",
+    "baseline": false,
+    "reviewed_at": "2026-11-26",
+    "readme_path": "README.md",
+    "evidence": [
+      {
+        "path": "README.md",
+        "line": 3,
+        "url": "https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L3",
+        "note": "官方 README 的 GPT Image Skill 合集定位；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 34,
+        "url": "https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L34",
+        "note": "官方 README 的环境要求与效果取决于素材的说明；非实机测试"
+      },
+      {
+        "path": "docs/vane-cinematic-poster.md",
+        "line": 62,
+        "url": "https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/docs/vane-cinematic-poster.md#L62",
+        "note": "官方文档的中文字体按题材选择、不限书法；非实机测试"
+      },
+      {
+        "path": "skills/vane-cinematic-poster/SKILL.md",
+        "line": 20,
+        "url": "https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/skills/vane-cinematic-poster/SKILL.md#L20",
+        "note": "官方 SKILL.md 禁止编造发行信息、桂冠、评分与片方商标；非实机测试"
+      }
+    ],
+    "evidence_commit": "39256f5df550354ab2248bd5ee7a76506dab9c85",
+    "license_review": {
+      "status": "verified",
+      "label": "MIT",
+      "source": "https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/LICENSE",
+      "note": "仓库根 LICENSE 为 MIT；海报与预览图是作者生成的示例，复用真实片名、商标或第三方素材仍需另行授权。"
+    }
   }
 ]

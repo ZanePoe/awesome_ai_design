@@ -109,7 +109,7 @@ Design vocabulary, polish, critique and review commands for coding agents iterat
 
 - Category: Front-end design, motion and review Skills; Core candidate.
 - Scope boundary: Skill guidance and checks are not a human design review or an accessibility certification.
-- Maintenance: Commits within the last 90 days; 1306 commits in 30 days, 2259 commits in 90 days.
+- Maintenance: Commits within the last 90 days; 1305 commits in 30 days, 2259 commits in 90 days.
 - License: [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE); Open license verified. Repository license file verified; third-party assets, fonts, data and hosted services are not automatically covered by the code license.
 - Feature verified: 2026-11-18; [Source 1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -312,6 +312,16 @@ A Claude Code skill that turns a feature description into real SVG abstract prod
 - Maintenance: Commits within the last 90 days; 0 commits in 30 days, 33 commits in 90 days.
 - License: [MIT](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/LICENSE); Open license verified. Repo root LICENSE is MIT with no stated third-party carve-out; re-check the example SVGs and the icons the scripts produce before redistributing.
 - Feature verified: 2026-11-26; [Source 1](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L4) · [Source 2](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L18) · [Source 3](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L117).
+
+## [Vane GPT Image Skills](https://github.com/VaneAi888/vane-gpt-image-skills)
+
+A collection of GPT Image skills including a cinematic poster designer with 36 layouts: it picks composition and typographic hierarchy from the film's mood, story and assets, and delivers a plan, a copy-ready prompt or an actual image.
+
+- Category: Graphic and image design; Core candidate.
+- Scope boundary: The output is raster posters, covers and social images, not interfaces or vector work; the actual image depends on whichever generation or editing tools the host environment provides, since the repository ships no API calls of its own; GIF motion, in-image text and transparent backgrounds depend on the source material and available tools; SKILL.md forbids inventing release dates, laurels, scores, studio trademarks or endorsements; the 36 layouts and the Chinese and English previews are the author's own showcase, with no third-party evaluation.
+- Maintenance: Commits within the last 90 days; 51 commits in 30 days, 51 commits in 90 days.
+- License: [MIT](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/LICENSE); Open license verified. Repo root LICENSE is MIT; the poster previews are author-generated samples, while reusing real titles, trademarks or third-party material still needs separate permission.
+- Feature verified: 2026-11-26; [Source 1](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L3) · [Source 2](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L34) · [Source 3](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/docs/vane-cinematic-poster.md#L62) · [Source 4](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/skills/vane-cinematic-poster/SKILL.md#L20).
 
 ## [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill)
 

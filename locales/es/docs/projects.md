@@ -109,7 +109,7 @@ Aporta a los coding agents vocabulario de diseño y órdenes de refinado, críti
 
 - Categoría: Skills de diseño front-end, animación y revisión; Candidato principal.
 - Frontera de aplicación: La guía y los chequeos de una Skill no equivalen a una revisión de diseño humana ni a una certificación de accesibilidad.
-- Estado de mantenimiento: Con commits en los últimos 90 días; 1306 commits en 30 días, 2259 en 90 días.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 1305 commits en 30 días, 2259 en 90 días.
 - Licencia: [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE); Licencia abierta verificada. Verificado en el archivo de licencia del repositorio; los materiales de terceros, las fuentes, los datos y los servicios gestionados no se licencian automáticamente junto con el código.
 - Verificación funcional: 2026-11-18; [Fuente 1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -312,6 +312,16 @@ Skill de Claude Code que convierte una descripción de funcionalidad en ilustrac
 - Estado de mantenimiento: Con commits en los últimos 90 días; 0 commits en 30 días, 33 en 90 días.
 - Licencia: [MIT](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/LICENSE); Licencia abierta verificada. La LICENSE raíz es MIT sin excepciones declaradas para materiales de terceros; revisa los SVG de ejemplo y los iconos que generan los scripts antes de redistribuirlos.
 - Verificación funcional: 2026-11-26; [Fuente 1](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L4) · [Fuente 2](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L18) · [Fuente 3](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L117).
+
+## [Vane GPT Image Skills](https://github.com/VaneAi888/vane-gpt-image-skills)
+
+Colección de skills de GPT Image que incluye un diseñador de carteles cinematográficos con 36 composiciones: elige composición y jerarquía tipográfica según el tono, la historia y el material de la película, y entrega una propuesta, un prompt listo para copiar o una imagen real.
+
+- Categoría: Diseño gráfico e imágenes; Candidato principal.
+- Frontera de aplicación: El resultado son carteles, portadas e imágenes para redes en mapa de bits, no interfaces ni trabajo vectorial; la imagen final depende de las herramientas de generación o edición del entorno, porque el repositorio no trae llamadas propias a ninguna API; el movimiento en GIF, el texto dentro de la imagen y los fondos transparentes dependen del material y de las herramientas disponibles; SKILL.md prohíbe inventar fechas de estreno, laureles, puntuaciones, marcas del estudio o aval; las 36 composiciones y las vistas previas en chino e inglés son muestra del autor, sin evaluación de terceros.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 51 commits en 30 días, 51 en 90 días.
+- Licencia: [MIT](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/LICENSE); Licencia abierta verificada. La LICENSE raíz es MIT; las vistas previas de carteles son muestras generadas por el autor, mientras que reutilizar títulos reales, marcas o materiales de terceros sigue requiriendo permiso aparte.
+- Verificación funcional: 2026-11-26; [Fuente 1](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L3) · [Fuente 2](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L34) · [Fuente 3](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/docs/vane-cinematic-poster.md#L62) · [Fuente 4](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/skills/vane-cinematic-poster/SKILL.md#L20).
 
 ## [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill)
 

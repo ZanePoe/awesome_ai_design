@@ -233,5 +233,12 @@
     "boundary": "The author's stated goal is repeatable application of expert judgment, not a claim of expert-level output today, and a score does not replace human design acceptance; the +5.3 points come from 120 self-made rendered benchmark cells (Codex and Claude Code measured separately; raw rules alone were inconsistent), not a third-party benchmark; installation runs through npx skills add and needs Node.js/npm; the core skill ships no runtime dependencies while THIRD_PARTY.md lists the build and verification components with versions and licenses.",
     "license_label": "MIT",
     "license_note": "Repo root LICENSE is MIT; THIRD_PARTY.md itemizes the build and verification components (Playwright and TypeScript are Apache-2.0, lucide-react is ISC, the rest MIT), so keep each notice when redistributing."
+  },
+  "VaneAi888/vane-gpt-image-skills": {
+    "name": "Vane GPT Image Skills",
+    "description": "A collection of GPT Image skills including a cinematic poster designer with 36 layouts: it picks composition and typographic hierarchy from the film's mood, story and assets, and delivers a plan, a copy-ready prompt or an actual image.",
+    "boundary": "The output is raster posters, covers and social images, not interfaces or vector work; the actual image depends on whichever generation or editing tools the host environment provides, since the repository ships no API calls of its own; GIF motion, in-image text and transparent backgrounds depend on the source material and available tools; SKILL.md forbids inventing release dates, laurels, scores, studio trademarks or endorsements; the 36 layouts and the Chinese and English previews are the author's own showcase, with no third-party evaluation.",
+    "license_label": "MIT",
+    "license_note": "Repo root LICENSE is MIT; the poster previews are author-generated samples, while reusing real titles, trademarks or third-party material still needs separate permission."
   }
 }

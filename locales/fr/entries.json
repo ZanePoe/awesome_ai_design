@@ -233,5 +233,12 @@
     "boundary": "L'objectif annoncé de l'auteur est l'application répétable d'un jugement d'expert, pas la revendication d'un rendu déjà au niveau expert, et le score ne remplace pas l'acceptation humaine du design ; les +5,3 points proviennent de 120 cellules de benchmark rendues par le projet lui-même (Codex et Claude Code mesurés séparément ; les règles seules étaient irrégulières), pas d'un benchmark tiers ; l'installation passe par npx skills add et demande Node.js/npm ; le skill central n'embarque aucune dépendance d'exécution, tandis que THIRD_PARTY.md liste les composants de build et de vérification avec versions et licences.",
     "license_label": "MIT",
     "license_note": "La LICENSE racine est MIT ; THIRD_PARTY.md détaille les composants de build et de vérification (Playwright et TypeScript en Apache-2.0, lucide-react en ISC, le reste en MIT), il faut donc conserver chaque mention lors de la redistribution."
+  },
+  "VaneAi888/vane-gpt-image-skills": {
+    "name": "Vane GPT Image Skills",
+    "description": "Collection de skills GPT Image incluant un concepteur d'affiches de cinéma à 36 compositions : il choisit la composition et la hiérarchie typographique selon l'ambiance, le scénario et les médias du film, puis livre un plan, un prompt prêt à copier ou une image réelle.",
+    "boundary": "La sortie est des affiches, couvertures et visuels pour les réseaux en pixels, pas des interfaces ni du vectoriel ; l'image réelle dépend des outils de génération ou d'édition fournis par l'environnement, le dépôt n'embarquant aucun appel d'API lui-même ; l'animation GIF, le texte dans l'image et les fonds transparents dépendent des médias sources et des outils disponibles ; SKILL.md interdit d'inventer dates de sortie, lauriers, notes, marques du studio ou soutiens ; les 36 compositions et les aperçus chinois et anglais sont la vitrine de l'auteur, sans évaluation tierce.",
+    "license_label": "MIT",
+    "license_note": "La LICENSE racine est MIT ; les aperçus d'affiches sont des échantillons générés par l'auteur, tandis que réutiliser de vrais titres, marques ou médias tiers demande une autorisation séparée."
   }
 }

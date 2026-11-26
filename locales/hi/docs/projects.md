@@ -109,7 +109,7 @@ coding agent के लिए डिज़ाइन शब्दावली, �
 
 - श्रेणी: फ्रंटएंड डिज़ाइन, मोशन और समीक्षा Skills; मुख्य उम्मीदवार।
 - लागू सीमा: Skill मार्गदर्शन और जाँच, मैन्युअल डिज़ाइन रिव्यू या एक्सेसिबिलिटी सर्टिफ़िकेशन के बराबर नहीं है।
-- मेंटेनेंस स्थिति: पिछले 90 दिनों में कमिट; 30 दिन में 1306 कमिट, 90 दिन में 2259 कमिट।
+- मेंटेनेंस स्थिति: पिछले 90 दिनों में कमिट; 30 दिन में 1305 कमिट, 90 दिन में 2259 कमिट।
 - लाइसेंस: [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE); खुला लाइसेंस सत्यापित। रिपॉज़िटरी की लाइसेंस फ़ाइल जाँची गई; थर्ड-पार्टी सामग्री, फ़ॉन्ट, डेटा और होस्टेड सेवाएँ कोड लाइसेंस से स्वतः अनुमति नहीं पातीं।
 - फ़ंक्शन सत्यापन: 2026-11-18; [स्रोत1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3)।
 
@@ -312,6 +312,16 @@ Claude Code skill जो feature विवरण को असली SVG मे�
 - मेंटेनेंस स्थिति: पिछले 90 दिनों में कमिट; 30 दिन में 0 कमिट, 90 दिन में 33 कमिट।
 - लाइसेंस: [MIT](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/LICENSE); खुला लाइसेंस सत्यापित। जड़ LICENSE MIT है, थर्ड-पार्टी सामग्री का कोई अपवाद बताया नहीं गया; उदाहरण SVG और scripts से बने icons को पुनर्वितरित करने से पहले जाँचें।
 - फ़ंक्शन सत्यापन: 2026-11-26; [स्रोत1](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L4) · [स्रोत2](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L18) · [स्रोत3](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L117)।
+
+## [Vane GPT Image Skills](https://github.com/VaneAi888/vane-gpt-image-skills)
+
+GPT Image skills का संग्रह, जिसमें 36 लेआउट वाला सिनेमाई पोस्टर-डिज़ाइनर भी है: फ़िल्म के मूड, कहानी और सामग्री से रचना व टाइपोग्राफ़िक पदानुक्रम चुनता है, और योजना, कॉपी-योग्य prompt या असली छवि देता है।
+
+- श्रेणी: ग्राफ़िक और इमेज डिज़ाइन; मुख्य उम्मीदवार।
+- लागू सीमा: आउटपुट raster पोस्टर, कवर और सोशल-इमेज है, इंटरफ़ेस या वेक्टर कार्य नहीं; असली छवि host में उपलब्ध generation/editing tools पर निर्भर करती है, क्योंकि रिपॉज़िटरी स्वयं कोई API कॉल नहीं रखता; GIF गति, छवि-भीतर पाठ और पारदर्शी पृष्ठभूमि स्रोत सामग्री व उपलब्ध उपकरण पर हैं; SKILL.md रिलीज़ तिथि, laurels, स्कोर, स्टूडियो ट्रेडमार्क या अनुशंसा गढ़ने से मना करता है; 36 लेआउट और चीनी/अंग्रेज़ी प्रीव्यू लेखक का स्वयं का प्रदर्शन हैं, कोई थर्ड-पार्टी मूल्यांकन नहीं।
+- मेंटेनेंस स्थिति: पिछले 90 दिनों में कमिट; 30 दिन में 51 कमिट, 90 दिन में 51 कमिट।
+- लाइसेंस: [MIT](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/LICENSE); खुला लाइसेंस सत्यापित। जड़ LICENSE MIT है; पोस्टर प्रीव्यू लेखक-निर्मित नमूने हैं, जबकि असली शीर्षक, ट्रेडमार्क या थर्ड-पार्टी सामग्री दोबारा उपयोग करने के लिए अलग अनुमति चाहिए।
+- फ़ंक्शन सत्यापन: 2026-11-26; [स्रोत1](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L3) · [स्रोत2](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L34) · [स्रोत3](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/docs/vane-cinematic-poster.md#L62) · [स्रोत4](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/skills/vane-cinematic-poster/SKILL.md#L20)।
 
 ## [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill)
 

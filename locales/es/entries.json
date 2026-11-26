@@ -233,5 +233,12 @@
   "boundary": "El objetivo declarado del autor es la aplicación repetible del criterio experto, no afirmar que el resultado actual ya sea de nivel experto, y la puntuación no sustituye la aceptación humana del diseño; los +5,3 puntos salen de 120 celdas de benchmark renderizadas por el propio proyecto (Codex y Claude Code medidos por separado; las reglas sin puerta eran inconsistentes), no de un benchmark de terceros; la instalación usa npx skills add y requiere Node.js/npm; la skill central no trae dependencias de ejecución, mientras THIRD_PARTY.md lista con versión y licencia los componentes de construcción y verificación.",
   "license_label": "MIT",
   "license_note": "La LICENSE raíz es MIT; THIRD_PARTY.md detalla los componentes de construcción y verificación (Playwright y TypeScript son Apache-2.0, lucide-react es ISC y el resto MIT), así que hay que conservar cada aviso al redistribuir."
+ },
+ "VaneAi888/vane-gpt-image-skills": {
+  "name": "Vane GPT Image Skills",
+  "description": "Colección de skills de GPT Image que incluye un diseñador de carteles cinematográficos con 36 composiciones: elige composición y jerarquía tipográfica según el tono, la historia y el material de la película, y entrega una propuesta, un prompt listo para copiar o una imagen real.",
+  "boundary": "El resultado son carteles, portadas e imágenes para redes en mapa de bits, no interfaces ni trabajo vectorial; la imagen final depende de las herramientas de generación o edición del entorno, porque el repositorio no trae llamadas propias a ninguna API; el movimiento en GIF, el texto dentro de la imagen y los fondos transparentes dependen del material y de las herramientas disponibles; SKILL.md prohíbe inventar fechas de estreno, laureles, puntuaciones, marcas del estudio o aval; las 36 composiciones y las vistas previas en chino e inglés son muestra del autor, sin evaluación de terceros.",
+  "license_label": "MIT",
+  "license_note": "La LICENSE raíz es MIT; las vistas previas de carteles son muestras generadas por el autor, mientras que reutilizar títulos reales, marcas o materiales de terceros sigue requiriendo permiso aparte."
  }
 }

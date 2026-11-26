@@ -109,7 +109,7 @@ Commandes de vocabulaire de design, de polissage, de critique et de revue pour c
 
 - Catégorie : Skills de design front-end, motion et revue ; Candidat principal.
 - Périmètre d'application : Les consignes et vérifications du Skill ne remplacent pas une revue de design humaine ni une certification d'accessibilité.
-- État de maintenance : Commits sur les 90 derniers jours ; 1306 commits sur 30 jours, 2259 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 1305 commits sur 30 jours, 2259 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -312,6 +312,16 @@ Skill Claude Code qui transforme une description de fonctionnalité en illustrat
 - État de maintenance : Commits sur les 90 derniers jours ; 0 commits sur 30 jours, 33 commits sur 90 jours.
 - Licence : [MIT](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/LICENSE) ; Licence ouverte vérifiée. La LICENSE racine est MIT sans exception déclarée pour des médias tiers ; revérifiez les SVG d'exemple et les icônes produites par les scripts avant toute redistribution.
 - Vérification fonctionnelle : 2026-11-26 ; [Source1](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L4) · [Source2](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L18) · [Source3](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L117).
+
+## [Vane GPT Image Skills](https://github.com/VaneAi888/vane-gpt-image-skills)
+
+Collection de skills GPT Image incluant un concepteur d'affiches de cinéma à 36 compositions : il choisit la composition et la hiérarchie typographique selon l'ambiance, le scénario et les médias du film, puis livre un plan, un prompt prêt à copier ou une image réelle.
+
+- Catégorie : Design graphique et images ; Candidat principal.
+- Périmètre d'application : La sortie est des affiches, couvertures et visuels pour les réseaux en pixels, pas des interfaces ni du vectoriel ; l'image réelle dépend des outils de génération ou d'édition fournis par l'environnement, le dépôt n'embarquant aucun appel d'API lui-même ; l'animation GIF, le texte dans l'image et les fonds transparents dépendent des médias sources et des outils disponibles ; SKILL.md interdit d'inventer dates de sortie, lauriers, notes, marques du studio ou soutiens ; les 36 compositions et les aperçus chinois et anglais sont la vitrine de l'auteur, sans évaluation tierce.
+- État de maintenance : Commits sur les 90 derniers jours ; 51 commits sur 30 jours, 51 commits sur 90 jours.
+- Licence : [MIT](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/LICENSE) ; Licence ouverte vérifiée. La LICENSE racine est MIT ; les aperçus d'affiches sont des échantillons générés par l'auteur, tandis que réutiliser de vrais titres, marques ou médias tiers demande une autorisation séparée.
+- Vérification fonctionnelle : 2026-11-26 ; [Source1](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L3) · [Source2](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L34) · [Source3](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/docs/vane-cinematic-poster.md#L62) · [Source4](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/skills/vane-cinematic-poster/SKILL.md#L20).
 
 ## [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill)
 

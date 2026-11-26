@@ -109,7 +109,7 @@
 
 - 分类：前端设计、动效与审查 Skills；核心候选。
 - 适用边界：Skill 指导和检查不等于人工设计审查或无障碍认证。
-- 维护状态：近90天有提交；30 天提交 1306 次，90 天提交 2259 次。
+- 维护状态：近90天有提交；30 天提交 1305 次，90 天提交 2259 次。
 - 许可：[Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE)；开放许可证已核验。核验仓库许可文件；第三方素材、字体、数据及托管服务不随代码许可自动授权。
 - 功能核验：2026-11-18；[来源1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3)。
 
@@ -312,6 +312,16 @@ Figma 官方接入指南，说明 Agent 获取设计上下文及部分远程写�
 - 维护状态：近90天有提交；30 天提交 0 次，90 天提交 33 次。
 - 许可：[MIT](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/LICENSE)；开放许可证已核验。仓库根 LICENSE 为 MIT，未见第三方素材例外声明；示例 SVG 与图标脚本产物的再分发需自行核对。
 - 功能核验：2026-11-26；[来源1](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L4) · [来源2](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L18) · [来源3](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L117)。
+
+## [Vane GPT Image Skills](https://github.com/VaneAi888/vane-gpt-image-skills)
+
+GPT Image 生图玩法合集，含 36 种版式的电影级海报设计：按影片情绪、故事与素材选构图、设计片名与信息层级，交付方案、可复制提示词或实际图片。
+
+- 分类：平面与图像设计；核心候选。
+- 适用边界：产出是位图海报、封面与社交图文，不是界面或矢量稿；实际成图依赖宿主环境可用的图像生成/编辑工具，仓库不自带 API 调用；GIF 动作、图片文字与透明背景效果取决于素材与可用工具；SKILL.md 明写不得编造真实发行信息、获奖桂冠、评分、片方商标或背书；36 版式与中英文预览为作者自测展示，无第三方评测。
+- 维护状态：近90天有提交；30 天提交 51 次，90 天提交 51 次。
+- 许可：[MIT](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/LICENSE)；开放许可证已核验。仓库根 LICENSE 为 MIT；海报与预览图是作者生成的示例，复用真实片名、商标或第三方素材仍需另行授权。
+- 功能核验：2026-11-26；[来源1](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L3) · [来源2](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/README.md#L34) · [来源3](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/docs/vane-cinematic-poster.md#L62) · [来源4](https://github.com/VaneAi888/vane-gpt-image-skills/blob/39256f5df550354ab2248bd5ee7a76506dab9c85/skills/vane-cinematic-poster/SKILL.md#L20)。
 
 ## [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill)
 
