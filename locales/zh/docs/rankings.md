@@ -1,34 +1,35 @@
 # 排序视图
 
-快照：`2026-11-26T03:57:42+00:00`。这是 GitHub 维护元数据排序，不是设计质量排行榜。所有视图先按维护状态分层。
+快照：`2026-11-26T04:03:50+00:00`。这是 GitHub 维护元数据排序，不是设计质量排行榜。所有视图先按维护状态分层。
 
 ## 综合维护分
 
 | 项目 | 分类 | 维护层 | Stars | 90天提交 | 最近提交 UTC | 维护分 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Impeccable](https://github.com/pbakaus/impeccable) | 前端设计、动效与审查 Skills | 近90天有提交 | 116986 | 2259 | 2026-11-26 | 99.97 |
+| [Impeccable](https://github.com/pbakaus/impeccable) | 前端设计、动效与审查 Skills | 近90天有提交 | 116989 | 2259 | 2026-11-26 | 99.97 |
 | [Penpot](https://github.com/penpot/penpot) | 可编辑画布与矢量设计 | 近90天有提交 | 62748 | 1619 | 2026-11-25 | 98.26 |
-| [OpenDesign](https://github.com/nexu-io/open-design) | 设计 Agent 与原型工作台 | 近90天有提交 | 109523 | 415 | 2026-11-23 | 98.23 |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 图解与视觉表达 | 近90天有提交 | 73179 | 364 | 2026-11-25 | 96.87 |
+| [OpenDesign](https://github.com/nexu-io/open-design) | 设计 Agent 与原型工作台 | 近90天有提交 | 109524 | 415 | 2026-11-23 | 98.23 |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 图解与视觉表达 | 近90天有提交 | 73182 | 364 | 2026-11-25 | 96.87 |
 | [OpenPencil（open-pencil）](https://github.com/open-pencil/open-pencil) | 可编辑画布与矢量设计 | 近90天有提交 | 10117 | 1580 | 2026-11-25 | 91.87 |
 | [OpenPencil（ZSeven-W）](https://github.com/ZSeven-W/openpencil) | 可编辑画布与矢量设计 | 近90天有提交 | 7367 | 914 | 2026-11-25 | 90.68 |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 154265 | 94 | 2026-11-25 | 90.57 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 设计 Agent 与原型工作台 | 近90天有提交 | 8258 | 145 | 2026-11-25 | 84.22 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 154266 | 94 | 2026-11-25 | 90.57 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 设计 Agent 与原型工作台 | 近90天有提交 | 8258 | 145 | 2026-11-25 | 84.21 |
 | [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | 前端设计、动效与审查 Skills | 近90天有提交 | 1197 | 429 | 2026-11-25 | 83.72 |
 | [Onlook](https://github.com/onlook-dev/onlook) | 可编辑画布与矢量设计 | 近90天有提交 | 27952 | 40 | 2026-11-26 | 81.48 |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 59676 | 19 | 2026-11-15 | 77.29 |
-| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 设计系统与 DESIGN.md | 近90天有提交 | 13025 | 22 | 2026-11-24 | 75.23 |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 59678 | 19 | 2026-11-15 | 77.29 |
+| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 设计系统与 DESIGN.md | 近90天有提交 | 13026 | 22 | 2026-11-24 | 75.22 |
 | [GitHub Replica](https://github.com/github/replica) | 设计 Agent 与原型工作台 | 近90天有提交 | 382 | 126 | 2026-11-25 | 72.81 |
 | [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 7782 | 32 | 2026-11-13 | 72.58 |
 | [Screenshot to Code](https://github.com/abi/screenshot-to-code) | 设计转代码与 MCP 桥接 | 近90天有提交 | 81446 | 6 | 2026-11-15 | 72.48 |
 | [fx0](https://github.com/vercel-labs/fx0) | 设计 Agent 与原型工作台 | 近90天有提交 | 442 | 134 | 2026-11-18 | 71.66 |
-| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 设计 Agent 与原型工作台 | 近90天有提交 | 767 | 72 | 2026-11-23 | 71.62 |
+| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 设计 Agent 与原型工作台 | 近90天有提交 | 767 | 72 | 2026-11-23 | 71.61 |
 | [Google DESIGN.md](https://github.com/google-labs-code/design.md) | 设计系统与 DESIGN.md | 近90天有提交 | 29129 | 9 | 2026-11-18 | 71.54 |
 | [Figma MCP 官方指南](https://github.com/figma/mcp-server-guide) | 设计转代码与 MCP 桥接 | 近90天有提交 | 2235 | 30 | 2026-11-24 | 70.74 |
 | [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | 设计系统与 DESIGN.md | 近90天有提交 | 129098 | 8 | 2026-10-28 | 70.58 |
-| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 图解与视觉表达 | 近90天有提交 | 2687 | 33 | 2026-11-10 | 68.27 |
+| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 图解与视觉表达 | 近90天有提交 | 2687 | 33 | 2026-11-10 | 68.26 |
 | [Velloo](https://github.com/velloo-design/velloo) | 可编辑画布与矢量设计 | 近90天有提交 | 10 | 261 | 2026-11-17 | 62.36 |
 | [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 前端设计、动效与审查 Skills | 近90天有提交 | 4294 | 3 | 2026-11-18 | 59.72 |
+| [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill) | 演示与文档设计 | 近90天有提交 | 209 | 11 | 2026-11-18 | 55.55 |
 | [cc-skills](https://github.com/samber/cc-skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 283 | 16 | 2026-11-01 | 54.54 |
 | [Spotkit](https://github.com/Devesh-Shirsath/spotkit) | 图解与视觉表达 | 近90天有提交 | 130 | 33 | 2026-10-08 | 51.34 |
 | [Better Design](https://github.com/Moddingflow/better-design) | 前端设计、动效与审查 Skills | 近90天有提交 | 79 | 9 | 2026-10-27 | 46.16 |
@@ -46,29 +47,30 @@
 
 | 项目 | 分类 | 维护层 | Stars | 90天提交 | 最近提交 UTC | 维护分 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 154265 | 94 | 2026-11-25 | 90.57 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 154266 | 94 | 2026-11-25 | 90.57 |
 | [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | 设计系统与 DESIGN.md | 近90天有提交 | 129098 | 8 | 2026-10-28 | 70.58 |
-| [Impeccable](https://github.com/pbakaus/impeccable) | 前端设计、动效与审查 Skills | 近90天有提交 | 116986 | 2259 | 2026-11-26 | 99.97 |
-| [OpenDesign](https://github.com/nexu-io/open-design) | 设计 Agent 与原型工作台 | 近90天有提交 | 109523 | 415 | 2026-11-23 | 98.23 |
+| [Impeccable](https://github.com/pbakaus/impeccable) | 前端设计、动效与审查 Skills | 近90天有提交 | 116989 | 2259 | 2026-11-26 | 99.97 |
+| [OpenDesign](https://github.com/nexu-io/open-design) | 设计 Agent 与原型工作台 | 近90天有提交 | 109524 | 415 | 2026-11-23 | 98.23 |
 | [Screenshot to Code](https://github.com/abi/screenshot-to-code) | 设计转代码与 MCP 桥接 | 近90天有提交 | 81446 | 6 | 2026-11-15 | 72.48 |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 图解与视觉表达 | 近90天有提交 | 73179 | 364 | 2026-11-25 | 96.87 |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 图解与视觉表达 | 近90天有提交 | 73182 | 364 | 2026-11-25 | 96.87 |
 | [Penpot](https://github.com/penpot/penpot) | 可编辑画布与矢量设计 | 近90天有提交 | 62748 | 1619 | 2026-11-25 | 98.26 |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 59676 | 19 | 2026-11-15 | 77.29 |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 59678 | 19 | 2026-11-15 | 77.29 |
 | [Google DESIGN.md](https://github.com/google-labs-code/design.md) | 设计系统与 DESIGN.md | 近90天有提交 | 29129 | 9 | 2026-11-18 | 71.54 |
 | [Onlook](https://github.com/onlook-dev/onlook) | 可编辑画布与矢量设计 | 近90天有提交 | 27952 | 40 | 2026-11-26 | 81.48 |
-| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 设计系统与 DESIGN.md | 近90天有提交 | 13025 | 22 | 2026-11-24 | 75.23 |
+| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 设计系统与 DESIGN.md | 近90天有提交 | 13026 | 22 | 2026-11-24 | 75.22 |
 | [OpenPencil（open-pencil）](https://github.com/open-pencil/open-pencil) | 可编辑画布与矢量设计 | 近90天有提交 | 10117 | 1580 | 2026-11-25 | 91.87 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 设计 Agent 与原型工作台 | 近90天有提交 | 8258 | 145 | 2026-11-25 | 84.22 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 设计 Agent 与原型工作台 | 近90天有提交 | 8258 | 145 | 2026-11-25 | 84.21 |
 | [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 7782 | 32 | 2026-11-13 | 72.58 |
 | [OpenPencil（ZSeven-W）](https://github.com/ZSeven-W/openpencil) | 可编辑画布与矢量设计 | 近90天有提交 | 7367 | 914 | 2026-11-25 | 90.68 |
 | [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 前端设计、动效与审查 Skills | 近90天有提交 | 4294 | 3 | 2026-11-18 | 59.72 |
-| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 图解与视觉表达 | 近90天有提交 | 2687 | 33 | 2026-11-10 | 68.27 |
+| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 图解与视觉表达 | 近90天有提交 | 2687 | 33 | 2026-11-10 | 68.26 |
 | [Figma MCP 官方指南](https://github.com/figma/mcp-server-guide) | 设计转代码与 MCP 桥接 | 近90天有提交 | 2235 | 30 | 2026-11-24 | 70.74 |
 | [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | 前端设计、动效与审查 Skills | 近90天有提交 | 1197 | 429 | 2026-11-25 | 83.72 |
-| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 设计 Agent 与原型工作台 | 近90天有提交 | 767 | 72 | 2026-11-23 | 71.62 |
+| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 设计 Agent 与原型工作台 | 近90天有提交 | 767 | 72 | 2026-11-23 | 71.61 |
 | [fx0](https://github.com/vercel-labs/fx0) | 设计 Agent 与原型工作台 | 近90天有提交 | 442 | 134 | 2026-11-18 | 71.66 |
 | [GitHub Replica](https://github.com/github/replica) | 设计 Agent 与原型工作台 | 近90天有提交 | 382 | 126 | 2026-11-25 | 72.81 |
 | [cc-skills](https://github.com/samber/cc-skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 283 | 16 | 2026-11-01 | 54.54 |
+| [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill) | 演示与文档设计 | 近90天有提交 | 209 | 11 | 2026-11-18 | 55.55 |
 | [Spotkit](https://github.com/Devesh-Shirsath/spotkit) | 图解与视觉表达 | 近90天有提交 | 130 | 33 | 2026-10-08 | 51.34 |
 | [Better Design](https://github.com/Moddingflow/better-design) | 前端设计、动效与审查 Skills | 近90天有提交 | 79 | 9 | 2026-10-27 | 46.16 |
 | [Frontend AI Skills](https://github.com/JustineBijuPaul/frontend-ai-skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 11 | 86 | 2026-09-04 | 43.78 |
@@ -86,28 +88,29 @@
 
 | 项目 | 分类 | 维护层 | Stars | 90天提交 | 最近提交 UTC | 维护分 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Impeccable](https://github.com/pbakaus/impeccable) | 前端设计、动效与审查 Skills | 近90天有提交 | 116986 | 2259 | 2026-11-26 | 99.97 |
+| [Impeccable](https://github.com/pbakaus/impeccable) | 前端设计、动效与审查 Skills | 近90天有提交 | 116989 | 2259 | 2026-11-26 | 99.97 |
 | [Penpot](https://github.com/penpot/penpot) | 可编辑画布与矢量设计 | 近90天有提交 | 62748 | 1619 | 2026-11-25 | 98.26 |
 | [OpenPencil（open-pencil）](https://github.com/open-pencil/open-pencil) | 可编辑画布与矢量设计 | 近90天有提交 | 10117 | 1580 | 2026-11-25 | 91.87 |
 | [OpenPencil（ZSeven-W）](https://github.com/ZSeven-W/openpencil) | 可编辑画布与矢量设计 | 近90天有提交 | 7367 | 914 | 2026-11-25 | 90.68 |
 | [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | 前端设计、动效与审查 Skills | 近90天有提交 | 1197 | 429 | 2026-11-25 | 83.72 |
-| [OpenDesign](https://github.com/nexu-io/open-design) | 设计 Agent 与原型工作台 | 近90天有提交 | 109523 | 415 | 2026-11-23 | 98.23 |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 图解与视觉表达 | 近90天有提交 | 73179 | 364 | 2026-11-25 | 96.87 |
+| [OpenDesign](https://github.com/nexu-io/open-design) | 设计 Agent 与原型工作台 | 近90天有提交 | 109524 | 415 | 2026-11-23 | 98.23 |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 图解与视觉表达 | 近90天有提交 | 73182 | 364 | 2026-11-25 | 96.87 |
 | [Velloo](https://github.com/velloo-design/velloo) | 可编辑画布与矢量设计 | 近90天有提交 | 10 | 261 | 2026-11-17 | 62.36 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 设计 Agent 与原型工作台 | 近90天有提交 | 8258 | 145 | 2026-11-25 | 84.22 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 设计 Agent 与原型工作台 | 近90天有提交 | 8258 | 145 | 2026-11-25 | 84.21 |
 | [fx0](https://github.com/vercel-labs/fx0) | 设计 Agent 与原型工作台 | 近90天有提交 | 442 | 134 | 2026-11-18 | 71.66 |
 | [GitHub Replica](https://github.com/github/replica) | 设计 Agent 与原型工作台 | 近90天有提交 | 382 | 126 | 2026-11-25 | 72.81 |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 154265 | 94 | 2026-11-25 | 90.57 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 154266 | 94 | 2026-11-25 | 90.57 |
 | [Frontend AI Skills](https://github.com/JustineBijuPaul/frontend-ai-skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 11 | 86 | 2026-09-04 | 43.78 |
-| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 设计 Agent 与原型工作台 | 近90天有提交 | 767 | 72 | 2026-11-23 | 71.62 |
+| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 设计 Agent 与原型工作台 | 近90天有提交 | 767 | 72 | 2026-11-23 | 71.61 |
 | [Onlook](https://github.com/onlook-dev/onlook) | 可编辑画布与矢量设计 | 近90天有提交 | 27952 | 40 | 2026-11-26 | 81.48 |
-| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 图解与视觉表达 | 近90天有提交 | 2687 | 33 | 2026-11-10 | 68.27 |
+| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 图解与视觉表达 | 近90天有提交 | 2687 | 33 | 2026-11-10 | 68.26 |
 | [Spotkit](https://github.com/Devesh-Shirsath/spotkit) | 图解与视觉表达 | 近90天有提交 | 130 | 33 | 2026-10-08 | 51.34 |
 | [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 7782 | 32 | 2026-11-13 | 72.58 |
 | [Figma MCP 官方指南](https://github.com/figma/mcp-server-guide) | 设计转代码与 MCP 桥接 | 近90天有提交 | 2235 | 30 | 2026-11-24 | 70.74 |
-| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 设计系统与 DESIGN.md | 近90天有提交 | 13025 | 22 | 2026-11-24 | 75.23 |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 59676 | 19 | 2026-11-15 | 77.29 |
+| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 设计系统与 DESIGN.md | 近90天有提交 | 13026 | 22 | 2026-11-24 | 75.22 |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 59678 | 19 | 2026-11-15 | 77.29 |
 | [cc-skills](https://github.com/samber/cc-skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 283 | 16 | 2026-11-01 | 54.54 |
+| [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill) | 演示与文档设计 | 近90天有提交 | 209 | 11 | 2026-11-18 | 55.55 |
 | [Google DESIGN.md](https://github.com/google-labs-code/design.md) | 设计系统与 DESIGN.md | 近90天有提交 | 29129 | 9 | 2026-11-18 | 71.54 |
 | [Better Design](https://github.com/Moddingflow/better-design) | 前端设计、动效与审查 Skills | 近90天有提交 | 79 | 9 | 2026-10-27 | 46.16 |
 | [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | 设计系统与 DESIGN.md | 近90天有提交 | 129098 | 8 | 2026-10-28 | 70.58 |
@@ -127,27 +130,28 @@
 | 项目 | 分类 | 维护层 | Stars | 90天提交 | 最近提交 UTC | 维护分 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Onlook](https://github.com/onlook-dev/onlook) | 可编辑画布与矢量设计 | 近90天有提交 | 27952 | 40 | 2026-11-26 | 81.48 |
-| [Impeccable](https://github.com/pbakaus/impeccable) | 前端设计、动效与审查 Skills | 近90天有提交 | 116986 | 2259 | 2026-11-26 | 99.97 |
+| [Impeccable](https://github.com/pbakaus/impeccable) | 前端设计、动效与审查 Skills | 近90天有提交 | 116989 | 2259 | 2026-11-26 | 99.97 |
 | [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | 前端设计、动效与审查 Skills | 近90天有提交 | 1197 | 429 | 2026-11-25 | 83.72 |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 154265 | 94 | 2026-11-25 | 90.57 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 154266 | 94 | 2026-11-25 | 90.57 |
 | [Penpot](https://github.com/penpot/penpot) | 可编辑画布与矢量设计 | 近90天有提交 | 62748 | 1619 | 2026-11-25 | 98.26 |
 | [GitHub Replica](https://github.com/github/replica) | 设计 Agent 与原型工作台 | 近90天有提交 | 382 | 126 | 2026-11-25 | 72.81 |
 | [OpenPencil（open-pencil）](https://github.com/open-pencil/open-pencil) | 可编辑画布与矢量设计 | 近90天有提交 | 10117 | 1580 | 2026-11-25 | 91.87 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 设计 Agent 与原型工作台 | 近90天有提交 | 8258 | 145 | 2026-11-25 | 84.22 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 设计 Agent 与原型工作台 | 近90天有提交 | 8258 | 145 | 2026-11-25 | 84.21 |
 | [OpenPencil（ZSeven-W）](https://github.com/ZSeven-W/openpencil) | 可编辑画布与矢量设计 | 近90天有提交 | 7367 | 914 | 2026-11-25 | 90.68 |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 图解与视觉表达 | 近90天有提交 | 73179 | 364 | 2026-11-25 | 96.87 |
-| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 设计系统与 DESIGN.md | 近90天有提交 | 13025 | 22 | 2026-11-24 | 75.23 |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 图解与视觉表达 | 近90天有提交 | 73182 | 364 | 2026-11-25 | 96.87 |
+| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 设计系统与 DESIGN.md | 近90天有提交 | 13026 | 22 | 2026-11-24 | 75.22 |
 | [Figma MCP 官方指南](https://github.com/figma/mcp-server-guide) | 设计转代码与 MCP 桥接 | 近90天有提交 | 2235 | 30 | 2026-11-24 | 70.74 |
-| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 设计 Agent 与原型工作台 | 近90天有提交 | 767 | 72 | 2026-11-23 | 71.62 |
-| [OpenDesign](https://github.com/nexu-io/open-design) | 设计 Agent 与原型工作台 | 近90天有提交 | 109523 | 415 | 2026-11-23 | 98.23 |
+| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 设计 Agent 与原型工作台 | 近90天有提交 | 767 | 72 | 2026-11-23 | 71.61 |
+| [OpenDesign](https://github.com/nexu-io/open-design) | 设计 Agent 与原型工作台 | 近90天有提交 | 109524 | 415 | 2026-11-23 | 98.23 |
+| [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill) | 演示与文档设计 | 近90天有提交 | 209 | 11 | 2026-11-18 | 55.55 |
 | [fx0](https://github.com/vercel-labs/fx0) | 设计 Agent 与原型工作台 | 近90天有提交 | 442 | 134 | 2026-11-18 | 71.66 |
 | [Google DESIGN.md](https://github.com/google-labs-code/design.md) | 设计系统与 DESIGN.md | 近90天有提交 | 29129 | 9 | 2026-11-18 | 71.54 |
 | [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 前端设计、动效与审查 Skills | 近90天有提交 | 4294 | 3 | 2026-11-18 | 59.72 |
 | [Velloo](https://github.com/velloo-design/velloo) | 可编辑画布与矢量设计 | 近90天有提交 | 10 | 261 | 2026-11-17 | 62.36 |
 | [Screenshot to Code](https://github.com/abi/screenshot-to-code) | 设计转代码与 MCP 桥接 | 近90天有提交 | 81446 | 6 | 2026-11-15 | 72.48 |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 59676 | 19 | 2026-11-15 | 77.29 |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 59678 | 19 | 2026-11-15 | 77.29 |
 | [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) | 前端设计、动效与审查 Skills | 近90天有提交 | 7782 | 32 | 2026-11-13 | 72.58 |
-| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 图解与视觉表达 | 近90天有提交 | 2687 | 33 | 2026-11-10 | 68.27 |
+| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 图解与视觉表达 | 近90天有提交 | 2687 | 33 | 2026-11-10 | 68.26 |
 | [cc-skills](https://github.com/samber/cc-skills) | 前端设计、动效与审查 Skills | 近90天有提交 | 283 | 16 | 2026-11-01 | 54.54 |
 | [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | 设计系统与 DESIGN.md | 近90天有提交 | 129098 | 8 | 2026-10-28 | 70.58 |
 | [Better Design](https://github.com/Moddingflow/better-design) | 前端设计、动效与审查 Skills | 近90天有提交 | 79 | 9 | 2026-10-27 | 46.16 |

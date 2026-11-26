@@ -1,6 +1,6 @@
-# 2026-11-26 收录六个设计 Skills 与 token 工具（帖子分诊）
+# 2026-11-26 收录七个设计 Skills 与 token 工具（帖子分诊）
 
-来源：[用户提供的帖子](https://x.com/RoundtableSpace/status/2125767746881486920)（2026-11-26，@RoundtableSpace / 0xMarioNawfal），列出 9 个「让 vibe-coding 项目不像 AI 做的」Claude Skill。其中 2 个（Remocn、Awesome Motion Design Agent Skills）属视频链路，已加入 `awesome_ai_video_creation`；本仓库收 6 个界面/图形/设计系统方向的条目，合集从 29 → 35 个项目。
+来源：[用户提供的帖子](https://x.com/RoundtableSpace/status/2125767746881486920)（2026-11-26，@RoundtableSpace / 0xMarioNawfal），列出 9 个「让 vibe-coding 项目不像 AI 做的」Claude Skill。其中 2 个（Remocn、Awesome Motion Design Agent Skills）属视频链路，已加入 `awesome_ai_video_creation`；本仓库收 7 个条目，合集从 29 → 36 个项目，其中 1 个需要新增分类（见下）。
 
 ## 新增条目与分类
 
@@ -12,10 +12,11 @@
 | `arvindrk/extract-design-system` | design_systems | 316 | 0 | 2026-06-19 | MIT | `1873741ba8dea755e35e6e15134f7918cd58e036` |
 | `kaankiziltug/logo-design-skill` | skills | 7,782 | 32 | 2026-11-13 | MIT + 商标库除外 | `e9eaddc07895575253d6663320354a708f53e955` |
 | `jakubkrehel/make-interfaces-feel-better` | skills | 4,294 | 3 | 2026-11-18 | MIT | `6d9f2f1df10e8ce2ae1708598a73b0506fb98794` |
+| `Akxan/ppt-agent-skill` | presentations | 209 | 11 | 2026-11-18 | MIT（上游署名另计） | `e2f97f46a2f92633d3f9b95a1a61b0a668c704b3` |
 
 维护层由脚本按默认分支提交时间分层：`extract-design-system` 落在「91–365 天未提交」层，`make-interfaces-feel-better` 虽 90 天仅 3 次提交但仍在活跃层；star 与提交量不代表设计质量。
 
-分类理由：`spotkit` 产出的是成套 SVG 视觉表达而非前端细节，归入「图解与视觉表达」（与 `cathrynlavery/diagram-design` 同类）；`extract-design-system` 的产物是 tokens（W3C 兼容 `tokens.json` + `tokens.css`），归入「设计系统与 DESIGN.md」；其余四项都是可直接安装的 Agent Skills，归入「前端设计、动效与审查 Skills」。
+分类理由：`spotkit` 产出的是成套 SVG 视觉表达而非前端细节，归入「图解与视觉表达」（与 `cathrynlavery/diagram-design` 同类）；`extract-design-system` 的产物是 tokens（W3C 兼容 `tokens.json` + `tokens.css`），归入「设计系统与 DESIGN.md」；`ppt-agent-skill` 产出演示文稿，归入本次新增的「演示与文档设计」；其余四项都是可直接安装的 Agent Skills，归入「前端设计、动效与审查 Skills」。
 
 ## 许可与边界要点
 
@@ -28,10 +29,18 @@
 
 全部条目 `baseline: false`（本仓库基线集合仍为 4 个种子项目，`validate()` 断言不变），`reviewed_at = 2026-11-26`，证据 URL 由 `evidence_commit` + `path` + `line` 逐字重建（本仓库 `validate()` 强制）。四语 `locales/{en,es,hi,fr}/entries.json` 同步补齐 `name`/`description`/`boundary`/`license_label`/`license_note`，`zh` 回落 `data/projects.json`。
 
-## 未收进本仓库的一个
+## 分类扩展：演示与文档设计
 
-`Akxan/ppt-agent-skill`（一句话生成 HTML + 可编辑 PPTX，26 风格、18 图表，自称与 Linear/Anthropic/Stripe/Apple/NYT 对照）不在现有八个分类里：它产出的不是界面、原型、矢量图、图解或设计系统，而是演示文稿。等用户确认是否新增「演示与文档设计」分类后再决定收录与否；在此之前不硬塞进 `skills` 或 `diagrams`，以免破坏分类口径。
+`Akxan/ppt-agent-skill`（209 Stars、MIT、最后提交 2026-11-18；一句话 → 六步流程 → HTML 设计稿 + 可编辑 PPTX，26 风格、18 图表，自称与 Linear/Anthropic/Stripe/Apple/NYT 排版做法对照）产出的既不是界面、原型、矢量图、图解也不是设计系统，原有八个分类都不贴合。经用户确认，新增分类 `presentations`（zh「演示与文档设计」/ en "Presentations and document design" / es "Presentaciones y diseño de documentos" / hi "प्रस्तुति और दस्तावेज़ डिज़ाइन" / fr "Présentations et conception de documents"），位置排在 `diagrams` 之后、`research` 之前，五语 `ui.json` 同步。
+
+随之变更的范围口径：
+
+- `docs/readme-intro.md` 与四语副本的定义句把「演示稿/presentaciones/प्रस्तुतियाँ/présentations」并入 AI 设计对象列表（界面、原型、矢量图、图解、演示稿或设计系统）。
+- `docs/selection.md` 与四语副本新增一条选型指引：只有一句话、要可继续编辑的 PPTX 时看该条目，并提醒先核对导出依赖与上游署名。
+- 该合集仍不覆盖视频链路（归 `awesome_ai_video_creation`）；「演示与文档设计」目前只有 1 个条目，后续同类（deck 生成、文档排版、PDF/幻灯导出）直接进这一类，不再临时塞进 `skills` 或 `diagrams`。
+
+条目要点（已写进 boundary/license note）：26 风格、18 图表与「对标世界级品牌」是作者自述、无统一评测；导出 SVG/PPTX 需 Python≥3.9、Node≥18 等依赖，缺依赖时只交付 HTML 预览；`LICENSE` 的版权行署的是上游作者 sunbigfly（2025），`ATTRIBUTIONS.md` 列出 `references/principles`、`design-runtime`、`blocks`、`page-templates`、`layouts` 等目录来自 `sunbigfly/ppt-agent-skills` 的修改版，再分发需同时保留 MIT 声明与署名；风格参考真实品牌排版不产生任何商标授权。
 
 ## 校验
 
-`python scripts/refresh_metrics.py` → 35/35；`python scripts/build.py` → 16 个生成文件；`python -m unittest discover -s tests` → 22 项通过；`python scripts/build.py --check` 幂等。
+`python scripts/refresh_metrics.py` → 36/36；`python scripts/build.py` → 16 个生成文件；`python -m unittest discover -s tests` → 22 项通过；`python scripts/build.py --check` 幂等。

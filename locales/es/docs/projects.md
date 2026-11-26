@@ -303,6 +303,16 @@ Skill de Claude Code que convierte una descripción de funcionalidad en ilustrac
 - Licencia: [MIT](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/LICENSE); Licencia abierta verificada. La LICENSE raíz es MIT sin excepciones declaradas para materiales de terceros; revisa los SVG de ejemplo y los iconos que generan los scripts antes de redistribuirlos.
 - Verificación funcional: 2026-11-26; [Fuente 1](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L4) · [Fuente 2](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L18) · [Fuente 3](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L117).
 
+## [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill)
+
+Skill de Claude Code que reproduce el flujo de un estudio de presentaciones de gama alta: investigación, recopilación de material, esquema, plan de diapositivas, diseño HTML y posprocesado a SVG y PPTX editable, de una frase a un entregable.
+
+- Categoría: Presentaciones y diseño de documentos; Candidato principal.
+- Frontera de aplicación: Los 26 estilos, los 18 gráficos y el «comparado con marcas de primer nivel» son afirmaciones del autor sin evaluación unificada; exportar SVG/PPTX requiere dependencias como Python ≥3.9 y Node ≥18 y, sin ellas, solo se entrega la vista previa HTML; varios directorios de references provienen de una adaptación de sunbigfly/ppt-agent-skills, así que redistribuir exige conservar el aviso MIT y ATTRIBUTIONS.md; imitar el estilo de marcas reales no otorga derechos sobre sus marcas registradas.
+- Estado de mantenimiento: Con commits en los últimos 90 días; 11 commits en 30 días, 11 en 90 días.
+- Licencia: [MIT](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/LICENSE); Licencia abierta verificada. La LICENSE raíz es MIT, con la línea de copyright que nombra al autor de upstream, sunbigfly (2025); ATTRIBUTIONS.md enumera los subdirectorios de references adaptados de sunbigfly/ppt-agent-skills, por lo que hay que conservar licencia y atribución al redistribuir.
+- Verificación funcional: 2026-11-26; [Fuente 1](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L59) · [Fuente 2](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L69) · [Fuente 3](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L118) · [Fuente 4](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/ATTRIBUTIONS.md#L13).
+
 ## [DesignBench](https://github.com/WebPAI/DesignBench)
 
 Benchmark de investigación que evalúa generación, edición y reparación de código front-end multi-framework.

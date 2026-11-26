@@ -303,6 +303,16 @@ Claude Code skill जो feature विवरण को असली SVG मे�
 - लाइसेंस: [MIT](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/LICENSE); खुला लाइसेंस सत्यापित। जड़ LICENSE MIT है, थर्ड-पार्टी सामग्री का कोई अपवाद बताया नहीं गया; उदाहरण SVG और scripts से बने icons को पुनर्वितरित करने से पहले जाँचें।
 - फ़ंक्शन सत्यापन: 2026-11-26; [स्रोत1](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L4) · [स्रोत2](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L18) · [स्रोत3](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L117)।
 
+## [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill)
+
+Claude Code skill जो एक प्रीमियम प्रस्तुति-स्टूडियो की प्रक्रिया दोहराती है: शोध, सामग्री-संग्रह, आउटलाइन, डेक-प्लान, HTML स्लाइड-डिज़ाइन, फिर SVG और संपादन-योग्य PPTX में पोस्ट-प्रोसेसिंग; एक वाक्य से डिलीवरेबल डेक।
+
+- श्रेणी: प्रस्तुति और दस्तावेज़ डिज़ाइन; मुख्य उम्मीदवार।
+- लागू सीमा: 26 शैलियाँ, 18 चार्ट और “वर्ल्ड-क्लास ब्रांडों से तुलना” लेखक के स्वयं के दावे हैं, कोई मानकीकृत मूल्यांकन नहीं; SVG/PPTX निर्यात के लिए Python ≥3.9, Node ≥18 जैसे dependencies चाहिए, न होने पर केवल HTML प्रीव्यू दिया जाता है; references के कई डायरेक्टरीज़ upstream sunbigfly/ppt-agent-skills से रूपांतरित हैं, इसलिए पुनर्वितरण में MIT नोटिस और ATTRIBUTIONS.md रखना जरूरी है; असली ब्रांडों की शैली की नकल से उनके ट्रेडमार्क पर कोई अधिकार नहीं मिलता।
+- मेंटेनेंस स्थिति: पिछले 90 दिनों में कमिट; 30 दिन में 11 कमिट, 90 दिन में 11 कमिट।
+- लाइसेंस: [MIT](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/LICENSE); खुला लाइसेंस सत्यापित। जड़ LICENSE MIT है, जिसकी कॉपीराइट पंक्ति upstream लेखक sunbigfly (2025) को बताती है; ATTRIBUTIONS.md उन references उप-डायरेक्टरीज़ की सूची देता है जो sunbigfly/ppt-agent-skills से रूपांतरित हैं, अतः पुनर्वितरण में लाइसेंस और एट्रिब्यूशन दोनों रखें।
+- फ़ंक्शन सत्यापन: 2026-11-26; [स्रोत1](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L59) · [स्रोत2](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L69) · [स्रोत3](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L118) · [स्रोत4](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/ATTRIBUTIONS.md#L13)।
+
 ## [DesignBench](https://github.com/WebPAI/DesignBench)
 
 मल्टी-फ़्रेमवर्क फ्रंटएंड कोड जनरेशन, एडिटिंग और फ़िक्स के मूल्यांकन का शोध बेंचमार्क।

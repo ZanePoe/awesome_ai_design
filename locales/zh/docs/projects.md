@@ -303,6 +303,16 @@ Figma 官方接入指南，说明 Agent 获取设计上下文及部分远程写�
 - 许可：[MIT](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/LICENSE)；开放许可证已核验。仓库根 LICENSE 为 MIT，未见第三方素材例外声明；示例 SVG 与图标脚本产物的再分发需自行核对。
 - 功能核验：2026-11-26；[来源1](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L4) · [来源2](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L18) · [来源3](https://github.com/Devesh-Shirsath/spotkit/blob/f9b6a611e14c68a88fae44b4c67777a25b9c1d2c/README.md#L117)。
 
+## [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill)
+
+模拟高价 PPT 设计公司流程的 Claude Code Skill：需求调研→资料搜集→大纲→策划稿→HTML 设计稿→SVG+PPTX 后处理，把一句话变成可编辑演示稿。
+
+- 分类：演示与文档设计；核心候选。
+- 适用边界：26 风格、18 图表与「对标世界级品牌」为作者自述，未做统一评测；导出 SVG/PPTX 需 Python≥3.9 与 Node≥18 等依赖，缺失时只交付 HTML 预览；references 下多个目录来自上游 sunbigfly/ppt-agent-skills 的修改版，再分发需保留 MIT 声明与 ATTRIBUTIONS.md；风格参考真实品牌排版不构成对任何商标的授权。
+- 维护状态：近90天有提交；30 天提交 11 次，90 天提交 11 次。
+- 许可：[MIT](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/LICENSE)；开放许可证已核验。仓库根 LICENSE 为 MIT，版权行署上游作者 sunbigfly（2025）；ATTRIBUTIONS.md 说明 references 的 principles/design-runtime/blocks/page-templates/layouts 等目录来自 sunbigfly/ppt-agent-skills 的修改版，再分发需同时保留许可与署名。
+- 功能核验：2026-11-26；[来源1](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L59) · [来源2](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L69) · [来源3](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L118) · [来源4](https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/ATTRIBUTIONS.md#L13)。
+
 ## [DesignBench](https://github.com/WebPAI/DesignBench)
 
 用于评估多框架前端代码生成、编辑与修复的研究基准。

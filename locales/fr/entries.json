@@ -219,5 +219,12 @@
     "boundary": "Elle apporte des règles et listes de détails, pas les décisions de mise en page ni d'architecture de l'information ; les effets doivent être vérifiés dans de vrais navigateurs, au clavier et avec des technologies d'assistance ; l'auteur ne publie aucun chiffre de benchmark.",
     "license_label": "MIT",
     "license_note": "La LICENSE racine est MIT ; les ressources externes, polices et médias d'exemple cités par SKILL.md suivent leurs propres conditions."
+  },
+  "Akxan/ppt-agent-skill": {
+    "name": "PPT Agent Skill",
+    "description": "Skill Claude Code qui reproduit le flux d'un studio de présentations haut de gamme : veille, collecte de sources, plan, scénario de slides, design HTML puis post-traitement en SVG et PPTX éditable, d'une phrase à un livrable.",
+    "boundary": "Les 26 styles, les 18 graphiques et la « comparaison avec des marques de premier plan » sont des affirmations de l'auteur, sans évaluation unifiée ; l'export SVG/PPTX exige des dépendances telles que Python ≥3.9 et Node ≥18 et, à défaut, seule la prévisualisation HTML est livrée ; plusieurs répertoires de references proviennent d'une adaptation de sunbigfly/ppt-agent-skills, donc la redistribution doit conserver la mention MIT et ATTRIBUTIONS.md ; imiter le style de marques réelles n'accorde aucun droit sur leurs marques.",
+    "license_label": "MIT",
+    "license_note": "La LICENSE racine est MIT, la ligne de copyright nommant l'auteur amont sunbigfly (2025) ; ATTRIBUTIONS.md énumère les sous-répertoires de references adaptés de sunbigfly/ppt-agent-skills, il faut donc conserver licence et attribution lors de toute redistribution."
   }
 }

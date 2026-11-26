@@ -219,5 +219,12 @@
     "boundary": "It supplies detail rules and checklists rather than layout or information-architecture decisions, and effects must be verified in real browsers, with keyboard and assistive technology; the author publishes no benchmark numbers.",
     "license_label": "MIT",
     "license_note": "Repo root LICENSE is MIT; external resources, fonts and sample assets referenced by SKILL.md follow their own terms."
+  },
+  "Akxan/ppt-agent-skill": {
+    "name": "PPT Agent Skill",
+    "description": "A Claude Code Skill that runs the workflow of a high-end presentation studio: research, source gathering, outline, deck plan, HTML slide design, then post-processing into SVG and editable PPTX, from one sentence to a deliverable deck.",
+    "boundary": "The 26 styles, 18 charts and the benchmarked-against-world-class-brands framing are the author's own claims with no unified evaluation; exporting SVG/PPTX needs dependencies such as Python >=3.9 and Node >=18 and without them only the HTML preview is delivered; several references directories are adapted from the upstream sunbigfly/ppt-agent-skills, so redistribution must keep the MIT notice and ATTRIBUTIONS.md; styling after real brands grants no rights to their trademarks.",
+    "license_label": "MIT",
+    "license_note": "Repo root LICENSE is MIT, with the copyright line naming the upstream author sunbigfly (2025); ATTRIBUTIONS.md lists the references subdirectories adapted from sunbigfly/ppt-agent-skills, so keep both the license and the attribution when redistributing."
   }
 }

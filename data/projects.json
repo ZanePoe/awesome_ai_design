@@ -1016,5 +1016,49 @@
       "source": "https://github.com/jakubkrehel/make-interfaces-feel-better/blob/6d9f2f1df10e8ce2ae1708598a73b0506fb98794/LICENSE",
       "note": "仓库根 LICENSE 为 MIT；SKILL.md 引用的外部资源、字体与示例素材按各自条款核验。"
     }
+  },
+  {
+    "repo": "Akxan/ppt-agent-skill",
+    "name": "PPT Agent Skill",
+    "category": "presentations",
+    "scope": "core",
+    "description": "模拟高价 PPT 设计公司流程的 Claude Code Skill：需求调研→资料搜集→大纲→策划稿→HTML 设计稿→SVG+PPTX 后处理，把一句话变成可编辑演示稿。",
+    "boundary": "26 风格、18 图表与「对标世界级品牌」为作者自述，未做统一评测；导出 SVG/PPTX 需 Python≥3.9 与 Node≥18 等依赖，缺失时只交付 HTML 预览；references 下多个目录来自上游 sunbigfly/ppt-agent-skills 的修改版，再分发需保留 MIT 声明与 ATTRIBUTIONS.md；风格参考真实品牌排版不构成对任何商标的授权。",
+    "baseline": false,
+    "reviewed_at": "2026-11-26",
+    "readme_path": "README.md",
+    "evidence": [
+      {
+        "path": "README.md",
+        "line": 59,
+        "url": "https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L59",
+        "note": "官方 README 的 Claude Code Skill 定位与工作流描述；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 69,
+        "url": "https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L69",
+        "note": "官方 README 的六步 Pipeline 与 HTML→SVG→PPTX 后处理；非实机测试"
+      },
+      {
+        "path": "README.md",
+        "line": 118,
+        "url": "https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/README.md#L118",
+        "note": "官方 README 的导出依赖与缺依赖时仍交付 HTML 预览；非实机测试"
+      },
+      {
+        "path": "ATTRIBUTIONS.md",
+        "line": 13,
+        "url": "https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/ATTRIBUTIONS.md#L13",
+        "note": "官方署名文件列出来自上游项目的资源目录；非实机测试"
+      }
+    ],
+    "evidence_commit": "e2f97f46a2f92633d3f9b95a1a61b0a668c704b3",
+    "license_review": {
+      "status": "verified",
+      "label": "MIT",
+      "source": "https://github.com/Akxan/ppt-agent-skill/blob/e2f97f46a2f92633d3f9b95a1a61b0a668c704b3/LICENSE",
+      "note": "仓库根 LICENSE 为 MIT，版权行署上游作者 sunbigfly（2025）；ATTRIBUTIONS.md 说明 references 的 principles/design-runtime/blocks/page-templates/layouts 等目录来自 sunbigfly/ppt-agent-skills 的修改版，再分发需同时保留许可与署名。"
+    }
   }
 ]
