@@ -12,7 +12,7 @@
 
 ## 当前收录
 
-**38 个项目，其中 4 个为用户参考项目，34 个为扩展收录。** 功能核验：2026-11-26；指标快照：`2026-11-26T11:28:09+00:00`（UTC）。
+**38 个项目，其中 4 个为用户参考项目，34 个为扩展收录。** 功能核验：2026-11-26；指标快照：`2026-11-27T11:24:24+00:00`（UTC）。
 
 每个分类先按维护状态分层，再综合 star（40%）、90 天默认分支提交（35%）和最近提交（25%）排序。维护分不代表设计质量、模型能力、可访问性或生产成熟度。
 
@@ -22,18 +22,18 @@
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 |
 | --- | --- | --- | --- | --- | --- |
-| [Impeccable](https://github.com/pbakaus/impeccable) | 为 coding agent 提供设计词汇、精修、批评与审查命令，用于迭代已有界面。 | 117,210 | 2,250 | 2026-11-26 | 99.9 |
-| [OpenDesign](https://github.com/nexu-io/open-design) | 用本地 coding agent 或 OpenDesign Cloud 生成遵循设计系统的原型，并在团队工作台共享与迭代。 | 109,604 | 410 | 2026-11-26 | 98.9 |
-| [Penpot](https://github.com/penpot/penpot) | 可自托管的协作设计平台，提供设计 token、组件和 MCP 接口衔接设计与代码。 | 62,764 | 1,621 | 2026-11-26 | 98.3 |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 将架构、流程、数据等图解输出为带品牌样式的自包含 HTML/SVG。 | 73,477 | 364 | 2026-11-25 | 96.8 |
-| [OpenPencil（open-pencil）](https://github.com/open-pencil/open-pencil) | 具备 AI、CLI 与 MCP 的可编程设计编辑器，可打开 .fig 与 .pen 文件。 | 10,126 | 1,585 | 2026-11-26 | 92.0 |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 为多个前端技术栈提供风格、配色、排版和设计系统建议的 Agent Skill。 | 154,438 | 95 | 2026-11-26 | 90.7 |
-| [OpenPencil（ZSeven-W）](https://github.com/ZSeven-W/openpencil) | 将自然语言转为画布里的可编辑界面，支持多个 Agent 并行设计和 MCP 操作。 | 7,372 | 914 | 2026-11-25 | 90.6 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 本地桌面设计 Agent，将提示转为可预览的设计产物，允许连接自选模型。 | 8,259 | 145 | 2026-11-25 | 84.1 |
-| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | 将 OpenDesign 的设计 Skills、品牌设计系统与示例移植到 coding agent 内使用。 | 1,199 | 435 | 2026-11-26 | 83.8 |
-| [Onlook](https://github.com/onlook-dev/onlook) | 本地优先的代码可视化编辑器，由 Claude Code 或 Codex 等现有 Agent 在项目中工作。 | 27,961 | 40 | 2026-11-26 | 81.4 |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 为设计师和工程师提供 UI 与动效 Skills，覆盖动效选择、审查和性能改进。 | 59,811 | 19 | 2026-11-15 | 77.2 |
-| [StyleSeed](https://github.com/bitjaru/styleseed) | 为产品生成起步设计系统（外观、配色、字阶、间距、圆角、动效），把决定锁进 STYLESEED.md 与 CSS token，并让 coding agent 在后续每个页面按 74 条 craft rules 和 0–100 打分闸门守住它。 | 1,058 | 96 | 2026-11-26 | 74.9 |
+| [Impeccable](https://github.com/pbakaus/impeccable) | 为 coding agent 提供设计词汇、精修、批评与审查命令，用于迭代已有界面。 | 117,779 | 2,234 | 2026-11-26 | 99.6 |
+| [OpenDesign](https://github.com/nexu-io/open-design) | 用本地 coding agent 或 OpenDesign Cloud 生成遵循设计系统的原型，并在团队工作台共享与迭代。 | 109,748 | 412 | 2026-11-27 | 98.9 |
+| [Penpot](https://github.com/penpot/penpot) | 可自托管的协作设计平台，提供设计 token、组件和 MCP 接口衔接设计与代码。 | 62,809 | 1,628 | 2026-11-27 | 98.4 |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | 将架构、流程、数据等图解输出为带品牌样式的自包含 HTML/SVG。 | 74,193 | 368 | 2026-11-26 | 97.1 |
+| [OpenPencil（open-pencil）](https://github.com/open-pencil/open-pencil) | 具备 AI、CLI 与 MCP 的可编程设计编辑器，可打开 .fig 与 .pen 文件。 | 10,151 | 1,611 | 2026-11-27 | 92.0 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 为多个前端技术栈提供风格、配色、排版和设计系统建议的 Agent Skill。 | 154,842 | 100 | 2026-11-27 | 90.9 |
+| [OpenPencil（ZSeven-W）](https://github.com/ZSeven-W/openpencil) | 将自然语言转为画布里的可编辑界面，支持多个 Agent 并行设计和 MCP 操作。 | 7,384 | 879 | 2026-11-25 | 90.3 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 本地桌面设计 Agent，将提示转为可预览的设计产物，允许连接自选模型。 | 8,265 | 146 | 2026-11-27 | 84.3 |
+| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | 将 OpenDesign 的设计 Skills、品牌设计系统与示例移植到 coding agent 内使用。 | 1,206 | 435 | 2026-11-26 | 83.6 |
+| [Onlook](https://github.com/onlook-dev/onlook) | 本地优先的代码可视化编辑器，由 Claude Code 或 Codex 等现有 Agent 在项目中工作。 | 27,995 | 47 | 2026-11-27 | 82.3 |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | 为设计师和工程师提供 UI 与动效 Skills，覆盖动效选择、审查和性能改进。 | 60,274 | 19 | 2026-11-15 | 77.0 |
+| [StyleSeed](https://github.com/bitjaru/styleseed) | 为产品生成起步设计系统（外观、配色、字阶、间距、圆角、动效），把决定锁进 STYLESEED.md 与 CSS token，并让 coding agent 在后续每个页面按 74 条 craft rules 和 0–100 打分闸门守住它。 | 1,065 | 100 | 2026-11-27 | 75.1 |
 
 ## 分类目录
 
@@ -44,7 +44,7 @@
 | 设计 Agent 与原型工作台 | 5 | OpenDesign、Open CoDesign、GitHub Replica |
 | 可编辑画布与矢量设计 | 5 | Penpot、OpenPencil（open-pencil）、OpenPencil（ZSeven-W） |
 | 前端设计、动效与审查 Skills | 9 | Impeccable、UI UX Pro Max、Open Design Agent Kit |
-| 设计系统与 DESIGN.md | 5 | Stitch Design Skills、StyleSeed、Google DESIGN.md |
+| 设计系统与 DESIGN.md | 5 | StyleSeed、Stitch Design Skills、Google DESIGN.md |
 | 设计转代码与 MCP 桥接 | 4 | Screenshot to Code、Figma MCP 官方指南、Framelink Figma MCP |
 | 图解与视觉表达 | 3 | Diagram Design、Excalidraw MCP Server、Spotkit |
 | 平面与图像设计 | 1 | Vane GPT Image Skills |
@@ -56,80 +56,80 @@
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [OpenDesign](https://github.com/nexu-io/open-design) · ★用户参考 | 用本地 coding agent 或 OpenDesign Cloud 生成遵循设计系统的原型，并在团队工作台共享与迭代。 | 109,604 | 410 | 2026-11-26 | 98.9 | Apache-2.0 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 本地桌面设计 Agent，将提示转为可预览的设计产物，允许连接自选模型。 | 8,259 | 145 | 2026-11-25 | 84.1 | MIT |
-| [GitHub Replica](https://github.com/github/replica) · ★用户参考 | 使用团队已有组件、模式和设计指导，通过 GitHub Copilot 生成并迭代交互原型。 | 383 | 132 | 2026-11-26 | 73.2 | MIT |
-| [fx0](https://github.com/vercel-labs/fx0) | 基于 libfx 的轻量设计 Agent，用自然语言迭代并导出单文件 HTML 页面。 | 442 | 134 | 2026-11-18 | 71.6 | Apache-2.0 |
-| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 面向团队的品牌设计 Agent，从 Slack 接收素材与需求，交付平面图、演示或动态内容。 | 771 | 72 | 2026-11-23 | 71.5 | Apache-2.0 |
+| [OpenDesign](https://github.com/nexu-io/open-design) · ★用户参考 | 用本地 coding agent 或 OpenDesign Cloud 生成遵循设计系统的原型，并在团队工作台共享与迭代。 | 109,748 | 412 | 2026-11-27 | 98.9 | Apache-2.0 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | 本地桌面设计 Agent，将提示转为可预览的设计产物，允许连接自选模型。 | 8,265 | 146 | 2026-11-27 | 84.3 | MIT |
+| [GitHub Replica](https://github.com/github/replica) · ★用户参考 | 使用团队已有组件、模式和设计指导，通过 GitHub Copilot 生成并迭代交互原型。 | 388 | 137 | 2026-11-27 | 73.4 | MIT |
+| [fx0](https://github.com/vercel-labs/fx0) | 基于 libfx 的轻量设计 Agent，用自然语言迭代并导出单文件 HTML 页面。 | 444 | 134 | 2026-11-18 | 71.3 | Apache-2.0 |
+| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | 面向团队的品牌设计 Agent，从 Slack 接收素材与需求，交付平面图、演示或动态内容。 | 777 | 72 | 2026-11-23 | 71.3 | Apache-2.0 |
 
 ### 可编辑画布与矢量设计
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Penpot](https://github.com/penpot/penpot) | 可自托管的协作设计平台，提供设计 token、组件和 MCP 接口衔接设计与代码。 | 62,764 | 1,621 | 2026-11-26 | 98.3 | MPL-2.0 |
-| [OpenPencil（open-pencil）](https://github.com/open-pencil/open-pencil) | 具备 AI、CLI 与 MCP 的可编程设计编辑器，可打开 .fig 与 .pen 文件。 | 10,126 | 1,585 | 2026-11-26 | 92.0 | MIT |
-| [OpenPencil（ZSeven-W）](https://github.com/ZSeven-W/openpencil) | 将自然语言转为画布里的可编辑界面，支持多个 Agent 并行设计和 MCP 操作。 | 7,372 | 914 | 2026-11-25 | 90.6 | MIT |
-| [Onlook](https://github.com/onlook-dev/onlook) | 本地优先的代码可视化编辑器，由 Claude Code 或 Codex 等现有 Agent 在项目中工作。 | 27,961 | 40 | 2026-11-26 | 81.4 | Apache-2.0 |
-| [Velloo](https://github.com/velloo-design/velloo) | 让 coding agent 使用现有应用组件在本地画布探索多个方向，再将选中的设计写回应用。 | 10 | 260 | 2026-11-17 | 62.3 | Apache-2.0 |
+| [Penpot](https://github.com/penpot/penpot) | 可自托管的协作设计平台，提供设计 token、组件和 MCP 接口衔接设计与代码。 | 62,809 | 1,628 | 2026-11-27 | 98.4 | MPL-2.0 |
+| [OpenPencil（open-pencil）](https://github.com/open-pencil/open-pencil) | 具备 AI、CLI 与 MCP 的可编程设计编辑器，可打开 .fig 与 .pen 文件。 | 10,151 | 1,611 | 2026-11-27 | 92.0 | MIT |
+| [OpenPencil（ZSeven-W）](https://github.com/ZSeven-W/openpencil) | 将自然语言转为画布里的可编辑界面，支持多个 Agent 并行设计和 MCP 操作。 | 7,384 | 879 | 2026-11-25 | 90.3 | MIT |
+| [Onlook](https://github.com/onlook-dev/onlook) | 本地优先的代码可视化编辑器，由 Claude Code 或 Codex 等现有 Agent 在项目中工作。 | 27,995 | 47 | 2026-11-27 | 82.3 | Apache-2.0 |
+| [Velloo](https://github.com/velloo-design/velloo) | 让 coding agent 使用现有应用组件在本地画布探索多个方向，再将选中的设计写回应用。 | 10 | 252 | 2026-11-26 | 64.2 | Apache-2.0 |
 
 ### 前端设计、动效与审查 Skills
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Impeccable](https://github.com/pbakaus/impeccable) | 为 coding agent 提供设计词汇、精修、批评与审查命令，用于迭代已有界面。 | 117,210 | 2,250 | 2026-11-26 | 99.9 | Apache-2.0 |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 为多个前端技术栈提供风格、配色、排版和设计系统建议的 Agent Skill。 | 154,438 | 95 | 2026-11-26 | 90.7 | MIT |
-| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | 将 OpenDesign 的设计 Skills、品牌设计系统与示例移植到 coding agent 内使用。 | 1,199 | 435 | 2026-11-26 | 83.8 | MIT |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) · ★用户参考 | 为设计师和工程师提供 UI 与动效 Skills，覆盖动效选择、审查和性能改进。 | 59,811 | 19 | 2026-11-15 | 77.2 | MIT |
-| [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) · 许可注意 | 从 brief 到可交付 SVG 与品牌规范的 logo 设计技能，附 1,400+ 真实 logo 参考库、几何与光学修正规则和无依赖 Python 检查工具。 | 7,823 | 32 | 2026-11-13 | 72.5 | MIT（代码与技能）+ 第三方商标 logo 库除外 |
-| [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 聚焦界面细节的 agent 技能：动效、字体、图标、hover 状态、光学对齐与同心圆角等，一条 skills CLI 命令安装。 | 4,304 | 3 | 2026-11-18 | 59.6 | MIT |
-| [cc-skills](https://github.com/samber/cc-skills) | 跨领域 Agent Skills 合集，按需加载；设计线里的 frontend-design-deslop 负责去掉前端的“AI 味”。 | 284 | 15 | 2026-11-01 | 54.1 | MIT |
-| [Better Design](https://github.com/Moddingflow/better-design) | 给 coding agent 一套可复用的界面设计流程：产品专属艺术指导、共享 DESIGN.md、量化排版与控件规格，并附校验脚本与可点击演示。 | 81 | 9 | 2026-10-27 | 46.2 | MIT |
-| [Frontend AI Skills](https://github.com/JustineBijuPaul/frontend-ai-skills) | 可按需加载的模块化前端 Skills，覆盖动效、交互和可访问性等主题。 | 12 | 86 | 2026-09-04 | 44.0 | MIT |
+| [Impeccable](https://github.com/pbakaus/impeccable) | 为 coding agent 提供设计词汇、精修、批评与审查命令，用于迭代已有界面。 | 117,779 | 2,234 | 2026-11-26 | 99.6 | Apache-2.0 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 为多个前端技术栈提供风格、配色、排版和设计系统建议的 Agent Skill。 | 154,842 | 100 | 2026-11-27 | 90.9 | MIT |
+| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | 将 OpenDesign 的设计 Skills、品牌设计系统与示例移植到 coding agent 内使用。 | 1,206 | 435 | 2026-11-26 | 83.6 | MIT |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) · ★用户参考 | 为设计师和工程师提供 UI 与动效 Skills，覆盖动效选择、审查和性能改进。 | 60,274 | 19 | 2026-11-15 | 77.0 | MIT |
+| [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) · 许可注意 | 从 brief 到可交付 SVG 与品牌规范的 logo 设计技能，附 1,400+ 真实 logo 参考库、几何与光学修正规则和无依赖 Python 检查工具。 | 7,913 | 32 | 2026-11-13 | 72.3 | MIT（代码与技能）+ 第三方商标 logo 库除外 |
+| [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 聚焦界面细节的 agent 技能：动效、字体、图标、hover 状态、光学对齐与同心圆角等，一条 skills CLI 命令安装。 | 4,328 | 3 | 2026-11-18 | 59.4 | MIT |
+| [cc-skills](https://github.com/samber/cc-skills) | 跨领域 Agent Skills 合集，按需加载；设计线里的 frontend-design-deslop 负责去掉前端的“AI 味”。 | 306 | 14 | 2026-11-01 | 53.8 | MIT |
+| [Better Design](https://github.com/Moddingflow/better-design) | 给 coding agent 一套可复用的界面设计流程：产品专属艺术指导、共享 DESIGN.md、量化排版与控件规格，并附校验脚本与可点击演示。 | 94 | 9 | 2026-10-27 | 46.5 | MIT |
+| [Frontend AI Skills](https://github.com/JustineBijuPaul/frontend-ai-skills) | 可按需加载的模块化前端 Skills，覆盖动效、交互和可访问性等主题。 | 12 | 86 | 2026-09-04 | 43.9 | MIT |
 
 ### 设计系统与 DESIGN.md
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 面向 Google Stitch 的官方技能和插件集合，连接 Agent 与其设计流程。 | 13,133 | 22 | 2026-11-24 | 75.2 | Apache-2.0 |
-| [StyleSeed](https://github.com/bitjaru/styleseed) | 为产品生成起步设计系统（外观、配色、字阶、间距、圆角、动效），把决定锁进 STYLESEED.md 与 CSS token，并让 coding agent 在后续每个页面按 74 条 craft rules 和 0–100 打分闸门守住它。 | 1,058 | 96 | 2026-11-26 | 74.9 | MIT |
-| [Google DESIGN.md](https://github.com/google-labs-code/design.md) | 视觉身份描述规范，将机器可读的设计 token 和供 Agent 阅读的设计原则放在同一文件。 | 29,140 | 9 | 2026-11-18 | 71.5 | Apache-2.0 |
-| [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | 汇集可复用的 DESIGN.md 参考文档，为 Agent 提供品牌风格、排版、色彩和组件约定。 | 129,150 | 8 | 2026-10-28 | 70.5 | MIT |
-| [extract-design-system](https://github.com/arvindrk/extract-design-system) | 从任意公开网站逆向出颜色、字体、间距、圆角与阴影等 design tokens，输出 W3C 兼容 tokens.json 与 CSS 自定义属性文件。 | 318 | 0 | 2026-06-19 | 24.3 | MIT |
+| [StyleSeed](https://github.com/bitjaru/styleseed) | 为产品生成起步设计系统（外观、配色、字阶、间距、圆角、动效），把决定锁进 STYLESEED.md 与 CSS token，并让 coding agent 在后续每个页面按 74 条 craft rules 和 0–100 打分闸门守住它。 | 1,065 | 100 | 2026-11-27 | 75.1 | MIT |
+| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | 面向 Google Stitch 的官方技能和插件集合，连接 Agent 与其设计流程。 | 13,435 | 22 | 2026-11-24 | 75.0 | Apache-2.0 |
+| [Google DESIGN.md](https://github.com/google-labs-code/design.md) | 视觉身份描述规范，将机器可读的设计 token 和供 Agent 阅读的设计原则放在同一文件。 | 29,171 | 9 | 2026-11-18 | 71.2 | Apache-2.0 |
+| [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | 汇集可复用的 DESIGN.md 参考文档，为 Agent 提供品牌风格、排版、色彩和组件约定。 | 129,317 | 8 | 2026-10-28 | 70.3 | MIT |
+| [extract-design-system](https://github.com/arvindrk/extract-design-system) | 从任意公开网站逆向出颜色、字体、间距、圆角与阴影等 design tokens，输出 W3C 兼容 tokens.json 与 CSS 自定义属性文件。 | 329 | 0 | 2026-06-19 | 24.3 | MIT |
 
 ### 设计转代码与 MCP 桥接
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Screenshot to Code](https://github.com/abi/screenshot-to-code) | 利用模型将截图、原型、Figma 设计或屏幕录制转为界面代码。 | 81,447 | 6 | 2026-11-15 | 72.4 | MIT |
-| [Figma MCP 官方指南](https://github.com/figma/mcp-server-guide) · 许可注意 | Figma 官方接入指南，说明 Agent 获取设计上下文及部分远程写入工作流。 | 2,237 | 30 | 2026-11-24 | 70.7 | 未确认 |
-| [Framelink Figma MCP](https://github.com/GLips/Figma-Context-MCP) | 向 coding agent 提供 Figma 文件的设计上下文，辅助实现已有界面。 | 16,316 | 0 | 2026-06-24 | 38.2 | MIT |
-| [Talk to Figma MCP](https://github.com/grab/cursor-talk-to-figma-mcp) | 通过 MCP 服务、Figma 插件和 WebSocket 桥让 Agent 读取与修改 Figma 设计。 | 7,132 | 0 | 2026-07-26 | 37.2 | MIT |
+| [Screenshot to Code](https://github.com/abi/screenshot-to-code) | 利用模型将截图、原型、Figma 设计或屏幕录制转为界面代码。 | 81,464 | 6 | 2026-11-15 | 72.2 | MIT |
+| [Figma MCP 官方指南](https://github.com/figma/mcp-server-guide) · 许可注意 | Figma 官方接入指南，说明 Agent 获取设计上下文及部分远程写入工作流。 | 2,241 | 30 | 2026-11-24 | 70.4 | 未确认 |
+| [Framelink Figma MCP](https://github.com/GLips/Figma-Context-MCP) | 向 coding agent 提供 Figma 文件的设计上下文，辅助实现已有界面。 | 16,328 | 0 | 2026-06-24 | 38.1 | MIT |
+| [Talk to Figma MCP](https://github.com/grab/cursor-talk-to-figma-mcp) | 通过 MCP 服务、Figma 插件和 WebSocket 桥让 Agent 读取与修改 Figma 设计。 | 7,134 | 0 | 2026-07-26 | 37.1 | MIT |
 
 ### 图解与视觉表达
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) · ★用户参考 | 将架构、流程、数据等图解输出为带品牌样式的自包含 HTML/SVG。 | 73,477 | 364 | 2026-11-25 | 96.8 | MIT |
-| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 提供可读写的 Excalidraw 画布，通过 CLI、Skill 或 MCP 修改并保存图解。 | 2,688 | 33 | 2026-11-10 | 68.2 | MIT |
-| [Spotkit](https://github.com/Devesh-Shirsath/spotkit) | 把功能描述转成真正 SVG（不是位图）的抽象产品插图技能：先问功能实际做什么、表达何种关系，再选 2-5 个 UI 原语与版式。 | 131 | 33 | 2026-10-08 | 51.3 | MIT |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) · ★用户参考 | 将架构、流程、数据等图解输出为带品牌样式的自包含 HTML/SVG。 | 74,193 | 368 | 2026-11-26 | 97.1 | MIT |
+| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | 提供可读写的 Excalidraw 画布，通过 CLI、Skill 或 MCP 修改并保存图解。 | 2,693 | 33 | 2026-11-10 | 68.0 | MIT |
+| [Spotkit](https://github.com/Devesh-Shirsath/spotkit) | 把功能描述转成真正 SVG（不是位图）的抽象产品插图技能：先问功能实际做什么、表达何种关系，再选 2-5 个 UI 原语与版式。 | 148 | 33 | 2026-10-08 | 51.6 | MIT |
 
 ### 平面与图像设计
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Vane GPT Image Skills](https://github.com/VaneAi888/vane-gpt-image-skills) | GPT Image 生图玩法合集，含 36 种版式的电影级海报设计：按影片情绪、故事与素材选构图、设计片名与信息层级，交付方案、可复制提示词或实际图片。 | 1,540 | 51 | 2026-11-24 | 72.1 | MIT |
+| [Vane GPT Image Skills](https://github.com/VaneAi888/vane-gpt-image-skills) | GPT Image 生图玩法合集，含 36 种版式的电影级海报设计：按影片情绪、故事与素材选构图、设计片名与信息层级，交付方案、可复制提示词或实际图片。 | 1,561 | 51 | 2026-11-24 | 71.9 | MIT |
 
 ### 演示与文档设计
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill) | 模拟高价 PPT 设计公司流程的 Claude Code Skill：需求调研→资料搜集→大纲→策划稿→HTML 设计稿→SVG+PPTX 后处理，把一句话变成可编辑演示稿。 | 211 | 11 | 2026-11-18 | 55.5 | MIT |
+| [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill) | 模拟高价 PPT 设计公司流程的 Claude Code Skill：需求调研→资料搜集→大纲→策划稿→HTML 设计稿→SVG+PPTX 后处理，把一句话变成可编辑演示稿。 | 221 | 11 | 2026-11-18 | 55.4 | MIT |
 
 ### 论文、基准与数据集
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [DesignBench](https://github.com/WebPAI/DesignBench) · 许可注意 | 用于评估多框架前端代码生成、编辑与修复的研究基准。 | 61 | 0 | 2026-07-27 | 20.8 | 未确认 |
+| [DesignBench](https://github.com/WebPAI/DesignBench) · 许可注意 | 用于评估多框架前端代码生成、编辑与修复的研究基准。 | 61 | 0 | 2026-07-27 | 20.7 | 未确认 |
 | [Design2Code](https://github.com/NoviScl/Design2Code) | 以真实网页的截图到代码为任务，提供数据与自动评估工具。 | 605 | 0 | 2024-11-02 | 22.3 | MIT |
 | [WebDesignAgent](https://github.com/DAMO-NLP-SG/WebDesignAgent) | 网站生成研究原型，展示由描述、参考布局、图像和反馈驱动的设计流程。 | 267 | 0 | 2024-09-20 | 19.4 | Apache-2.0 |
 
@@ -137,7 +137,7 @@
 
 | 项目 | 定位 | Stars | 90天提交 | 最近提交 UTC | 维护分 | 许可 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SuperDesign IDE 扩展（旧版）](https://github.com/superdesigndev/superdesign) · 归档/历史 · 许可注意 | 保留原开放代码的 IDE 界面设计扩展，当前同名产品已改为 Web 应用。 | 7,648 | 0 | 2026-06-29 | 35.8 | AGPL-3.0 + 商业条款 |
+| [SuperDesign IDE 扩展（旧版）](https://github.com/superdesigndev/superdesign) · 归档/历史 · 许可注意 | 保留原开放代码的 IDE 界面设计扩展，当前同名产品已改为 Web 应用。 | 7,651 | 0 | 2026-06-29 | 35.7 | AGPL-3.0 + 商业条款 |
 | [Penpot MCP（旧仓库）](https://github.com/penpot/penpot-mcp) · 归档/历史 | 历史独立仓库的内容已并入 Penpot 主仓库的 mcp 目录。 | 537 | 0 | 2026-03-19 | 23.4 | MPL-2.0 |
 
 ## 怎么选
