@@ -12,7 +12,7 @@ Le « design par IA » désigne ici la participation d'agents à la création, l
 
 ## Sélection actuelle
 
-**38 projets, dont 4 référencés par l'utilisateur et 34 ajoutés lors de cette passe.** Vérification fonctionnelle : 2026-11-26 ; instantané des métriques : `2026-11-27T11:24:24+00:00` (UTC).
+**38 projets, dont 4 référencés par l'utilisateur et 34 ajoutés lors de cette passe.** Vérification fonctionnelle : 2026-11-26 ; instantané des métriques : `2026-11-28T10:52:25+00:00` (UTC).
 
 Dans chaque catégorie, les projets sont d'abord stratifiés par état de maintenance, puis classés par une combinaison d'étoiles (40 %), de commits sur la branche par défaut à 90 jours (35 %) et de récence du dernier commit (25 %). Le score de maintenance ne représente ni la qualité des designs, ni la capacité des modèles, ni l'accessibilité, ni la maturité de production.
 
@@ -22,18 +22,18 @@ N'affiche que les candidats principaux, à licence ouverte vérifiée, avec un c
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance |
 | --- | --- | --- | --- | --- | --- |
-| [Impeccable](https://github.com/pbakaus/impeccable) | Commandes de vocabulaire de design, de polissage, de critique et de revue pour coding agents, afin d'itérer des interfaces existantes. | 117,779 | 2,234 | 2026-11-26 | 99.6 |
-| [OpenDesign](https://github.com/nexu-io/open-design) | Génère des prototypes respectant le design system via un coding agent local ou OpenDesign Cloud, puis les partage et les fait itérer dans l'espace de travail d'équipe. | 109,748 | 412 | 2026-11-27 | 98.9 |
-| [Penpot](https://github.com/penpot/penpot) | Plateforme de design collaborative auto-hébergeable offrant jetons de design, composants et interface MCP pour relier design et code. | 62,809 | 1,628 | 2026-11-27 | 98.4 |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | Produit des diagrammes d'architecture, de flux ou de données en HTML/SVG autonomes au style de la marque. | 74,193 | 368 | 2026-11-26 | 97.1 |
-| [OpenPencil (open-pencil)](https://github.com/open-pencil/open-pencil) | Éditeur de design programmable avec IA, CLI et MCP, capable d'ouvrir les fichiers .fig et .pen. | 10,151 | 1,611 | 2026-11-27 | 92.0 |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Agent Skill proposant style, palette, typographie et conseils de design system pour plusieurs stacks front-end. | 154,842 | 100 | 2026-11-27 | 90.9 |
-| [OpenPencil (ZSeven-W)](https://github.com/ZSeven-W/openpencil) | Convertit le langage naturel en interfaces éditables sur le canvas, avec conception parallèle par plusieurs agents et opérations MCP. | 7,384 | 879 | 2026-11-25 | 90.3 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | Agent de design de bureau local qui transforme les prompts en livrables de design prévisualisables, avec la possibilité de connecter un modèle au choix. | 8,265 | 146 | 2026-11-27 | 84.3 |
-| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | Porte les Skills de design d'OpenDesign, ses design systems de marque et ses exemples pour un usage dans les coding agents. | 1,206 | 435 | 2026-11-26 | 83.6 |
-| [Onlook](https://github.com/onlook-dev/onlook) | Éditeur visuel local-first pour le code, où des agents existants comme Claude Code ou Codex travaillent directement dans le projet. | 27,995 | 47 | 2026-11-27 | 82.3 |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | Skills d'UI et de motion pour designers et ingénieurs : choix du motion, revue et amélioration des performances. | 60,274 | 19 | 2026-11-15 | 77.0 |
-| [StyleSeed](https://github.com/bitjaru/styleseed) | Construit un système de design de départ pour le produit (allure, palette, échelle typographique, espacement, rayon, motion), verrouille les décisions dans STYLESEED.md et des tokens CSS, puis fait tenir ces règles à un coding agent sur chaque écran grâce à 74 règles craft et à un garde-fou noté de 0 à 100. | 1,065 | 100 | 2026-11-27 | 75.1 |
+| [Impeccable](https://github.com/pbakaus/impeccable) | Commandes de vocabulaire de design, de polissage, de critique et de revue pour coding agents, afin d'itérer des interfaces existantes. | 118,259 | 2,234 | 2026-11-26 | 99.3 |
+| [OpenDesign](https://github.com/nexu-io/open-design) | Génère des prototypes respectant le design system via un coding agent local ou OpenDesign Cloud, puis les partage et les fait itérer dans l'espace de travail d'équipe. | 109,947 | 409 | 2026-11-27 | 98.6 |
+| [Penpot](https://github.com/penpot/penpot) | Plateforme de design collaborative auto-hébergeable offrant jetons de design, composants et interface MCP pour relier design et code. | 62,858 | 1,633 | 2026-11-27 | 98.1 |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | Produit des diagrammes d'architecture, de flux ou de données en HTML/SVG autonomes au style de la marque. | 74,655 | 367 | 2026-11-26 | 96.8 |
+| [OpenPencil (open-pencil)](https://github.com/open-pencil/open-pencil) | Éditeur de design programmable avec IA, CLI et MCP, capable d'ouvrir les fichiers .fig et .pen. | 10,161 | 1,630 | 2026-11-28 | 92.0 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Agent Skill proposant style, palette, typographie et conseils de design system pour plusieurs stacks front-end. | 155,362 | 99 | 2026-11-27 | 90.6 |
+| [OpenPencil (ZSeven-W)](https://github.com/ZSeven-W/openpencil) | Convertit le langage naturel en interfaces éditables sur le canvas, avec conception parallèle par plusieurs agents et opérations MCP. | 7,392 | 853 | 2026-11-25 | 90.1 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | Agent de design de bureau local qui transforme les prompts en livrables de design prévisualisables, avec la possibilité de connecter un modèle au choix. | 8,270 | 150 | 2026-11-28 | 84.5 |
+| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | Porte les Skills de design d'OpenDesign, ses design systems de marque et ses exemples pour un usage dans les coding agents. | 1,211 | 435 | 2026-11-26 | 83.3 |
+| [Onlook](https://github.com/onlook-dev/onlook) | Éditeur visuel local-first pour le code, où des agents existants comme Claude Code ou Codex travaillent directement dans le projet. | 28,025 | 49 | 2026-11-27 | 82.5 |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | Skills d'UI et de motion pour designers et ingénieurs : choix du motion, revue et amélioration des performances. | 60,711 | 19 | 2026-11-15 | 76.8 |
+| [StyleSeed](https://github.com/bitjaru/styleseed) | Construit un système de design de départ pour le produit (allure, palette, échelle typographique, espacement, rayon, motion), verrouille les décisions dans STYLESEED.md et des tokens CSS, puis fait tenir ces règles à un coding agent sur chaque écran grâce à 74 règles craft et à un garde-fou noté de 0 à 100. | 1,070 | 101 | 2026-11-28 | 75.2 |
 
 ## Index par catégorie
 
@@ -44,7 +44,7 @@ N'affiche que les candidats principaux, à licence ouverte vérifiée, avec un c
 | Agents de design et ateliers de prototypage | 5 | OpenDesign, Open CoDesign, GitHub Replica |
 | Canvas éditables et conception vectorielle | 5 | Penpot, OpenPencil (open-pencil), OpenPencil (ZSeven-W) |
 | Skills de design front-end, motion et revue | 9 | Impeccable, UI UX Pro Max, Open Design Agent Kit |
-| Systèmes de design et DESIGN.md | 5 | StyleSeed, Stitch Design Skills, Google DESIGN.md |
+| Systèmes de design et DESIGN.md | 5 | Stitch Design Skills, StyleSeed, Google DESIGN.md |
 | Design-vers-code et ponts MCP | 4 | Screenshot to Code, Guide officiel MCP Figma, Framelink Figma MCP |
 | Diagrammes et expression visuelle | 3 | Diagram Design, Excalidraw MCP Server, Spotkit |
 | Design graphique et images | 1 | Vane GPT Image Skills |
@@ -56,80 +56,80 @@ N'affiche que les candidats principaux, à licence ouverte vérifiée, avec un c
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [OpenDesign](https://github.com/nexu-io/open-design) · ★référence utilisateur | Génère des prototypes respectant le design system via un coding agent local ou OpenDesign Cloud, puis les partage et les fait itérer dans l'espace de travail d'équipe. | 109,748 | 412 | 2026-11-27 | 98.9 | Apache-2.0 |
-| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | Agent de design de bureau local qui transforme les prompts en livrables de design prévisualisables, avec la possibilité de connecter un modèle au choix. | 8,265 | 146 | 2026-11-27 | 84.3 | MIT |
-| [GitHub Replica](https://github.com/github/replica) · ★référence utilisateur | Génère et fait itérer des prototypes interactifs via GitHub Copilot en réutilisant les composants, motifs et directives de design déjà présents dans l'équipe. | 388 | 137 | 2026-11-27 | 73.4 | MIT |
-| [fx0](https://github.com/vercel-labs/fx0) | Agent de design léger basé sur libfx qui itère en langage naturel et exporte des pages HTML mono-fichier. | 444 | 134 | 2026-11-18 | 71.3 | Apache-2.0 |
-| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | Agent de design de marque pour les équipes : reçoit ressources et exigences depuis Slack et livre des maquettes, des présentations ou du contenu animé. | 777 | 72 | 2026-11-23 | 71.3 | Apache-2.0 |
+| [OpenDesign](https://github.com/nexu-io/open-design) · ★référence utilisateur | Génère des prototypes respectant le design system via un coding agent local ou OpenDesign Cloud, puis les partage et les fait itérer dans l'espace de travail d'équipe. | 109,947 | 409 | 2026-11-27 | 98.6 | Apache-2.0 |
+| [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) | Agent de design de bureau local qui transforme les prompts en livrables de design prévisualisables, avec la possibilité de connecter un modèle au choix. | 8,270 | 150 | 2026-11-28 | 84.5 | MIT |
+| [GitHub Replica](https://github.com/github/replica) · ★référence utilisateur | Génère et fait itérer des prototypes interactifs via GitHub Copilot en réutilisant les composants, motifs et directives de design déjà présents dans l'équipe. | 397 | 151 | 2026-11-27 | 73.9 | MIT |
+| [fx0](https://github.com/vercel-labs/fx0) | Agent de design léger basé sur libfx qui itère en langage naturel et exporte des pages HTML mono-fichier. | 445 | 134 | 2026-11-18 | 71.1 | Apache-2.0 |
+| [LangChain Content Studio](https://github.com/langchain-ai/design-agent) | Agent de design de marque pour les équipes : reçoit ressources et exigences depuis Slack et livre des maquettes, des présentations ou du contenu animé. | 778 | 72 | 2026-11-23 | 71.0 | Apache-2.0 |
 
 ### Canvas éditables et conception vectorielle
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Penpot](https://github.com/penpot/penpot) | Plateforme de design collaborative auto-hébergeable offrant jetons de design, composants et interface MCP pour relier design et code. | 62,809 | 1,628 | 2026-11-27 | 98.4 | MPL-2.0 |
-| [OpenPencil (open-pencil)](https://github.com/open-pencil/open-pencil) | Éditeur de design programmable avec IA, CLI et MCP, capable d'ouvrir les fichiers .fig et .pen. | 10,151 | 1,611 | 2026-11-27 | 92.0 | MIT |
-| [OpenPencil (ZSeven-W)](https://github.com/ZSeven-W/openpencil) | Convertit le langage naturel en interfaces éditables sur le canvas, avec conception parallèle par plusieurs agents et opérations MCP. | 7,384 | 879 | 2026-11-25 | 90.3 | MIT |
-| [Onlook](https://github.com/onlook-dev/onlook) | Éditeur visuel local-first pour le code, où des agents existants comme Claude Code ou Codex travaillent directement dans le projet. | 27,995 | 47 | 2026-11-27 | 82.3 | Apache-2.0 |
-| [Velloo](https://github.com/velloo-design/velloo) | Permet aux coding agents d'explorer plusieurs directions sur un canvas local en réutilisant les composants de l'application existante, puis de réinjecter le design retenu dans l'application. | 10 | 252 | 2026-11-26 | 64.2 | Apache-2.0 |
+| [Penpot](https://github.com/penpot/penpot) | Plateforme de design collaborative auto-hébergeable offrant jetons de design, composants et interface MCP pour relier design et code. | 62,858 | 1,633 | 2026-11-27 | 98.1 | MPL-2.0 |
+| [OpenPencil (open-pencil)](https://github.com/open-pencil/open-pencil) | Éditeur de design programmable avec IA, CLI et MCP, capable d'ouvrir les fichiers .fig et .pen. | 10,161 | 1,630 | 2026-11-28 | 92.0 | MIT |
+| [OpenPencil (ZSeven-W)](https://github.com/ZSeven-W/openpencil) | Convertit le langage naturel en interfaces éditables sur le canvas, avec conception parallèle par plusieurs agents et opérations MCP. | 7,392 | 853 | 2026-11-25 | 90.1 | MIT |
+| [Onlook](https://github.com/onlook-dev/onlook) | Éditeur visuel local-first pour le code, où des agents existants comme Claude Code ou Codex travaillent directement dans le projet. | 28,025 | 49 | 2026-11-27 | 82.5 | Apache-2.0 |
+| [Velloo](https://github.com/velloo-design/velloo) | Permet aux coding agents d'explorer plusieurs directions sur un canvas local en réutilisant les composants de l'application existante, puis de réinjecter le design retenu dans l'application. | 10 | 252 | 2026-11-26 | 64.0 | Apache-2.0 |
 
 ### Skills de design front-end, motion et revue
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Impeccable](https://github.com/pbakaus/impeccable) | Commandes de vocabulaire de design, de polissage, de critique et de revue pour coding agents, afin d'itérer des interfaces existantes. | 117,779 | 2,234 | 2026-11-26 | 99.6 | Apache-2.0 |
-| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Agent Skill proposant style, palette, typographie et conseils de design system pour plusieurs stacks front-end. | 154,842 | 100 | 2026-11-27 | 90.9 | MIT |
-| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | Porte les Skills de design d'OpenDesign, ses design systems de marque et ses exemples pour un usage dans les coding agents. | 1,206 | 435 | 2026-11-26 | 83.6 | MIT |
-| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) · ★référence utilisateur | Skills d'UI et de motion pour designers et ingénieurs : choix du motion, revue et amélioration des performances. | 60,274 | 19 | 2026-11-15 | 77.0 | MIT |
-| [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) · Attention licence | Skill de design de logo allant du brief au SVG livrable et aux guidelines de marque, avec une bibliothèque de référence de plus de 1 400 logos réels, des règles de géométrie et de correction optique et des outils Python sans dépendances. | 7,913 | 32 | 2026-11-13 | 72.3 | MIT (code et skills) + bibliothèque de logos tiers sous marque déposée exclue |
-| [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better) | Skill d'agent pour les menus détails qui rendent une interface meilleure : animation, typographie, icônes, états de survol, alignement optique et rayons concentriques, installable d'une commande skills CLI. | 4,328 | 3 | 2026-11-18 | 59.4 | MIT |
-| [cc-skills](https://github.com/samber/cc-skills) | Collection transverse de skills d'agent chargées à la demande ; sa skill frontend-design-deslop retire le rendu générique « fait par IA » des interfaces web. | 306 | 14 | 2026-11-01 | 53.8 | MIT |
-| [Better Design](https://github.com/Moddingflow/better-design) | Un processus répétable de conception d'interface pour agents de codage : direction artistique propre au produit, DESIGN.md partagé, typographie et spécifications de contrôles mesurées, avec scripts de validation et une démo cliquable. | 94 | 9 | 2026-10-27 | 46.5 | MIT |
-| [Frontend AI Skills](https://github.com/JustineBijuPaul/frontend-ai-skills) | Skills front-end modulaires chargés à la demande, couvrant entre autres le motion, les interactions et l'accessibilité. | 12 | 86 | 2026-09-04 | 43.9 | MIT |
+| [Impeccable](https://github.com/pbakaus/impeccable) | Commandes de vocabulaire de design, de polissage, de critique et de revue pour coding agents, afin d'itérer des interfaces existantes. | 118,259 | 2,234 | 2026-11-26 | 99.3 | Apache-2.0 |
+| [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Agent Skill proposant style, palette, typographie et conseils de design system pour plusieurs stacks front-end. | 155,362 | 99 | 2026-11-27 | 90.6 | MIT |
+| [Open Design Agent Kit](https://github.com/feimacode/open-design-agent-kit) | Porte les Skills de design d'OpenDesign, ses design systems de marque et ses exemples pour un usage dans les coding agents. | 1,211 | 435 | 2026-11-26 | 83.3 | MIT |
+| [Emil Kowalski Skills](https://github.com/emilkowalski/skills) · ★référence utilisateur | Skills d'UI et de motion pour designers et ingénieurs : choix du motion, revue et amélioration des performances. | 60,711 | 19 | 2026-11-15 | 76.8 | MIT |
+| [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill) · Attention licence | Skill de design de logo allant du brief au SVG livrable et aux guidelines de marque, avec une bibliothèque de référence de plus de 1 400 logos réels, des règles de géométrie et de correction optique et des outils Python sans dépendances. | 7,963 | 32 | 2026-11-13 | 72.1 | MIT (code et skills) + bibliothèque de logos tiers sous marque déposée exclue |
+| [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better) | Skill d'agent pour les menus détails qui rendent une interface meilleure : animation, typographie, icônes, états de survol, alignement optique et rayons concentriques, installable d'une commande skills CLI. | 4,350 | 2 | 2026-11-18 | 57.6 | MIT |
+| [cc-skills](https://github.com/samber/cc-skills) | Collection transverse de skills d'agent chargées à la demande ; sa skill frontend-design-deslop retire le rendu générique « fait par IA » des interfaces web. | 335 | 13 | 2026-11-01 | 53.6 | MIT |
+| [Better Design](https://github.com/Moddingflow/better-design) | Un processus répétable de conception d'interface pour agents de codage : direction artistique propre au produit, DESIGN.md partagé, typographie et spécifications de contrôles mesurées, avec scripts de validation et une démo cliquable. | 102 | 9 | 2026-10-27 | 46.6 | MIT |
+| [Frontend AI Skills](https://github.com/JustineBijuPaul/frontend-ai-skills) | Skills front-end modulaires chargés à la demande, couvrant entre autres le motion, les interactions et l'accessibilité. | 12 | 86 | 2026-09-04 | 43.8 | MIT |
 
 ### Systèmes de design et DESIGN.md
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [StyleSeed](https://github.com/bitjaru/styleseed) | Construit un système de design de départ pour le produit (allure, palette, échelle typographique, espacement, rayon, motion), verrouille les décisions dans STYLESEED.md et des tokens CSS, puis fait tenir ces règles à un coding agent sur chaque écran grâce à 74 règles craft et à un garde-fou noté de 0 à 100. | 1,065 | 100 | 2026-11-27 | 75.1 | MIT |
-| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | Ensemble officiel de skills et de plugins pour Google Stitch, reliant les agents à son flux de design. | 13,435 | 22 | 2026-11-24 | 75.0 | Apache-2.0 |
-| [Google DESIGN.md](https://github.com/google-labs-code/design.md) | Spécification d'identité visuelle réunissant dans un même fichier les jetons de design lisibles par machine et les principes de design lisibles par les agents. | 29,171 | 9 | 2026-11-18 | 71.2 | Apache-2.0 |
-| [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | Rassemble des références DESIGN.md réutilisables pour donner aux agents le style de marque, la typographie, les couleurs et les conventions de composants. | 129,317 | 8 | 2026-10-28 | 70.3 | MIT |
-| [extract-design-system](https://github.com/arvindrk/extract-design-system) | Reconstitue les design tokens (couleurs, typographie, espacement, rayon, ombres) de n'importe quel site public et produit un tokens.json compatible W3C plus un fichier de propriétés personnalisées CSS. | 329 | 0 | 2026-06-19 | 24.3 | MIT |
+| [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills) | Ensemble officiel de skills et de plugins pour Google Stitch, reliant les agents à son flux de design. | 13,708 | 27 | 2026-11-28 | 76.8 | Apache-2.0 |
+| [StyleSeed](https://github.com/bitjaru/styleseed) | Construit un système de design de départ pour le produit (allure, palette, échelle typographique, espacement, rayon, motion), verrouille les décisions dans STYLESEED.md et des tokens CSS, puis fait tenir ces règles à un coding agent sur chaque écran grâce à 74 règles craft et à un garde-fou noté de 0 à 100. | 1,070 | 101 | 2026-11-28 | 75.2 | MIT |
+| [Google DESIGN.md](https://github.com/google-labs-code/design.md) | Spécification d'identité visuelle réunissant dans un même fichier les jetons de design lisibles par machine et les principes de design lisibles par les agents. | 29,194 | 9 | 2026-11-18 | 71.0 | Apache-2.0 |
+| [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) | Rassemble des références DESIGN.md réutilisables pour donner aux agents le style de marque, la typographie, les couleurs et les conventions de composants. | 129,510 | 8 | 2026-10-28 | 70.1 | MIT |
+| [extract-design-system](https://github.com/arvindrk/extract-design-system) | Reconstitue les design tokens (couleurs, typographie, espacement, rayon, ombres) de n'importe quel site public et produit un tokens.json compatible W3C plus un fichier de propriétés personnalisées CSS. | 339 | 0 | 2026-06-19 | 24.4 | MIT |
 
 ### Design-vers-code et ponts MCP
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Screenshot to Code](https://github.com/abi/screenshot-to-code) | Convertit captures d'écran, maquettes, designs Figma ou enregistrements d'écran en code d'interface à l'aide de modèles. | 81,464 | 6 | 2026-11-15 | 72.2 | MIT |
-| [Guide officiel MCP Figma](https://github.com/figma/mcp-server-guide) · Attention licence | Guide d'intégration officiel de Figma expliquant comment les agents obtiennent le contexte de design et quelques flux d'écriture à distance. | 2,241 | 30 | 2026-11-24 | 70.4 | Non confirmée |
-| [Framelink Figma MCP](https://github.com/GLips/Figma-Context-MCP) | Fournit aux coding agents le contexte de design des fichiers Figma pour les aider à implémenter les interfaces existantes. | 16,328 | 0 | 2026-06-24 | 38.1 | MIT |
-| [Talk to Figma MCP](https://github.com/grab/cursor-talk-to-figma-mcp) | Permet aux agents de lire et de modifier les designs Figma via un service MCP, un plugin Figma et un pont WebSocket. | 7,134 | 0 | 2026-07-26 | 37.1 | MIT |
+| [Screenshot to Code](https://github.com/abi/screenshot-to-code) | Convertit captures d'écran, maquettes, designs Figma ou enregistrements d'écran en code d'interface à l'aide de modèles. | 81,480 | 6 | 2026-11-15 | 71.9 | MIT |
+| [Guide officiel MCP Figma](https://github.com/figma/mcp-server-guide) · Attention licence | Guide d'intégration officiel de Figma expliquant comment les agents obtiennent le contexte de design et quelques flux d'écriture à distance. | 2,242 | 30 | 2026-11-24 | 70.1 | Non confirmée |
+| [Framelink Figma MCP](https://github.com/GLips/Figma-Context-MCP) | Fournit aux coding agents le contexte de design des fichiers Figma pour les aider à implémenter les interfaces existantes. | 16,331 | 0 | 2026-06-24 | 38.1 | MIT |
+| [Talk to Figma MCP](https://github.com/grab/cursor-talk-to-figma-mcp) | Permet aux agents de lire et de modifier les designs Figma via un service MCP, un plugin Figma et un pont WebSocket. | 7,134 | 0 | 2026-07-26 | 37.0 | MIT |
 
 ### Diagrammes et expression visuelle
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Diagram Design](https://github.com/cathrynlavery/diagram-design) · ★référence utilisateur | Produit des diagrammes d'architecture, de flux ou de données en HTML/SVG autonomes au style de la marque. | 74,193 | 368 | 2026-11-26 | 97.1 | MIT |
-| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | Offre un canvas Excalidraw en lecture-écriture, modifiant et sauvegardant les diagrammes via CLI, Skill ou MCP. | 2,693 | 33 | 2026-11-10 | 68.0 | MIT |
-| [Spotkit](https://github.com/Devesh-Shirsath/spotkit) | Skill Claude Code qui transforme une description de fonctionnalité en illustrations produit abstraites en SVG réel : elle détermine d'abord ce que fait la fonctionnalité et quelle relation elle exprime, puis choisit 2 à 5 primitives d'interface et une mise en page. | 148 | 33 | 2026-10-08 | 51.6 | MIT |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) · ★référence utilisateur | Produit des diagrammes d'architecture, de flux ou de données en HTML/SVG autonomes au style de la marque. | 74,655 | 367 | 2026-11-26 | 96.8 | MIT |
+| [Excalidraw MCP Server](https://github.com/yctimlin/mcp_excalidraw) | Offre un canvas Excalidraw en lecture-écriture, modifiant et sauvegardant les diagrammes via CLI, Skill ou MCP. | 2,695 | 33 | 2026-11-10 | 67.8 | MIT |
+| [Spotkit](https://github.com/Devesh-Shirsath/spotkit) | Skill Claude Code qui transforme une description de fonctionnalité en illustrations produit abstraites en SVG réel : elle détermine d'abord ce que fait la fonctionnalité et quelle relation elle exprime, puis choisit 2 à 5 primitives d'interface et une mise en page. | 161 | 33 | 2026-10-08 | 51.7 | MIT |
 
 ### Design graphique et images
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Vane GPT Image Skills](https://github.com/VaneAi888/vane-gpt-image-skills) | Collection de skills GPT Image incluant un concepteur d'affiches de cinéma à 36 compositions : il choisit la composition et la hiérarchie typographique selon l'ambiance, le scénario et les médias du film, puis livre un plan, un prompt prêt à copier ou une image réelle. | 1,561 | 51 | 2026-11-24 | 71.9 | MIT |
+| [Vane GPT Image Skills](https://github.com/VaneAi888/vane-gpt-image-skills) | Collection de skills GPT Image incluant un concepteur d'affiches de cinéma à 36 compositions : il choisit la composition et la hiérarchie typographique selon l'ambiance, le scénario et les médias du film, puis livre un plan, un prompt prêt à copier ou une image réelle. | 1,568 | 51 | 2026-11-24 | 71.6 | MIT |
 
 ### Présentations et conception de documents
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill) | Skill Claude Code qui reproduit le flux d'un studio de présentations haut de gamme : veille, collecte de sources, plan, scénario de slides, design HTML puis post-traitement en SVG et PPTX éditable, d'une phrase à un livrable. | 221 | 11 | 2026-11-18 | 55.4 | MIT |
+| [PPT Agent Skill](https://github.com/Akxan/ppt-agent-skill) | Skill Claude Code qui reproduit le flux d'un studio de présentations haut de gamme : veille, collecte de sources, plan, scénario de slides, design HTML puis post-traitement en SVG et PPTX éditable, d'une phrase à un livrable. | 234 | 11 | 2026-11-18 | 55.4 | MIT |
 
 ### Articles, benchmarks et jeux de données
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [DesignBench](https://github.com/WebPAI/DesignBench) · Attention licence | Benchmark de recherche évaluant la génération, l'édition et la réparation de code front-end dans plusieurs frameworks. | 61 | 0 | 2026-07-27 | 20.7 | Non confirmée |
+| [DesignBench](https://github.com/WebPAI/DesignBench) · Attention licence | Benchmark de recherche évaluant la génération, l'édition et la réparation de code front-end dans plusieurs frameworks. | 61 | 0 | 2026-07-27 | 20.6 | Non confirmée |
 | [Design2Code](https://github.com/NoviScl/Design2Code) | Benchmark de capture-d'écran-vers-code sur des pages web réelles, avec jeu de données et outils d'évaluation automatique. | 605 | 0 | 2024-11-02 | 22.3 | MIT |
 | [WebDesignAgent](https://github.com/DAMO-NLP-SG/WebDesignAgent) | Prototype de recherche de génération de sites web illustrant un flux de design piloté par la description, les gabarits de référence, les images et les retours. | 267 | 0 | 2024-09-20 | 19.4 | Apache-2.0 |
 
@@ -137,8 +137,8 @@ N'affiche que les candidats principaux, à licence ouverte vérifiée, avec un c
 
 | Projet | Positionnement | Étoiles | Commits 90 j | Dernier commit UTC | Score de maintenance | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SuperDesign IDE (hérité)](https://github.com/superdesigndev/superdesign) · Archivé/historique · Attention licence | Extension IDE de design d'interfaces conservant le code ouvert d'origine ; le produit homonyme actuel est devenu une application web. | 7,651 | 0 | 2026-06-29 | 35.7 | AGPL-3.0 + conditions commerciales |
-| [Penpot MCP (archivé)](https://github.com/penpot/penpot-mcp) · Archivé/historique | Le contenu de l'ancien dépôt autonome a été fusionné dans le répertoire mcp du dépôt principal de Penpot. | 537 | 0 | 2026-03-19 | 23.4 | MPL-2.0 |
+| [SuperDesign IDE (hérité)](https://github.com/superdesigndev/superdesign) · Archivé/historique · Attention licence | Extension IDE de design d'interfaces conservant le code ouvert d'origine ; le produit homonyme actuel est devenu une application web. | 7,652 | 0 | 2026-06-29 | 35.7 | AGPL-3.0 + conditions commerciales |
+| [Penpot MCP (archivé)](https://github.com/penpot/penpot-mcp) · Archivé/historique | Le contenu de l'ancien dépôt autonome a été fusionné dans le répertoire mcp du dépôt principal de Penpot. | 537 | 0 | 2026-03-19 | 23.3 | MPL-2.0 |
 
 ## Comment choisir
 

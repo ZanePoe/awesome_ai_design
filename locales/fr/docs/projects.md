@@ -9,7 +9,7 @@ Génère des prototypes respectant le design system via un coding agent local ou
 
 - Catégorie : Agents de design et ateliers de prototypage ; Candidat principal.
 - Périmètre d'application : Considérez séparément le flux local, le Cloud hébergé et l'offre Go ; les conditions des modèles, gabarits et ressources de marque comptent à part.
-- État de maintenance : Commits sur les 90 derniers jours ; 82 commits sur 30 jours, 412 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 62 commits sur 30 jours, 409 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L30) · [Source2](https://github.com/nexu-io/open-design/blob/23812a9d081945704e5e1cdd63b41f653c208d9a/README.md#L105).
 
@@ -19,7 +19,7 @@ Agent de design de bureau local qui transforme les prompts en livrables de desig
 
 - Catégorie : Agents de design et ateliers de prototypage ; Candidat principal.
 - Périmètre d'application : Un espace de travail local ne signifie pas une inférence entièrement hors ligne ; les formats de sortie et les capacités varient selon le modèle et la version publiée.
-- État de maintenance : Commits sur les 90 derniers jours ; 22 commits sur 30 jours, 146 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 25 commits sur 30 jours, 150 commits sur 90 jours.
 - Licence : [MIT](https://github.com/OpenCoworkAI/open-codesign/blob/1779bb5b0f15c734ff8ba06e2eb2463b5578e5b6/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/OpenCoworkAI/open-codesign/blob/1779bb5b0f15c734ff8ba06e2eb2463b5578e5b6/README.md#L7).
 
@@ -29,7 +29,7 @@ Génère et fait itérer des prototypes interactifs via GitHub Copilot en réuti
 
 - Catégorie : Agents de design et ateliers de prototypage ; Candidat principal.
 - Périmètre d'application : Le flux local dépend de l'application GitHub Copilot, de Git et de Node.js, avec macOS/Linux listés officiellement ; le Replica Hub optionnel est hébergé par l'équipe.
-- État de maintenance : Commits sur les 90 derniers jours ; 82 commits sur 30 jours, 137 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 95 commits sur 30 jours, 151 commits sur 90 jours.
 - Licence : [MIT](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/LICENSE) ; Licence ouverte vérifiée. MIT couvre le code propre au projet ; le NOTICE.md racine liste la licence SIL OFL 1.1 de polices comme Mona Sans.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L7) · [Source2](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/README.md#L53) · [Source3](https://github.com/github/replica/blob/f468721924f63d885343acf61076dacb3c3dafc0/NOTICE.md#L3).
 
@@ -39,7 +39,7 @@ Agent de design léger basé sur libfx qui itère en langage naturel et exporte 
 
 - Catégorie : Agents de design et ateliers de prototypage ; Candidat principal.
 - Périmètre d'application : La voie de déploiement officielle implique Vercel et AI Gateway ; un livrable mono-fichier n'équivaut pas à une base de code produit complète.
-- État de maintenance : Commits sur les 90 derniers jours ; 40 commits sur 30 jours, 134 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 39 commits sur 30 jours, 134 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/vercel-labs/fx0/blob/ebc177ea055c863f6da50bfe4241fc8381a6b0c8/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/vercel-labs/fx0/blob/ebc177ea055c863f6da50bfe4241fc8381a6b0c8/README.md#L3).
 
@@ -59,7 +59,7 @@ Plateforme de design collaborative auto-hébergeable offrant jetons de design, c
 
 - Catégorie : Canvas éditables et conception vectorielle ; Candidat principal.
 - Périmètre d'application : L'éditeur s'utilise seul ; MCP est une capacité d'intégration, pas un modèle génératif intégré.
-- État de maintenance : Commits sur les 90 derniers jours ; 662 commits sur 30 jours, 1628 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 655 commits sur 30 jours, 1633 commits sur 90 jours.
 - Licence : [MPL-2.0](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/penpot/penpot/blob/14abaf93f4ec220970b07e85e915446e7a11150d/README.md#L47).
 
@@ -69,7 +69,7 @@ Plateforme de design collaborative auto-hébergeable offrant jetons de design, c
 
 - Catégorie : Canvas éditables et conception vectorielle ; Candidat principal.
 - Périmètre d'application : Encore en développement ; la fidélité des nœuds, des polices et des allers-retours fichiers doit être vérifiée sur des fichiers réels ; ce n'est pas le dépôt homonyme de ZSeven-W.
-- État de maintenance : Commits sur les 90 derniers jours ; 650 commits sur 30 jours, 1611 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 679 commits sur 30 jours, 1630 commits sur 90 jours.
 - Licence : [MIT](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/open-pencil/open-pencil/blob/82e3d6ad5e94a6017c1b55f4fc61c58803063644/README.md#L9).
 
@@ -79,7 +79,7 @@ Convertit le langage naturel en interfaces éditables sur le canvas, avec concep
 
 - Catégorie : Canvas éditables et conception vectorielle ; Candidat principal.
 - Périmètre d'application : La connexion des modèles et l'export vers les frameworks sont à vérifier point par point ; dépôt indépendant dont les métriques ne sont pas fusionnées avec celles de open-pencil.
-- État de maintenance : Commits sur les 90 derniers jours ; 209 commits sur 30 jours, 879 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 208 commits sur 30 jours, 853 commits sur 90 jours.
 - Licence : [MIT](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/ZSeven-W/openpencil/blob/2bbc658caba5139cdfeb768b65da7f6f0080a703/README.md#L44).
 
@@ -89,7 +89,7 @@ Convertit le langage naturel en interfaces éditables sur le canvas, avec concep
 
 - Catégorie : Canvas éditables et conception vectorielle ; Candidat principal.
 - Périmètre d'application : N'embarque pas de modèle propre ; la licence du code ne couvre pas certaines ressources de marque, polices et actifs tiers présents dans le dépôt.
-- État de maintenance : Commits sur les 90 derniers jours ; 47 commits sur 30 jours, 47 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 49 commits sur 30 jours, 49 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/onlook-dev/onlook/blob/7b17f48c59adb7ac4ec30a6982e4971f22846c2b/LICENSE) ; Licence ouverte vérifiée. Apache-2.0 couvre le code source, mais le README et NOTICE précisent que certaines polices, logos et images ne relèvent pas de cette licence.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/onlook-dev/onlook/blob/7b17f48c59adb7ac4ec30a6982e4971f22846c2b/README.md#L45) · [Source2](https://github.com/onlook-dev/onlook/blob/7b17f48c59adb7ac4ec30a6982e4971f22846c2b/README.md#L148).
 
@@ -99,7 +99,7 @@ Permet aux coding agents d'explorer plusieurs directions sur un canvas local en 
 
 - Catégorie : Canvas éditables et conception vectorielle ; Candidat principal.
 - Périmètre d'application : Viser surtout l'itération de design d'applications existantes ; le support multi-framework et l'effet réel de la réécriture n'ont pas été testés.
-- État de maintenance : Commits sur les 90 derniers jours ; 39 commits sur 30 jours, 252 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 38 commits sur 30 jours, 252 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/velloo-design/velloo/blob/8c1f140049bcc1db4e1d6d5c578eddcd2ef74e4a/README.md#L12).
 
@@ -109,7 +109,7 @@ Commandes de vocabulaire de design, de polissage, de critique et de revue pour c
 
 - Catégorie : Skills de design front-end, motion et revue ; Candidat principal.
 - Périmètre d'application : Les consignes et vérifications du Skill ne remplacent pas une revue de design humaine ni une certification d'accessibilité.
-- État de maintenance : Commits sur les 90 derniers jours ; 1296 commits sur 30 jours, 2234 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 1290 commits sur 30 jours, 2234 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/pbakaus/impeccable/blob/d41d9860b0094dcb68030657da63461212835aaa/README.md#L3).
 
@@ -119,7 +119,7 @@ Agent Skill proposant style, palette, typographie et conseils de design system p
 
 - Catégorie : Skills de design front-end, motion et revue ; Candidat principal.
 - Périmètre d'application : Les règles et les résultats générés constituent un point de départ ; l'accessibilité et l'implémentation finale restent à tester.
-- État de maintenance : Commits sur les 90 derniers jours ; 44 commits sur 30 jours, 100 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 44 commits sur 30 jours, 99 commits sur 90 jours.
 - Licence : [MIT](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/7436a6e0b6dc3add7c12d5b6ef1ccd3d410dd7fd/README.md#L30).
 
@@ -129,7 +129,7 @@ Porte les Skills de design d'OpenDesign, ses design systems de marque et ses exe
 
 - Catégorie : Skills de design front-end, motion et revue ; Candidat principal.
 - Périmètre d'application : Ce n'est pas l'application de bureau OpenDesign ; les exemples, les ressources de marque et les résultats générés sont à vérifier selon leurs conditions d'usage propres.
-- État de maintenance : Commits sur les 90 derniers jours ; 221 commits sur 30 jours, 435 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 220 commits sur 30 jours, 435 commits sur 90 jours.
 - Licence : [MIT](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/feimacode/open-design-agent-kit/blob/1b3832c3452720f028a96b1bdab805ecc1aa3213/README.md#L7).
 
@@ -139,7 +139,7 @@ Skills d'UI et de motion pour designers et ingénieurs : choix du motion, revue 
 
 - Catégorie : Skills de design front-end, motion et revue ; Candidat principal.
 - Périmètre d'application : Les règles viennent de la pratique design-engineering de l'auteur ; croisez-les avec des tests utilisateurs, la préférence de réduction des animations et le comportement sur de vrais appareils.
-- État de maintenance : Commits sur les 90 derniers jours ; 12 commits sur 30 jours, 19 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 11 commits sur 30 jours, 19 commits sur 90 jours.
 - Licence : [MIT](https://github.com/emilkowalski/skills/blob/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/emilkowalski/skills/blob/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c/README.md#L11) · [Source2](https://github.com/emilkowalski/skills/blob/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c/README.md#L45).
 
@@ -159,7 +159,7 @@ Skill d'agent pour les menus détails qui rendent une interface meilleure : anim
 
 - Catégorie : Skills de design front-end, motion et revue ; Candidat principal.
 - Périmètre d'application : Elle apporte des règles et listes de détails, pas les décisions de mise en page ni d'architecture de l'information ; les effets doivent être vérifiés dans de vrais navigateurs, au clavier et avec des technologies d'assistance ; l'auteur ne publie aucun chiffre de benchmark.
-- État de maintenance : Commits sur les 90 derniers jours ; 2 commits sur 30 jours, 3 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 2 commits sur 30 jours, 2 commits sur 90 jours.
 - Licence : [MIT](https://github.com/jakubkrehel/make-interfaces-feel-better/blob/6d9f2f1df10e8ce2ae1708598a73b0506fb98794/LICENSE) ; Licence ouverte vérifiée. La LICENSE racine est MIT ; les ressources externes, polices et médias d'exemple cités par SKILL.md suivent leurs propres conditions.
 - Vérification fonctionnelle : 2026-11-26 ; [Source1](https://github.com/jakubkrehel/make-interfaces-feel-better/blob/6d9f2f1df10e8ce2ae1708598a73b0506fb98794/README.md#L7) · [Source2](https://github.com/jakubkrehel/make-interfaces-feel-better/blob/6d9f2f1df10e8ce2ae1708598a73b0506fb98794/README.md#L9) · [Source3](https://github.com/jakubkrehel/make-interfaces-feel-better/blob/6d9f2f1df10e8ce2ae1708598a73b0506fb98794/README.md#L14).
 
@@ -169,7 +169,7 @@ Collection transverse de skills d'agent chargées à la demande ; sa skill front
 
 - Catégorie : Skills de design front-end, motion et revue ; Candidat principal.
 - Périmètre d'application : Le design n'est qu'un fil parmi la rédaction, Git, la recherche approfondie et l'analyse de sécurité ; les -28 % affichés dans le README sont des évaluations de l'auteur, pas reproduites de façon indépendante ; les skills Go vivent dans le dépôt séparé cc-skills-golang.
-- État de maintenance : Commits sur les 90 derniers jours ; 2 commits sur 30 jours, 14 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 2 commits sur 30 jours, 13 commits sur 90 jours.
 - Licence : [MIT](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/LICENSE) ; Licence ouverte vérifiée. La LICENSE racine est MIT ; les sites, polices et médias cités par chaque skill restent sous leurs propres conditions.
 - Vérification fonctionnelle : 2026-11-26 ; [Source1](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L3) · [Source2](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L20) · [Source3](https://github.com/samber/cc-skills/blob/50a33836b20f690c668af557bd9ef9d07a8c7ef2/README.md#L229).
 
@@ -193,25 +193,25 @@ Skills front-end modulaires chargés à la demande, couvrant entre autres le mot
 - Licence : [MIT](https://github.com/JustineBijuPaul/frontend-ai-skills/blob/f52d23c5b8f51caefccb97ea2bc88f6db7bc6120/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/JustineBijuPaul/frontend-ai-skills/blob/f52d23c5b8f51caefccb97ea2bc88f6db7bc6120/README.md#L5).
 
-## [StyleSeed](https://github.com/bitjaru/styleseed)
-
-Construit un système de design de départ pour le produit (allure, palette, échelle typographique, espacement, rayon, motion), verrouille les décisions dans STYLESEED.md et des tokens CSS, puis fait tenir ces règles à un coding agent sur chaque écran grâce à 74 règles craft et à un garde-fou noté de 0 à 100.
-
-- Catégorie : Systèmes de design et DESIGN.md ; Candidat principal.
-- Périmètre d'application : L'objectif annoncé de l'auteur est l'application répétable d'un jugement d'expert, pas la revendication d'un rendu déjà au niveau expert, et le score ne remplace pas l'acceptation humaine du design ; les +5,3 points proviennent de 120 cellules de benchmark rendues par le projet lui-même (Codex et Claude Code mesurés séparément ; les règles seules étaient irrégulières), pas d'un benchmark tiers ; l'installation passe par npx skills add et demande Node.js/npm ; le skill central n'embarque aucune dépendance d'exécution, tandis que THIRD_PARTY.md liste les composants de build et de vérification avec versions et licences.
-- État de maintenance : Commits sur les 90 derniers jours ; 51 commits sur 30 jours, 100 commits sur 90 jours.
-- Licence : [MIT](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE) ; Licence ouverte vérifiée. La LICENSE racine est MIT ; THIRD_PARTY.md détaille les composants de build et de vérification (Playwright et TypeScript en Apache-2.0, lucide-react en ISC, le reste en MIT), il faut donc conserver chaque mention lors de la redistribution.
-- Vérification fonctionnelle : 2026-11-26 ; [Source1](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7) · [Source2](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22) · [Source3](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88) · [Source4](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216).
-
 ## [Stitch Design Skills](https://github.com/google-labs-code/stitch-skills)
 
 Ensemble officiel de skills et de plugins pour Google Stitch, reliant les agents à son flux de design.
 
 - Catégorie : Systèmes de design et DESIGN.md ; Infrastructure adjacente.
 - Périmètre d'application : Ce qui est open source, ce sont les skills et les plugins ; les capacités du service Stitch, le compte et l'usage suivent ses conditions de service.
-- État de maintenance : Commits sur les 90 derniers jours ; 22 commits sur 30 jours, 22 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 27 commits sur 30 jours, 27 commits sur 90 jours.
 - Licence : [Apache-2.0](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/google-labs-code/stitch-skills/blob/4cf4db8e4143b09e40f9bc887429d81f41ab3947/README.md#L3).
+
+## [StyleSeed](https://github.com/bitjaru/styleseed)
+
+Construit un système de design de départ pour le produit (allure, palette, échelle typographique, espacement, rayon, motion), verrouille les décisions dans STYLESEED.md et des tokens CSS, puis fait tenir ces règles à un coding agent sur chaque écran grâce à 74 règles craft et à un garde-fou noté de 0 à 100.
+
+- Catégorie : Systèmes de design et DESIGN.md ; Candidat principal.
+- Périmètre d'application : L'objectif annoncé de l'auteur est l'application répétable d'un jugement d'expert, pas la revendication d'un rendu déjà au niveau expert, et le score ne remplace pas l'acceptation humaine du design ; les +5,3 points proviennent de 120 cellules de benchmark rendues par le projet lui-même (Codex et Claude Code mesurés séparément ; les règles seules étaient irrégulières), pas d'un benchmark tiers ; l'installation passe par npx skills add et demande Node.js/npm ; le skill central n'embarque aucune dépendance d'exécution, tandis que THIRD_PARTY.md liste les composants de build et de vérification avec versions et licences.
+- État de maintenance : Commits sur les 90 derniers jours ; 52 commits sur 30 jours, 101 commits sur 90 jours.
+- Licence : [MIT](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/LICENSE) ; Licence ouverte vérifiée. La LICENSE racine est MIT ; THIRD_PARTY.md détaille les composants de build et de vérification (Playwright et TypeScript en Apache-2.0, lucide-react en ISC, le reste en MIT), il faut donc conserver chaque mention lors de la redistribution.
+- Vérification fonctionnelle : 2026-11-26 ; [Source1](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L7) · [Source2](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L22) · [Source3](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L88) · [Source4](https://github.com/bitjaru/styleseed/blob/6963076194fdefd84933d87a1a4d282fdd0a7b0f/README.md#L216).
 
 ## [Google DESIGN.md](https://github.com/google-labs-code/design.md)
 
@@ -229,7 +229,7 @@ Rassemble des références DESIGN.md réutilisables pour donner aux agents le st
 
 - Catégorie : Systèmes de design et DESIGN.md ; Infrastructure adjacente.
 - Périmètre d'application : C'est un ensemble de références, pas un générateur ; les logos de marque, polices et autres droits tiers ne sont pas couverts par la licence MIT du dépôt.
-- État de maintenance : Commits sur les 90 derniers jours ; 3 commits sur 30 jours, 8 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 0 commits sur 30 jours, 8 commits sur 90 jours.
 - Licence : [MIT](https://github.com/VoltAgent/awesome-design-md/blob/fcc70284932276d085f01ef9f83edde90b1258cb/LICENSE) ; Licence ouverte vérifiée. Fichier de licence du dépôt vérifié ; les ressources, polices et données tierces ainsi que les services hébergés ne sont pas automatiquement concédés par la licence du code.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/VoltAgent/awesome-design-md/blob/fcc70284932276d085f01ef9f83edde90b1258cb/README.md#L30).
 
@@ -259,7 +259,7 @@ Guide d'intégration officiel de Figma expliquant comment les agents obtiennent 
 
 - Catégorie : Design-vers-code et ponts MCP ; Infrastructure adjacente.
 - Périmètre d'application : Le dépôt est de la documentation, pas un service auto-hébergeable ; lecture, écriture, sièges et limites de débit diffèrent.
-- État de maintenance : Commits sur les 90 derniers jours ; 9 commits sur 30 jours, 30 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 8 commits sur 30 jours, 30 commits sur 90 jours.
 - Licence : [Non confirmée](https://github.com/figma/mcp-server-guide/blob/490a73c7537123cb1f0bcaced658585f0ee32fd9/README.md) ; Licence à vérifier. Licence non confirmée à la racine du dépôt ; inclus comme référence publique, sans que cela accorde un droit de réutilisation.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/figma/mcp-server-guide/blob/490a73c7537123cb1f0bcaced658585f0ee32fd9/README.md#L3).
 
@@ -289,7 +289,7 @@ Produit des diagrammes d'architecture, de flux ou de données en HTML/SVG autono
 
 - Catégorie : Diagrammes et expression visuelle ; Candidat principal.
 - Périmètre d'application : C'est un Agent Skill ; les droits sur les fichiers importés, les dépendances tierces et l'accessibilité sont à vérifier séparément.
-- État de maintenance : Commits sur les 90 derniers jours ; 90 commits sur 30 jours, 368 commits sur 90 jours.
+- État de maintenance : Commits sur les 90 derniers jours ; 90 commits sur 30 jours, 367 commits sur 90 jours.
 - Licence : [MIT](https://github.com/cathrynlavery/diagram-design/blob/f6db0decea96de66b901331a0f79a8d4b147ebae/LICENSE) ; Licence ouverte vérifiée. MIT pour le code propre au projet ; voir THIRD_PARTY_LICENSES.md pour les dépendances incluses.
 - Vérification fonctionnelle : 2026-11-18 ; [Source1](https://github.com/cathrynlavery/diagram-design/blob/f6db0decea96de66b901331a0f79a8d4b147ebae/README.md#L10) · [Source2](https://github.com/cathrynlavery/diagram-design/blob/f6db0decea96de66b901331a0f79a8d4b147ebae/README.md#L51).
 
